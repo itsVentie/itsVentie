@@ -4,7 +4,7 @@
 # 𖤓 Ventie Ravelle
 `Security Engineer / Full-stack / Digital Forensics`
 <br />
-<img src="https://i.pinimg.com/originals/75/92/ca/7592caa5f9427c5bbca07deefd4208f4.gif" width="160" height="160" style="border-radius: 50%; border: 2px solid #333; box-shadow: 0 0 20px rgba(255,255,255,0.1);" />
+<img src="https://i.pinimg.com/originals/75/92/ca/7592caa5f9427c5bbca07deefd4208f4.gif" />
 
 ---
 
