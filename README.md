@@ -3,8 +3,10 @@
 
 # 𖤓 Ventie Ravelle
 `Security Engineer / Full-stack / Digital Forensics`
-<br />
-<img src="https://i.pinimg.com/originals/75/92/ca/7592caa5f9427c5bbca07deefd4208f4.gif" />
+
+---
+
+<img src="https://i.pinimg.com/originals/75/92/ca/7592caa5f9427c5bbca07deefd4208f4.gif" width="100%" style="max-height: 200px; object-fit: cover; border-top: 1px solid #333; border-bottom: 1px solid #333; opacity: 0.8;" />
 
 ---
 
