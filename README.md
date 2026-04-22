@@ -39,9 +39,7 @@ Remote-Only
 
 ### ⌈ Connect ⌋
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ventie) 
-<br />
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/939851605111631903) 
-<br />
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ventie.dev)
 
 Good Luck.
