@@ -25,7 +25,6 @@
 **Systems** • Architecture, Cryptography, Network Security
 <br />
 **Design** • Dark Minimalist, Glassmorphism  
-<br />
 **Logic** • Concurrent Computing, Performance Optimization, Algorithm Engineering
 
 
