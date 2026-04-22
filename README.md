@@ -32,6 +32,7 @@
 
 ### ⌈ Status ⌋
 Available for collaboration
+<br />
 Remote-Only
 
 ---
