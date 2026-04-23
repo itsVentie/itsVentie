@@ -41,7 +41,7 @@ Remote-Only
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://t.me/ventie">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -55,7 +55,7 @@ Remote-Only
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://www.tiktok.com/@TheVentie">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
@@ -69,7 +69,7 @@ Remote-Only
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://tryhackme.com/p/Ventie">
     <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
