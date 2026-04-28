@@ -2,7 +2,7 @@
 
 
 # 𖤓 Ventie Ravelle 𖤓 
-`Security Engineer / Full-stack / Digital Forensics`
+`Security Engineer / Full-stack / DFIR`
 
 ---
 
