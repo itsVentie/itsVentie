@@ -77,7 +77,7 @@
   - Id: `939851605111631903`(Vyntiq)
   - Community: [Join](https://discord.gg/JjcTWnr8rm)
 * **Steam:** [id/itsVentie](https://steamcommunity.com/id/itsVentie/)
-* **
 
 ---
+
 `EOF`
