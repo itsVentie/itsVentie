@@ -18,9 +18,13 @@
 
 **Low-Level & System Engineering**
 * **Go:** High-concurrency patterns, Goroutines optimization, `net/http`, `CGO`, Custom Tooling.
-* **C++:** Memory management, STL, Pointer arithmetic, Socket programming, WinAPI/POSIX.
+* **C++/C:** Memory management, STL, Pointer arithmetic, Socket programming, WinAPI/POSIX.
 * **C#:** .NET Internals, Asynchronous programming, Entity Framework, WinForms/WPF for tooling.
 * **Rust:** Memory safety principles, Ownership model, Cargo ecosystem (Learning phase).
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,cpp,c,cs,rust&theme=dark" alt="stack icons" />
+</p>
 
 **Security & Offensive Operations**
 * **Vulnerability Research:** Memory corruption, Logic flaws, OWASP Top 10, Proof-of-Concept (PoC) development.
@@ -44,6 +48,10 @@
 * **Protocols:** gRPC (Protobuf), WebSockets (Real-time sync), RESTful APIs, GraphQL.
 * **Databases:** PostgreSQL (Relational/Optimization), Redis (In-memory/Pub-Sub), Supabase (BaaS).
 * **Frontend:** React, Next.js (SSR/ISR), Tailwind CSS, Zustand (State Management), Vite.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,py,postgresql,redis,docker&theme=dark" alt="stack icons" />
+</p>
+
 
 ---
 
