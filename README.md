@@ -6,7 +6,7 @@
 
 ### ⌈ Identity ⌋
 * **Type:** INFJ-A (The Advocate)
-* **Enneagram:** 4w5 (The Free spirit)
+* **Enneagram:** 4w5 (The Free Spirit)
 * **Temperament:** Melancholic-Choleric
 * **Philosophy:** Digital Sovereignty / Privacy / Comfort
 * **Chess Elo:** 2300+
@@ -74,7 +74,7 @@
 * **Company(Future):** [fueki.cc](https://fueki.cc)
 * **Telegram:** [@ventie](https://t.me/ventie)
 * **Discord:**
-  - Id: `939851605111631903`(Vyntiq)
+  - Id: `939851605111631903` (Vyntiq)
   - Community: [Join](https://discord.gg/JjcTWnr8rm)
 * **Steam:** [id/itsVentie](https://steamcommunity.com/id/itsVentie/)
 
