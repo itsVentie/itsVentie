@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/75/92/ca/7592caa5f9427c5bbca07deefd4208f4.gif" width="100%" style="max-height: 200px; object-fit: cover; border-top: 1px solid #333; border-bottom: 1px solid #333; opacity: 0.8;" />
 
 ### ⌈ Identity ⌋
-* **Type:** INFJ-A (The Advocate)
+* **Type:** INFJ-T (The Advocate)
 * **Enneagram:** 4w5 (The Free Spirit)
 * **Temperament:** Melancholic-Choleric
 * **Philosophy:** Digital Sovereignty / Privacy / Comfort
