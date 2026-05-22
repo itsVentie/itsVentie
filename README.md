@@ -9,6 +9,8 @@
 * **Enneagram:** 4w5 (The Free Spirit)
 * **Temperament:** Melancholic-Choleric
 * **Philosophy:** Digital Sovereignty / Privacy / Comfort
+* **Creed:** Protestant
+* **Class:** Purple Team
 * **Chess Elo:** 2300+
 * **Shogi:** 5 Kyu
 
