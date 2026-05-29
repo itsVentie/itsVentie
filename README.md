@@ -2,8 +2,6 @@
 `DevSecOps / DFIR • R&D / Independent`
 
 ---
-<img src="https://i.pinimg.com/originals/75/92/ca/7592caa5f9427c5bbca07deefd4208f4.gif" width="100%" style="max-height: 200px; object-fit: cover; border-top: 1px solid #333; border-bottom: 1px solid #333; opacity: 0.8;" />
-
 ### ⌈ Identity ⌋
 * **Age:** 18+
 * **Phone:** `+33756915757`
@@ -125,10 +123,4 @@
 * **Steam:** [id/itsVentie](http://steamcommunity.com/id/itsventie)
 
 ---
-
-> Don't mess with anyone. I don't initiate conflicts and expect the same. Don't sell anything. Open for research, teaming, projects, CTFs and technical discussions.
-> 
-> No affiliation with doxing, swatting or destructive "drainer" scenes.  
-> Research purposes only. Strictly no involvement in illegal activities.
-
 `EOF`
