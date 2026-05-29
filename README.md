@@ -63,10 +63,6 @@
 * **Frontend:** React, Next.js (SSR/ISR), Tailwind CSS, Zustand (State Management), Vite.
 * **Desktop Engines:** Wails, Tauri.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,postgres,redis,supabase,tailwind,graphql,vite&theme=dark" alt="web icons" />
-</p>
-
 ---
 
 ### ⌈ Toolchain & Environment ⌋
@@ -80,11 +76,6 @@
 * **Utility & Translation:** DeepL
 * **Audio & Stream:** Tauon Music Box, AIMP, YouTube Music, Spotify
 * **Comms:** Telegram, Discord, Matrix, Slack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,sublime,postman,discord&theme=dark" alt="toolchain icons" />
-</p>
-
 
 ---
 
@@ -107,13 +98,7 @@
 
 ---
 
-### ⌈ Projects & Contact ⌋
-
-**Active R&D Projects**
-* **Liora** — Sovereign messenger
-* **ChessView** — Chess platform
-* *Other R&D assets are classified and not subject to disclosure.*
-
+### ⌈ Contact ⌋
 **Links**
 * **Website:** [ventie.dev](https://ventie.dev)
 * **Company (Future):** [fueki.cc](https://fueki.cc)
