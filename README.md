@@ -15,7 +15,7 @@
 
 ### ⌈ Core Competencies ⌋
 
-* **Low-Level:** Go (Expert), C/C++, C#, Rust (Learning).
+* **Low-Level:** Go, C/C++, C#, Rust.
 * **Security:** Vulnerability Research, Red Teaming (AD/PrivEsc), Applied Crypto, DFIR (Memory/FS/Network).
 * **Infrastructure:** AWS/GCP, Linux/Windows Hardening, Docker/K8s, CI/CD.
 * **Architecture:** High-concurrency backends, gRPC, PostgreSQL/Redis optimization, Wails/Tauri.
