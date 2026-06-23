@@ -1,4 +1,4 @@
-`DevSecOps / DFIR / Systems Research`
+`DevSecOps / CyberSecurity`
 
 ---
 
@@ -16,14 +16,13 @@
 
 ---
 
-## ⌈ Identity ⌋
-- INFJ-T • 4w5
-- Adult 
+## Identity 
+- Adult
 - purple team 
 
 ---
 
-## ⌈ Metrics ⌋
+## Metrics 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 24px;">
 
@@ -41,7 +40,7 @@
 
 ---
 
-## ⌈ Contact ⌋
+## Contact 
 
 <p align="center">
 
