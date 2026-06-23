@@ -10,19 +10,16 @@
 
 ## ✦ 
 - systems / security / backend engineering  
-- DevSecOps & DFIR focused development  
-- privacy-first architecture mindset  
-- building stable, quiet, reliable systems  
-- a bit curious about how things break  
+- DevSecOps & DFIR focused development 
+- privacy-first architecture
+- a bit curious 
 
 ---
 
 ## ⌈ Identity ⌋
-- INFJ-T • 4w5 • calm analytical mindset  
-- privacy & digital sovereignty oriented  
-- purple team perspective (defense + understanding)  
-- chess Elo: 2300+  
-- shogi: 5 kyu  
+- INFJ-T • 4w5
+- Adult 
+- purple team 
 
 ---
 
