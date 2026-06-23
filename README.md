@@ -1,41 +1,67 @@
-# 𖤓 Ventie Ravelle 𖤓
-
-`DevSecOps / DFIR / R&D`
+`DevSecOps / DFIR / Systems Research`
 
 ---
 
-### ⌈ Profile ⌋
+<p align="center">
+  <a href="https://ventie.dev">
+    <img src="https://i.pinimg.com/originals/32/28/db/3228db284a435b9e3562e8f4a82e5351.gif" />
+  </a>
+</p>
 
-* **Role:** Purple Team / Security Engineer
-* **Location:** France (CET/CEST)
-* **Languages:** RU, UA, EN, FR, ES
-* **Philosophy:** Digital Sovereignty & Privacy
-
----
-
-### ⌈ Core Competencies ⌋
-
-* **Low-Level:** Go, C/C++, C#, Rust.
-* **Security:** Vulnerability Research, Red Teaming (AD/PrivEsc), Applied Crypto, DFIR (Memory/FS/Network).
-* **Infrastructure:** AWS/GCP, Linux/Windows Hardening, Docker/K8s, CI/CD.
-* **Architecture:** High-concurrency backends, gRPC, PostgreSQL/Redis optimization, Wails/Tauri.
+## ✦ 
+- systems / security / backend engineering  
+- DevSecOps & DFIR focused development  
+- privacy-first architecture mindset  
+- building stable, quiet, reliable systems  
+- a bit curious about how things break  
 
 ---
 
-### ⌈ Toolchain ⌋
-
-* **Environment:** Vivaldi/Floorp, Zed/VS Code, Obsidian.
-* **Security & Ops:** KeePassXC, VeraCrypt, Caido, Tshark, Proton/Mullvad.
-
----
-
-### ⌈ Contact ⌋
-
-* **Web:** [ventie.dev](https://ventie.dev) | [fueki.cc](https://fueki.cc)
-* **GitHub:** [@itsventie](http://github.com/itsventie)
-* **Telegram:** [@ventie](http://t.me/ventie)
-* **Discord:** Vyntiq (`939851605111631903`)
+## ⌈ Identity ⌋
+- INFJ-T • 4w5 • calm analytical mindset  
+- privacy & digital sovereignty oriented  
+- purple team perspective (defense + understanding)  
+- chess Elo: 2300+  
+- shogi: 5 kyu  
 
 ---
 
-`EOF`
+## ⌈ Metrics ⌋
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 24px;">
+
+  <div style="width: 62%;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=itsventie&show_icons=true&theme=dark&hide_border=true&bg_color=121214&title_color=8b5cf6&icon_color=8b5cf6&text_color=d4d4d8" />
+
+<br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsventie&layout=compact&theme=dark&hide_border=true&bg_color=121214&title_color=8b5cf6&text_color=d4d4d8" />
+
+  </div>
+
+</div>
+
+---
+
+## ⌈ Contact ⌋
+
+<p align="center">
+
+<a href="https://t.me/ventie">
+  <img src="https://img.shields.io/badge/Telegram-connect-2f80ed?style=for-the-badge&logo=telegram" />
+</a>
+
+<a href="https://github.com/itsventie">
+  <img src="https://img.shields.io/badge/GitHub-profile-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://ventie.dev">
+  <img src="https://img.shields.io/badge/Website-ventie.dev-8b5cf6?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+<p align="center">⋆˚࿔ meow ࿔˚⋆</p>
