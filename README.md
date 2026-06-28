@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ventie.dev">
-    <img src="https://i.pinimg.com/originals/c2/48/29/c248290ce305951705a3c8223c7e5da5.gif"/>
+    <img src="https://github.com/user-attachments/assets/21dacd11-5f38-40bc-8c8b-e164f70b7c71"/>
   </a>
 </p>
 
