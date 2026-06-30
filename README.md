@@ -22,21 +22,28 @@
 
 ---
 
-## Metrics 
+## Stack
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 24px;">
-
-  <div style="width: 62%;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=itsventie&show_icons=true&theme=dark&hide_border=true&bg_color=121214&title_color=8b5cf6&icon_color=8b5cf6&text_color=d4d4d8" />
-
-<br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsventie&layout=compact&theme=dark&hide_border=true&bg_color=121214&title_color=8b5cf6&text_color=d4d4d8" />
-
-  </div>
-
-</div>
+<p align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="left"><b>Languages</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=go,python,ts,cpp,rust" /></td>
+    </tr>
+    <tr>
+      <td align="left"><b>Frameworks</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react,qt,fastapi,tauri" /></td>
+    </tr>
+    <tr>
+      <td align="left"><b>CyberSec</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux,arch" /></td>
+    </tr>
+    <tr>
+      <td align="left"><b>Infra/DB</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker,postgres,redis,git" /></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
