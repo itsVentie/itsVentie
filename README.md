@@ -1,6 +1,4 @@
-`DevSecOps / CyberSecurity`
-
----
+# ✧ DevSecOps / CyberSecurity ✧
 
 <p align="center">
   <a href="https://ventie.dev">
@@ -8,64 +6,22 @@
   </a>
 </p>
 
-## ✦ 
-- systems / security / backend engineering  
-- DevSecOps & DFIR focused development 
-- privacy-first architecture
-- a bit curious 
+
+## ✦ Info ✦
+- ˗ˏˋ systems / security / backend engineering 
+- ˗ˏˋ DevSecOps & DFIR focused development
+- ˗ˏˋ privacy-first architecture
+- ˗ˏˋ a bit curious 
 
 ---
 
-## Identity 
-- Adult
-- purple team 
+## ⋆ Identity ⋆
+- **Adult** | **Purple Team** ʚ♡ɞ
 
 ---
-
-## Stack
 
 <p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="left"><b>Languages</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=go,python,ts,cpp,rust" /></td>
-    </tr>
-    <tr>
-      <td align="left"><b>Frameworks</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,qt,fastapi,tauri" /></td>
-    </tr>
-    <tr>
-      <td align="left"><b>CyberSec</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux,arch" /></td>
-    </tr>
-    <tr>
-      <td align="left"><b>Infra/DB</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=docker,postgres,redis,git" /></td>
-    </tr>
-  </table>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjam82Z2l1MTZwN3N1YmlpcHBlbmN1YjBqeng2ZWo4Z3lkeWRzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="120" />
 </p>
-
----
-
-## Contact 
-
-<p align="center">
-
-<a href="https://t.me/ventie">
-  <img src="https://img.shields.io/badge/Telegram-connect-2f80ed?style=for-the-badge&logo=telegram" />
-</a>
-
-<a href="https://github.com/itsventie">
-  <img src="https://img.shields.io/badge/GitHub-profile-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://ventie.dev">
-  <img src="https://img.shields.io/badge/Website-ventie.dev-8b5cf6?style=for-the-badge" />
-</a>
-
-</p>
-
----
 
 <p align="center">⋆˚࿔ meow ࿔˚⋆</p>
-<!-- :heart: -->
