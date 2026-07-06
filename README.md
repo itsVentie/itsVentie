@@ -6,6 +6,9 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e"><img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg" alt="Total time coded since Jun 23 2026" /></a>
+</p>
 
 ## ✦ Info ✦
 - ˗ˏˋ systems / security / backend engineering 
