@@ -28,10 +28,10 @@
 ---
 
 ## ⋆ Tech Stack & Toolbox ⋆
-- ˗ˏˋ **Languages:** Go, Rust, TypeScript, C/C++
-- ˗ˏˋ **Frameworks:** Wails, Tauri, React / TailwindCSS
-- ˗ˏˋ **DevSecOps & Infra:** Linux Hardening, Docker, CI/CD Security, Core Networking (TCP/TLS)
-- ˗ˏˋ **CyberSec / DFIR:** Traffic Analysis, E2EE Protocols, Reverse Engineering, Post-Quantum Crypto Research
+- ˗ˏˋ **Languages:** Go, Rust, TS, C/C++
+- ˗ˏˋ **Frameworks:** Wails, Tauri, React/Preact, Axum, Gin
+- ˗ˏˋ **DevSecOps & Infra:** Kubernetes, Snyk, Docker, CI/CD Security, Core Networking (TCP/TLS)
+- ˗ˏˋ **CyberSec:** DFIR, AI/ML Security, Web AppSec, Reverse & Malware Analysis, Cryptography, Osint
 
 ---
 ## Fingerprint 
