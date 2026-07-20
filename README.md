@@ -2,9 +2,13 @@
 
 <p align="center">
   <a href="https://ventie.dev">
-    <img src="https://github.com/user-attachments/assets/21dacd11-5f38-40bc-8c8b-e164f70b7c71"/>
+    <img src="https://github.com/user-attachments/assets/e34e0737-326f-4295-9d5a-87e9b6f7917a" alt="prana system error optimized webp loop" width="100%" />
   </a>
 </p>
+
+
+
+
 
 <p align="center">
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e"><img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg" alt="Total time coded since Jun 23 2026" /></a>
@@ -19,7 +23,19 @@
 ---
 
 ## ⋆ Identity ⋆
-- **Adult** | **Purple Team** ʚ♡ɞ
+- ˗ˏˋ **Adult** | **Purple Team** ʚ♡ɞ
+
+---
+
+## ⋆ Tech Stack & Toolbox ⋆
+- ˗ˏˋ **Languages:** Go, Rust, TypeScript, C/C++
+- ˗ˏˋ **Frameworks:** Wails, Tauri, React / TailwindCSS
+- ˗ˏˋ **DevSecOps & Infra:** Linux Hardening, Docker, CI/CD Security, Core Networking (TCP/TLS)
+- ˗ˏˋ **CyberSec / DFIR:** Traffic Analysis, E2EE Protocols, Reverse Engineering, Post-Quantum Crypto Research
+
+---
+## Fingerprint 
+- ˗ˏˋ **PGP:** `3B90 93E9 367D 21D6 180C  0BE1 2ED2 D49A D31F 7450`
 
 ---
 
