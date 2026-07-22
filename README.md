@@ -1,5 +1,3 @@
-# ✧ DevSecOps / CyberSecurity ✧
-
 <p align="center">
   <a href="https://ventie.dev">
     <img src="https://github.com/user-attachments/assets/e34e0737-326f-4295-9d5a-87e9b6f7917a" alt="prana system error optimized webp loop" width="100%" />
