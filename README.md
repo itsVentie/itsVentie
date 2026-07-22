@@ -14,19 +14,6 @@
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e"><img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg" alt="Total time coded since Jun 23 2026" /></a>
 </p>
 
-## ✦ Info ✦
-- ˗ˏˋ systems / security / backend engineering 
-- ˗ˏˋ DevSecOps & DFIR focused development
-- ˗ˏˋ privacy-first architecture
-- ˗ˏˋ a bit curious 
-
----
-
-## ⋆ Identity ⋆
-- ˗ˏˋ **Adult** | **Purple Team** ʚ♡ɞ
-
----
-
 ## ⋆ Tech Stack & Toolbox ⋆
 - ˗ˏˋ **Languages:** Go, Rust, TS, C/C++
 - ˗ˏˋ **Frameworks:** Wails, Tauri, React/Preact, Axum, Gin
