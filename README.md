@@ -34,13 +34,14 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsventie&theme=radical" alt="Most Commit Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsventie&theme=tokyonight" alt="Most Commit Languages" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-mwendwa.vercel.app/api?username=itsventie&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-mwendwa.vercel.app/api?username=itsventie&show_icons=true&count_private=true&line_height=20&theme=dracula" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
+
 
 ---
 
