@@ -12,6 +12,10 @@
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e"><img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg" alt="Total time coded since Jun 23 2026" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsventie&color=blue" alt="Profile Views Counter" />
+</p>
+
 ## ⋆ Tech Stack & Toolbox ⋆
 - ˗ˏˋ **Languages:** Go, Rust, TS, C/C++
 - ˗ˏˋ **Frameworks:** Wails, Tauri, React/Preact, Axum, Gin
