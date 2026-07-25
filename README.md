@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ventie.dev">
-    <img src="https://github.com/user-attachments/assets/e34e0737-326f-4295-9d5a-87e9b6f7917a" alt="prana system error optimized webp loop" width="100%" />
+    <img src="https://github.com/user-attachments/assets/65b977f9-585d-4aa8-8ea8-975273861691" alt="prana system error optimized webp loop" />
   </a>
 </p>
 
