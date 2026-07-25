@@ -18,7 +18,7 @@
 
 ## ⋆ Tech Stack & Toolbox ⋆
 
-* ˗ˏˋ **Languages:** Go, Rust, TS, C/C++
+* ˗ˏˋ **Languages:** Go, Rust, TS, C/C++, Python
 * ˗ˏˋ **Frameworks:** Wails, Tauri, React/Preact, Axum, Gin
 * ˗ˏˋ **DevSecOps & Infra:** Kubernetes, Snyk, Docker, CI/CD Security, Core Networking (TCP/TLS)
 * ˗ˏˋ **CyberSec:** DFIR, AI/ML Security, Web AppSec, Reverse & Malware Analysis, Cryptography, Osint
