@@ -8,9 +8,7 @@
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
     <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg" alt="Total time coded since Jun 23 2026" />
   </a>
-</p>
-
-<p align="center">
+  &nbsp;•&nbsp;
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
 </p>
 
