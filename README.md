@@ -133,6 +133,10 @@
   <a href="https://www.chess.com/member/vintiq" target="_blank">
     <img src="https://cdn.simpleicons.org/chessdotcom/7FA650" width="32" height="32" alt="Chess.com" />
   </a>
+  &nbsp;•&nbsp;
+  <a href="https://open.spotify.com/user/31nz53fl6oypvkia5pce5ghcj7dy"  target="_blank">
+    <img src="https://cdn.simpleicons.org/spotify" width="32" height="32" alt="Spotify" />
+  &nbsp;•&nbsp;
 </p>
 
 ---
