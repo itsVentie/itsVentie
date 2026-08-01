@@ -46,7 +46,6 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/go" width="40" height="40" alt="Go" />
   <img src="https://cdn.simpleicons.org/rust/ffffff" width="40" height="40" alt="Rust" />
-  <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/cplusplus" width="40" height="40" alt="C++" />
   <img src="https://cdn.simpleicons.org/c" width="40" height="40" alt="C" />
   <img src="https://cdn.simpleicons.org/zig" width="40" height="40" alt="Zig" />
