@@ -16,12 +16,82 @@
 
 ---
 
+## ⋆ About Me ⋆
+
+* ˗ˏˋ **Age:** 18+
+* ˗ˏˋ **Gender:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png"  alt="non-binary" width="16"> Non-binary
+* ˗ˏˋ **Personality:** INFJ • 4w5
+* ˗ˏˋ **Languages:** <img src="https://flagcdn.com/20x15/gb.png" alt="UK" width="16" /> English • <img src="https://flagcdn.com/20x15/ru.png" alt="RU" width="16" /> Russian • <img src="https://flagcdn.com/20x15/fr.png" alt="FR" width="16" /> French
+
+---
+
+## ⋆ Focus & Targets ⋆
+
+### ˗ˏˋ Currently Learning
+* AI & ML
+* Calculus & Linear Algebra
+* DFIR & Reverse Engineering
+* Cryptanalysis
+* CUDA & Triton & Mojo
+
+### ˗ˏˋ Goals
+* Become a Computer Science researcher
+* Publish research in AI & Systems
+* Contribute to open-source software
+* Research emerging cyber threats
+
+---
+
 ## ⋆ Tech Stack & Toolbox ⋆
 
-* ˗ˏˋ **Languages:** Go, Rust, TS, C/C++, Python, Kotlin
-* ˗ˏˋ **Frameworks:** Wails, Tauri, React/Preact, Axum, Gin
-* ˗ˏˋ **DevSecOps & Infra:** Kubernetes, Snyk, Docker, CI/CD Security, Core Networking (TCP/TLS)
-* ˗ˏˋ **CyberSec:** DFIR, AI/ML Security, Web AppSec, Reverse & Malware Analysis, Cryptography, Osint
+### Languages
+<p align="left">
+  <img src="https://cdn.simpleicons.org/go" width="40" height="40" alt="Go" />
+  <img src="https://cdn.simpleicons.org/rust/ffffff" width="40" height="40" alt="Rust" />
+  <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/cplusplus" width="40" height="40" alt="C++" />
+  <img src="https://cdn.simpleicons.org/c" width="40" height="40" alt="C" />
+  <img src="https://cdn.simpleicons.org/zig" width="40" height="40" alt="Zig" />
+  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" />
+  <img src="https://cdn.simpleicons.org/gleam" width="40" height="40" alt="Gleam" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-mojo.svg" width="40" height="40" alt="Mojo" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.simpleicons.org/wails" width="40" height="40" alt="Wails" />
+  <img src="https://cdn.simpleicons.org/tauri" width="40" height="40" alt="Tauri" />
+  <img src="https://cdn.simpleicons.org/gin" width="40" height="40" alt="Gin" />
+  <img src="https://cdn.simpleicons.org/tokio/ffffff" width="40" height="40" alt="Tokio" />
+  <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/preact" width="40" height="40" alt="Preact" />
+  <img src="https://cdn.simpleicons.org/solid" width="40" height="40" alt="SolidJS" />
+</p>
+
+### Databases & Storage
+<p align="left">
+  <img src="https://cdn.simpleicons.org/sqlite" width="40" height="40" alt="SQLite" />
+  <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/redis" width="40" height="40" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/clickhouse" width="40" height="40" alt="ClickHouse" />
+  <img src="https://cdn.simpleicons.org/apachecassandra" width="40" height="40" alt="Apache Cassandra" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/scylladb_logo_icon_169771.png" width="40" height="40" alt="ScyllaDB" />
+</p>
+
+### DevSecOps, Tooling & CyberSec
+<p align="left">
+  <img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40" alt="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/linux/ffffff" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="40" height="40" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/snyk" width="40" height="40" alt="Snyk" />
+  <img src="https://cdn.simpleicons.org/wireshark" width="40" height="40" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/metasploit/ffffff" width="40" height="40" alt="Metasploit" />
+  <img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana" />
+</p>
 
 ---
 
@@ -34,14 +104,39 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center" width="50%">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsventie&theme=tokyonight&langs_count=8&layout=compact&hide=css,scss,html,typescript,powershell,shell,cmake,nsis" alt="Most Used Languages" />
-</td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsventie&theme=tokyonight&langs_count=8&layout=compact&hide=css,scss,html,typescript,powershell,shell,cmake,nsis" alt="Most Used Languages" />
+    </td>
     <td align="center" width="50%">
       <img src="https://github-readme-mwendwa.vercel.app/api?username=itsventie&show_icons=true&count_private=true&line_height=20&theme=dracula" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
+---
+
+## ⋆ Connect & Socials ⋆
+
+<p align="center">
+  <a href="https://ventie.dev" target="_blank">
+    <img src="https://www.ventie.dev/assets/logo-DzqCrWxq.png" width="32" height="32" alt="Website" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://t.me/ventie" target="_blank">
+    <img src="https://images.icon-icons.com/2699/PNG/512/telegram_logo_icon_168692.png" width="32" height="32" alt="Telegram" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.reddit.com/user/Vintiq/" target="_blank">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="32" height="32" alt="Reddit" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://steamcommunity.com/id/vyntiq" target="_blank">
+    <img src="https://cdn.simpleicons.org/steam/ffffff" width="32" height="32" alt="Steam" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.chess.com/member/vintiq" target="_blank">
+    <img src="https://cdn.simpleicons.org/chessdotcom/7FA650" width="32" height="32" alt="Chess.com" />
+  </a>
+</p>
 
 ---
 
