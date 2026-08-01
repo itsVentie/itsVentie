@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ventie.dev">
-    <img src="https://github.com/user-attachments/assets/65b977f9-585d-4aa8-8ea8-975273861691" alt="prana system error optimized webp loop" />
+    <img src="https://i.pinimg.com/originals/0c/45/11/0c451140422f77f4fbfc7e2987bd86af.gif" alt="prana system error optimized webp loop" />
   </a>
 </p>
 
@@ -25,18 +25,30 @@
 
 ## ⋆ Focus & Targets ⋆
 
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+
 ### ˗ˏˋ Currently Learning
-* AI & ML
-* Calculus & Linear Algebra
-* DFIR & Reverse Engineering
-* Cryptanalysis
-* CUDA & Triton & Mojo
+* ✦ AI & ML
+* ✦ Calculus & Linear Algebra
+* ✦ DFIR & Reverse Engineering
+* ✦ Cryptanalysis
+* ✦ CUDA & Triton & Mojo
+
+    </td>
+    <td width="50%" valign="top">
 
 ### ˗ˏˋ Goals
-* Become a Computer Science researcher
-* Publish research in AI & Systems
-* Contribute to open-source software
-* Research emerging cyber threats
+* ✧ Become a Computer Science researcher
+* ✧ Conduct research on ML Security & Adversarial Robustness
+* ✧ Contribute meaningfully to the open-source ecosystem
+* ✧ Research emerging cyber threats
+* ✧ Discover and responsibly disclose zero-day vulnerabilities (CVE)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
