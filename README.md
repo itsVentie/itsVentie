@@ -135,8 +135,38 @@
   </a>
   &nbsp;•&nbsp;
   <a href="https://open.spotify.com/user/31nz53fl6oypvkia5pce5ghcj7dy"  target="_blank">
-    <img src="https://cdn.simpleicons.org/spotify" width="32" height="32" alt="Spotify" />
+    <img src="https://cdn.simpleicons.org/spotify/1ED760" width="32" height="32" alt="Spotify" />
+  </a>
+</p>
+
+---
+
+## ⋆ Platforms & Profiles ⋆
+
+<p align="center">
+  <a href="https://tryhackme.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tryhackme/ffffff" width="32" height="32" alt="TryHackMe" />
+  </a>
   &nbsp;•&nbsp;
+  <a href="https://app.hackthebox.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="32" height="32" alt="HackTheBox" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://images.icon-icons.com/2699/PNG/512/kaggle_logo_icon_168473.png" width="32" height="32" alt="Kaggle" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://codeforces.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" height="32" alt="Codeforces" />
+  </a>
 </p>
 
 ---
