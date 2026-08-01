@@ -34,8 +34,8 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsventie&theme=tokyonight" alt="Most Commit Languages" />
-    </td>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsventie&theme=tokyonight&langs_count=8&layout=compact&hide=css,scss,html,typescript,powershell,shell,cmake,nsis" alt="Most Used Languages" />
+</td>
     <td align="center" width="50%">
       <img src="https://github-readme-mwendwa.vercel.app/api?username=itsventie&show_icons=true&count_private=true&line_height=20&theme=dracula" alt="GitHub Stats" />
     </td>
