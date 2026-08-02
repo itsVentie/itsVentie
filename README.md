@@ -66,18 +66,26 @@
   <img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="40" height="40" alt="Julia" />
   <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="40" height="40" alt="R" />
   <img src="https://icon.icepanel.io/Technology/svg/Clojure.svg" width="40" height="40" alt="Clojure" />
-  
+  <img src="https://cdn.simpleicons.org/solidity" width="40" height="40" alt="Solidity" />
+  <img src="https://cdn.simpleicons.org/ethereum/ffffff" width="40" height="40" alt="Circom" />
+  <img src="https://cdn.simpleicons.org/nvidia" width="40" height="40" alt="Triton" />
 </p>
-
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://cdn.simpleicons.org/wails" width="40" height="40" alt="Wails" />
   <img src="https://cdn.simpleicons.org/tauri" width="40" height="40" alt="Tauri" />
+  <img src="https://cdn.simpleicons.org/wails" width="40" height="40" alt="Wails" />
+  <img src="https://cdn.simpleicons.org/tokio" width="40" height="40" alt="Tokio" />
   <img src="https://cdn.simpleicons.org/gin" width="40" height="40" alt="Gin" />
-  <img src="https://cdn.simpleicons.org/tokio/ffffff" width="40" height="40" alt="Tokio" />
-  <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React" />
-  <img src="https://cdn.simpleicons.org/preact" width="40" height="40" alt="Preact" />
+  <img src="https://cdn.simpleicons.org/fastapi" width="40" height="40" alt="FastAPI" />
+  <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch" />
+  <img src="https://cdn.simpleicons.org/flux" width="40" height="40" alt="Flux" />
+  <img src="https://cdn.simpleicons.org/ktor" width="40" height="40" alt="Ktor" />
+  <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" />
   <img src="https://cdn.simpleicons.org/solid" width="40" height="40" alt="SolidJS" />
+  <img src="https://cdn.simpleicons.org/tidyverse" width="40" height="40" alt="Tidyverse" />
+  <img src="https://cdn.simpleicons.org/gleam" width="40" height="40" alt="Wisp" />
+  <img src="https://cdn.simpleicons.org/solidity" width="40" height="40" alt="Foundry" />
+  <img src="https://cdn.simpleicons.org/clojure" width="40" height="40" alt="Reagent" />
 </p>
 
 ### Databases & Storage
