@@ -1,3 +1,5 @@
+<h1 align="center">⋆ Systems Security & AI/ML Engineer ⋆</h1>
+
 <p align="center">
   <a href="https://ventie.dev">
     <img src="https://i.pinimg.com/originals/0c/45/11/0c451140422f77f4fbfc7e2987bd86af.gif" alt="prana system error optimized webp loop" />
