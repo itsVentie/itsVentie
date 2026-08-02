@@ -58,13 +58,15 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/go" width="40" height="40" alt="Go" />
   <img src="https://cdn.simpleicons.org/rust/ffffff" width="40" height="40" alt="Rust" />
-  <img src="https://cdn.simpleicons.org/cplusplus" width="40" height="40" alt="C++" />
-  <img src="https://cdn.simpleicons.org/c" width="40" height="40" alt="C" />
   <img src="https://cdn.simpleicons.org/zig" width="40" height="40" alt="Zig" />
   <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" />
   <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" />
   <img src="https://cdn.simpleicons.org/gleam" width="40" height="40" alt="Gleam" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-mojo.svg" width="40" height="40" alt="Mojo" />
+  <img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="40" height="40" alt="Nim" />
+  <img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="40" height="40" alt="Julia" />
+  <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="40" height="40" alt="R" />
+  <img src="https://icon.icepanel.io/Technology/svg/Clojure.svg" width="40" height="40" alt="Clojure" />
+  
 </p>
 
 ### Frameworks & Libraries
