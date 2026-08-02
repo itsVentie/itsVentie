@@ -144,6 +144,14 @@
     <img src="https://images.icon-icons.com/2699/PNG/512/telegram_logo_icon_168692.png" width="32" height="32" alt="Telegram" />
   </a>
   &nbsp;•&nbsp;
+  <a href="https://discord.com/users/939851605111631903" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://x.com/itsVentie" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="32" height="32" alt="X / Twitter" />
+  </a>
+  &nbsp;•&nbsp;
   <a href="https://www.reddit.com/user/Vintiq/" target="_blank">
     <img src="https://cdn.simpleicons.org/reddit/FF4500" width="32" height="32" alt="Reddit" />
   </a>
@@ -156,8 +164,12 @@
     <img src="https://cdn.simpleicons.org/chessdotcom/7FA650" width="32" height="32" alt="Chess.com" />
   </a>
   &nbsp;•&nbsp;
-  <a href="https://open.spotify.com/user/31nz53fl6oypvkia5pce5ghcj7dy"  target="_blank">
+  <a href="https://open.spotify.com/user/31nz53fl6oypvkia5pce5ghcj7dy" target="_blank">
     <img src="https://cdn.simpleicons.org/spotify/1ED760" width="32" height="32" alt="Spotify" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://keybase.io/ventie" target="_blank">
+    <img src="https://cdn.simpleicons.org/keybase/33A0FF" width="32" height="32" alt="Keybase" />
   </a>
 </p>
 
@@ -166,28 +178,44 @@
 ## ⋆ Platforms & Profiles ⋆
 
 <p align="center">
-  <a href="https://tryhackme.com/" target="_blank">
+  <a href="https://tryhackme.com/p/Ventie" target="_blank">
     <img src="https://cdn.simpleicons.org/tryhackme/ffffff" width="32" height="32" alt="TryHackMe" />
   </a>
   &nbsp;•&nbsp;
-  <a href="https://app.hackthebox.com/" target="_blank">
+  <a href="https://app.hackthebox.com/users/2519629" target="_blank">
     <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="32" height="32" alt="HackTheBox" />
   </a>
   &nbsp;•&nbsp;
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/ventie/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode" />
   </a>
   &nbsp;•&nbsp;
-  <a href="https://www.kaggle.com/" target="_blank">
+  <a href="https://codeforces.com/profile/ventie" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" height="32" alt="Codeforces" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://projecteuler.net/profile/ventie.png" target="_blank">
+    <img src="https://favicon.pub/api/projecteuler.com?s=128" width="32" height="32" alt="Project Euler" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.quantguide.io/profile/ventie" target="_blank">
+    <img src="https://cdn.simpleicons.org/quantconnect/F2A900" width="32" height="32" alt="QuantGuide" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.codingame.com/profile/ventie" target="_blank">
+    <img src="https://cdn.simpleicons.org/codingame/F24C4C" width="32" height="32" alt="CodinGame" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.kaggle.com/ventieravelle" target="_blank">
     <img src="https://images.icon-icons.com/2699/PNG/512/kaggle_logo_icon_168473.png" width="32" height="32" alt="Kaggle" />
   </a>
   &nbsp;•&nbsp;
-  <a href="https://huggingface.co/" target="_blank">
+  <a href="https://huggingface.co/itsVentie" target="_blank">
     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" />
   </a>
   &nbsp;•&nbsp;
-  <a href="https://codeforces.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" height="32" alt="Codeforces" />
+  <a href="https://artofproblemsolving.com/community/user/ventie" target="_blank">
+    <img src="https://favicon.pub/artofproblemsolving.com" width="32" height="32" alt="AoPS" />
   </a>
 </p>
 
