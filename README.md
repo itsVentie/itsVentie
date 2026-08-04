@@ -231,6 +231,10 @@
 ---
 
 <p align="center">
+<img src="https://github-trophies.vercel.app/?username=itsventie&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+</p>
+
+<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjam82Z2l1MTZwN3N1YmlpcHBlbmN1YjBqeng2ZWo4Z3lkeWRzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="120" alt="meow gif" />
 </p>
 
