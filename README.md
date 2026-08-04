@@ -25,7 +25,7 @@
 
 ---
  
-## <img src="" width="28"> ⋆ Focus & Targets ⋆
+## ⋆ Focus & Targets ⋆
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
