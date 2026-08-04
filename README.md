@@ -61,7 +61,7 @@
   <img src="https://cdn.simpleicons.org/go" width="40" height="40" alt="Go" />
   <img src="https://cdn.simpleicons.org/rust/ffffff" width="40" height="40" alt="Rust" />
   <img src="https://cdn.simpleicons.org/zig" width="40" height="40" alt="Zig" />
-  <img src="https://cdn.simpleicons.org/c/ffffff" width="40" height="40" alt="C" />
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="40" height="40" alt="C" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" />
