@@ -72,6 +72,7 @@
   <img src="https://cdn.simpleicons.org/ethereum/ffffff" width="40" height="40" alt="Circom" />
   <img src="https://cdn.simpleicons.org/nvidia" width="40" height="40" alt="Triton" />
 </p>
+
 ### Frameworks & Libraries
 <p align="left">
   <img src="https://cdn.simpleicons.org/tauri" width="40" height="40" alt="Tauri" />
