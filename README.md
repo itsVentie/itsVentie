@@ -16,7 +16,7 @@
 
 ---
 
-## ⋆ About Me ⋆
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> ⋆ About Me ⋆
 
 * ˗ˏˋ **Age:** 18+
 * ˗ˏˋ **Gender:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png"  alt="non-binary" width="16"> Non-binary
@@ -24,13 +24,13 @@
 * ˗ˏˋ **Languages:** <img src="https://flagcdn.com/20x15/gb.png" alt="UK" width="16" /> English • <img src="https://flagcdn.com/20x15/ru.png" alt="RU" width="16" /> Russian • <img src="https://flagcdn.com/20x15/fr.png" alt="FR" width="16" /> French
 
 ---
+ 
+## <img src="" width="28"> ⋆ Focus & Targets ⋆
 
-## ⋆ Focus & Targets ⋆
-
-<table width="100%" border="0">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-
+    <td width="50%" valign="top" style="padding-right: 10px;">
+      
 ### ˗ˏˋ Currently Learning
 * ✦ AI & ML
 * ✦ Calculus & Linear Algebra
@@ -38,8 +38,8 @@
 * ✦ Cryptanalysis
 * ✦ CUDA & Triton & Mojo
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+    <td width="50%" valign="top" style="padding-left: 10px;">
 
 ### ˗ˏˋ Goals
 * ✧ Become a Computer Science researcher
@@ -151,7 +151,7 @@
   </a>
   &nbsp;•&nbsp;
   <a href="https://discord.com/users/939851605111631903" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="32" height="32" alt="Discord" />
   </a>
   &nbsp;•&nbsp;
   <a href="https://x.com/itsVentie" target="_blank">
@@ -168,6 +168,14 @@
   &nbsp;•&nbsp;
   <a href="https://www.chess.com/member/vintiq" target="_blank">
     <img src="https://cdn.simpleicons.org/chessdotcom/7FA650" width="32" height="32" alt="Chess.com" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.tiktok.com/@itsventie" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="32" height="32" alt="TikTok" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin/in/ventie" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="32" height="32" alt="linkedin" />
   </a>
   &nbsp;•&nbsp;
   <a href="https://open.spotify.com/user/31nz53fl6oypvkia5pce5ghcj7dy" target="_blank">
@@ -228,8 +236,7 @@
 ---
 
 <p align="center">
-<img src="https://github-trophies.vercel.app/?username=itsventie&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
-</p>
+<img src="https://github-trophies.vercel.app/?username=itsventie&theme=radical&no-frame=true&column=7" alt="GitHub Profile Trophy" />
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjam82Z2l1MTZwN3N1YmlpcHBlbmN1YjBqeng2ZWo4Z3lkeWRzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="120" alt="meow gif" />
