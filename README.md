@@ -239,7 +239,7 @@
 <img src="https://github-trophies.vercel.app/?username=itsventie&theme=radical&no-frame=true&column=7" alt="GitHub Profile Trophy" />
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjam82Z2l1MTZwN3N1YmlpcHBlbmN1YjBqeng2ZWo4Z3lkeWRzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="120" alt="meow gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdxMWluZWEybTRycHl2YW54cnlnaGhqempjbTE1Y3A2MHQyMmx6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO9TEHqEGzWiQ/giphy.gif" width="160" alt="meow gif" />
 </p>
 
 <p align="center">⋆˚࿔ meow ࿔˚⋆</p>
