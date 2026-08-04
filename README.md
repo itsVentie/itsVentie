@@ -57,20 +57,8 @@
 ## ⋆ Tech Stack & Toolbox ⋆
 
 ### Languages
-<p align="left">
-  <img src="https://cdn.simpleicons.org/go" width="40" height="40" alt="Go" />
-  <img src="https://cdn.simpleicons.org/rust/ffffff" width="40" height="40" alt="Rust" />
-  <img src="https://cdn.simpleicons.org/zig" width="40" height="40" alt="Zig" />
-  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" />
-  <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" />
-  <img src="https://cdn.simpleicons.org/gleam" width="40" height="40" alt="Gleam" />
-  <img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="40" height="40" alt="Nim" />
-  <img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="40" height="40" alt="Julia" />
-  <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="40" height="40" alt="R" />
-  <img src="https://icon.icepanel.io/Technology/svg/Clojure.svg" width="40" height="40" alt="Clojure" />
-  <img src="https://cdn.simpleicons.org/solidity" width="40" height="40" alt="Solidity" />
-  <img src="https://cdn.simpleicons.org/ethereum/ffffff" width="40" height="40" alt="Circom" />
-  <img src="https://cdn.simpleicons.org/nvidia" width="40" height="40" alt="Triton" />
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api/orbit?&slugs=go,rust,zig,python,kotlin,gleam,nim,julia,r,clojure,solidity,ethereum,nvidia" alt="All Animated Stack" />
 </p>
 
 ### Frameworks & Libraries
@@ -85,10 +73,7 @@
   <img src="https://cdn.simpleicons.org/ktor" width="40" height="40" alt="Ktor" />
   <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" />
   <img src="https://cdn.simpleicons.org/solid" width="40" height="40" alt="SolidJS" />
-  <img src="https://cdn.simpleicons.org/tidyverse" width="40" height="40" alt="Tidyverse" />
-  <img src="https://cdn.simpleicons.org/gleam" width="40" height="40" alt="Wisp" />
-  <img src="https://cdn.simpleicons.org/solidity" width="40" height="40" alt="Foundry" />
-  <img src="https://cdn.simpleicons.org/clojure" width="40" height="40" alt="Reagent" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/960px-Tidyverse_hex_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241111025027" width="40" height="40" alt="Tidyverse" />
 </p>
 
 ### Databases & Storage
