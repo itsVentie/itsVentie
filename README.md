@@ -56,7 +56,7 @@
 
 ## ⋆ Tech Stack & Toolbox ⋆
 
-### Languages
+### General & Systems Languages
 <p align="left">
   <img src="https://cdn.simpleicons.org/go" width="40" height="40" alt="Go" />
   <img src="https://cdn.simpleicons.org/rust/ffffff" width="40" height="40" alt="Rust" />
@@ -65,6 +65,10 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" />
+</p>
+
+### Domain-Specific & Niche Languages
+<p align="left">
   <img src="https://cdn.simpleicons.org/gleam" width="40" height="40" alt="Gleam" />
   <img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="40" height="40" alt="Nim" />
   <img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="40" height="40" alt="Julia" />
@@ -73,14 +77,7 @@
   <img src="https://cdn.simpleicons.org/solidity" width="40" height="40" alt="Solidity" />
   <img src="https://cdn.simpleicons.org/ethereum/ffffff" width="40" height="40" alt="Circom" />
   <img src="https://cdn.simpleicons.org/nvidia" width="40" height="40" alt="Triton" />
-  <img src="https://cdn.simpleicons.org/gleam" width="45" height="45" alt="Gleam" />
-  <img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="45" height="45" alt="Nim" />
-  <img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="45" height="45" alt="Julia" />
-  <img src="https://cdn.simpleicons.org/ethereum/ffffff" width="45" height="45" alt="Circom" />
-  <img src="https://cdn.simpleicons.org/nvidia" width="45" height="45" alt="Triton" />
-</p> 
-
-
+</p>
 
 ### Frameworks & Libraries
 <p align="left">
