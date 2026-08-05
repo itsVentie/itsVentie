@@ -7,11 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
-    <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg" alt="Total time coded since Jun 23 2026" />
-  </a>
-  &nbsp;•&nbsp;
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
+  <img src="https://img.shields.io/github/followers/itsventie?label=Followers&style=flat-square&color=7aa2f7&logo=github" />
+  <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B1-1a1b26?style=flat-square&logo=clockify&logoColor=7aa2f7" />
+</p>
+
+<p align="center">
+ <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
+    <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg" alt="Total time coded" />
+  </a>
 </p>
 
 ---
@@ -56,66 +61,93 @@
 
 ## ⋆ Tech Stack & Toolbox ⋆
 
-### General & Systems Languages
-<p align="left">
-  <img src="https://cdn.simpleicons.org/go" width="40" height="40" alt="Go" />
-  <img src="https://cdn.simpleicons.org/rust/ffffff" width="40" height="40" alt="Rust" />
-  <img src="https://cdn.simpleicons.org/zig" width="40" height="40" alt="Zig" />
-  <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="40" height="40" alt="C" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" />
-</p>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><b>General & Systems Languages</b></td>
+      <td align="left">
+        <img src="https://cdn.simpleicons.org/go" width="40" height="40" alt="Go" title="Go" />
+        <img src="https://cdn.simpleicons.org/rust/ffffff" width="40" height="40" alt="Rust" title="Rust" />
+        <img src="https://cdn.simpleicons.org/zig" width="40" height="40" alt="Zig" title="Zig" />
+        <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="40" height="40" alt="C" title="C" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" title="C++" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" title="Python" />
+        <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" title="Kotlin" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Domain-Specific & Niche Languages</b></td>
+      <td align="left">
+        <img src="https://cdn.simpleicons.org/gleam" width="40" height="40" alt="Gleam" title="Gleam" />
+        <img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="40" height="40" alt="Nim" title="Nim" />
+        <img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="40" height="40" alt="Julia" title="Julia" />
+        <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="40" height="40" alt="R" title="R" />
+        <img src="https://icon.icepanel.io/Technology/svg/Clojure.svg" width="40" height="40" alt="Clojure" title="Clojure" />
+        <img src="https://cdn.simpleicons.org/solidity" width="40" height="40" alt="Solidity" title="Solidity" />
+        <img src="https://cdn.simpleicons.org/ethereum/ffffff" width="40" height="40" alt="Circom" title="Circom" />
+        <img src="https://cdn.simpleicons.org/nvidia" width="40" height="40" alt="Triton" title="Triton" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Frameworks & Libraries</b></td>
+      <td align="left">
+        <img src="https://cdn.simpleicons.org/tauri" width="40" height="40" alt="Tauri" title="Tauri" />
+        <img src="https://cdn.simpleicons.org/wails" width="40" height="40" alt="Wails" title="Wails" />
+        <img src="https://cdn.simpleicons.org/tokio" width="40" height="40" alt="Tokio" title="Tokio" />
+        <img src="https://cdn.simpleicons.org/gin" width="40" height="40" alt="Gin" title="Gin" />
+        <img src="https://cdn.simpleicons.org/fastapi" width="40" height="40" alt="FastAPI" title="FastAPI" />
+        <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch" title="PyTorch" />
+        <img src="https://cdn.simpleicons.org/flux" width="40" height="40" alt="Flux" title="Flux" />
+        <img src="https://cdn.simpleicons.org/ktor" width="40" height="40" alt="Ktor" title="Ktor" />
+        <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
+        <img src="https://cdn.simpleicons.org/solid" width="40" height="40" alt="SolidJS" title="SolidJS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/960px-Tidyverse_hex_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241111025027" width="40" height="40" alt="Tidyverse" title="Tidyverse" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Databases & Storage</b></td>
+      <td align="left">
+        <img src="https://cdn.simpleicons.org/sqlite" width="40" height="40" alt="SQLite" title="SQLite" />
+        <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+        <img src="https://cdn.simpleicons.org/redis" width="40" height="40" alt="Redis" title="Redis" />
+        <img src="https://cdn.simpleicons.org/clickhouse" width="40" height="40" alt="ClickHouse" title="ClickHouse" />
+        <img src="https://cdn.simpleicons.org/apachecassandra" width="40" height="40" alt="Apache Cassandra" title="Apache Cassandra" />
+        <img src="https://images.icon-icons.com/2699/PNG/512/scylladb_logo_icon_169771.png" width="40" height="40" alt="ScyllaDB" title="ScyllaDB" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Cloud, DevSecOps & CyberSec</b></td>
+      <td align="left">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" alt="AWS" title="AWS" />
+        <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" width="40" height="40" alt="GCP" title="Google Cloud" />
+        <img src="https://icon.icepanel.io/Technology/svg/Azure.svg" width="40" height="40" alt="Azure" title="Microsoft Azure" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" title="Docker" />
+        <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="40" height="40" alt="Terraform" title="Terraform" />
+        <img src="https://icon.icepanel.io/Technology/svg/Ansible.svg" width="40" height="40" alt="Ansible" title="Ansible" />
+        <img src="https://cdn.simpleicons.org/linux/ffffff" width="40" height="40" alt="Linux" title="Linux" />
+        <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="40" height="40" alt="Bash" title="Bash" />
+        <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" title="Git" />
+        <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
+        <img src="https://cdn.simpleicons.org/snyk" width="40" height="40" alt="Snyk" title="Snyk" />
+        <img src="https://cdn.simpleicons.org/wireshark" width="40" height="40" alt="Wireshark" title="Wireshark" />
+        <img src="https://cdn.simpleicons.org/metasploit/ffffff" width="40" height="40" alt="Metasploit" title="Metasploit" />
+        <img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana" title="Grafana" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Domain-Specific & Niche Languages
-<p align="left">
-  <img src="https://cdn.simpleicons.org/gleam" width="40" height="40" alt="Gleam" />
-  <img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="40" height="40" alt="Nim" />
-  <img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="40" height="40" alt="Julia" />
-  <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="40" height="40" alt="R" />
-  <img src="https://icon.icepanel.io/Technology/svg/Clojure.svg" width="40" height="40" alt="Clojure" />
-  <img src="https://cdn.simpleicons.org/solidity" width="40" height="40" alt="Solidity" />
-  <img src="https://cdn.simpleicons.org/ethereum/ffffff" width="40" height="40" alt="Circom" />
-  <img src="https://cdn.simpleicons.org/nvidia" width="40" height="40" alt="Triton" />
-</p>
-
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.simpleicons.org/tauri" width="40" height="40" alt="Tauri" />
-  <img src="https://cdn.simpleicons.org/wails" width="40" height="40" alt="Wails" />
-  <img src="https://cdn.simpleicons.org/tokio" width="40" height="40" alt="Tokio" />
-  <img src="https://cdn.simpleicons.org/gin" width="40" height="40" alt="Gin" />
-  <img src="https://cdn.simpleicons.org/fastapi" width="40" height="40" alt="FastAPI" />
-  <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch" />
-  <img src="https://cdn.simpleicons.org/flux" width="40" height="40" alt="Flux" />
-  <img src="https://cdn.simpleicons.org/ktor" width="40" height="40" alt="Ktor" />
-  <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" />
-  <img src="https://cdn.simpleicons.org/solid" width="40" height="40" alt="SolidJS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/960px-Tidyverse_hex_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241111025027" width="40" height="40" alt="Tidyverse" />
-</p>
-
-### Databases & Storage
-<p align="left">
-  <img src="https://cdn.simpleicons.org/sqlite" width="40" height="40" alt="SQLite" />
-  <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/redis" width="40" height="40" alt="Redis" />
-  <img src="https://cdn.simpleicons.org/clickhouse" width="40" height="40" alt="ClickHouse" />
-  <img src="https://cdn.simpleicons.org/apachecassandra" width="40" height="40" alt="Apache Cassandra" />
-  <img src="https://images.icon-icons.com/2699/PNG/512/scylladb_logo_icon_169771.png" width="40" height="40" alt="ScyllaDB" />
-</p>
-
-### DevSecOps, Tooling & CyberSec
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/linux/ffffff" width="40" height="40" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="40" height="40" alt="Bash" />
-  <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
-  <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
-  <img src="https://cdn.simpleicons.org/snyk" width="40" height="40" alt="Snyk" />
-  <img src="https://cdn.simpleicons.org/wireshark" width="40" height="40" alt="Wireshark" />
-  <img src="https://cdn.simpleicons.org/metasploit/ffffff" width="40" height="40" alt="Metasploit" />
-  <img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Environment-RHEL_%7C_Windows_11_Pro_%7C_Artix-1a1b26?style=flat&logo=redhat&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Architecture-x86__64_%7C_ARM64-1a1b26?style=flat&logo=cpu&logoColor=f7768e" />
+  <img src="https://img.shields.io/badge/Status-Architecting_Autonomous_Systems-1a1b26?style=flat&logo=probot&logoColor=73daca" />
 </p>
 
 ---
