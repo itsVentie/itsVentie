@@ -423,12 +423,6 @@
 
 ---
 
-## Fingerprint 
-
-* ˗ˏˋ **PGP:** `3B90 93E9 367D 21D6 180C  0BE1 2ED2 D49A D31F 7450`
-
----
-
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center" width="50%">
