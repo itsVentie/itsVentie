@@ -10,7 +10,7 @@
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
   <img src="https://img.shields.io/github/followers/itsventie?label=Followers&style=flat-square&color=7aa2f7&logo=github" />
   <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B1-1a1b26?style=flat-square&logo=clockify&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B2-1a1b26?style=flat-square&logo=clockify&logoColor=7aa2f7" />
 </p>
 
 <p align="center">
