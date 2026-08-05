@@ -9,12 +9,17 @@
   <img src="https://img.shields.io/github/followers/itsventie?label=Followers&style=flat-square&color=7aa2f7&logo=github" />
   <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
   <img src="https://img.shields.io/badge/Timezone-UTC%2B2-1a1b26?style=flat-square&logo=clockify&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Status-Available_for_work-73daca?style=flat-square&logo=gitbook&logoColor=1a1b26" />
 </p>
 
 <p align="center">
- <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
-    <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg" alt="Total time coded" />
-  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fvintiq%2Fstats&query=%24.chess_blitz.last.rating&style=flat-square&logo=chess.com&logoColor=ffffff&label=Chess.com%20Blitz&color=ff9e64" alt="Chess.com Blitz Rating" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fvintiq%2Fstats&query=%24.chess_rapid.last.rating&style=flat-square&logo=chess.com&logoColor=ffffff&label=Chess.com%20Rapid&color=e0af68" alt="Chess.com Rapid Rating" />
+</p>
+<p align="center">  
+  <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
+    <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
+</a>
 </p>
 
 ---
