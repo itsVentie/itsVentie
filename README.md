@@ -57,6 +57,42 @@
   </tr>
 </table>
 
+## ⋆ Academic & Research Roadmap ⋆
+
+<ul>
+  <li><b>Phase 1: Mathematical Foundations & Optimization</b>
+    <ul>
+      <li>[ ] <b>Convex & Non-Convex Optimization:</b> Proximal gradient methods, KKT conditions, and SGD convergence bounds on non-convex loss landscapes.</li>
+      <li>[ ] <b>Measure-Theoretic Probability:</b> Measure spaces, Lebesgue integration, and martingale theory for stochastic differential equations.</li>
+      <li>[ ] <b>Differential Geometry & Tensor Calculus:</b> Riemannian manifolds, parallel transport, and geometric deep learning primitives.</li>
+    </ul>
+  </li>
+  <br />
+  <li><b>Phase 2: Theoretical CS, Complexity & Formal Verification</b>
+    <ul>
+      <li>[ ] <b>Advanced Complexity Theory:</b> PAC learning theory, Rademacher complexity, Circuit complexity, and Interactive Proof Systems (IP/PSPACE).</li>
+      <li>[ ] <b>Type Theory & Formal Methods:</b> Dependent types, Curry-Howard isomorphism, Coq/Lean theorem proving, and operational semantics.</li>
+      <li>[ ] <b>High-Dimensional Statistics:</b> Concentration of measure, random matrix theory, and singular value bounds for deep networks.</li>
+    </ul>
+  </li>
+  <br />
+  <li><b>Phase 3: Machine Learning Theory & Compute Microarchitectures</b>
+    <ul>
+      <li>[ ] <b>Statistical Learning & Generalization Bounds:</b> Neural Tangent Kernel (NTK) theory, implicit bias of gradient descent, and overparameterization dynamics.</li>
+      <li>[ ] <b>Adversarial Robustness & Certified Guarantees:</b> Randomized smoothing, certified $L_p$ robustness, and Wasserstein distributionally robust optimization.</li>
+      <li>[ ] <b>HPC & Hardware-Aware Algorithms:</b> Cache-oblivious algorithms, Roofline performance modeling, SRAM/HBM bandwidth limits, and custom GPU/Triton memory tiling.</li>
+    </ul>
+  </li>
+  <br />
+  <li><b>Phase 4: OS Internals, Runtimes & Distributed Systems</b>
+    <ul>
+      <li>[ ] <b>Distributed Consensus & Fault Tolerance:</b> TLA+ formal specification, PACELC theorem, Asynchronous BFT consensus, and CRDT verification.</li>
+      <li>[ ] <b>Compiler Optimizations & Program Analysis:</b> Static Single Assignment (SSA) form, polyhedral loop transformations, and abstract interpretation.</li>
+      <li>[ ] <b>Kernel & Hardware Subsystems:</b> Non-Volatile Memory architectures, lock-free memory reclamation (Epoch/RCU), and NUMA-aware synchronization.</li>
+    </ul>
+  </li>
+</ul>
+
 ---
 
 ## ⋆ Tech Stack & Toolbox ⋆
