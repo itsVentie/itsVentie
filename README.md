@@ -361,12 +361,6 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/Azure.svg" width="36" height="36" alt="Azure" /></td></tr>
-            <tr><td align="center"><sub>Azure</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
             <tr><td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="36" height="36" alt="Kubernetes" /></td></tr>
             <tr><td align="center"><sub>Kubernetes</sub></td></tr>
           </table>
