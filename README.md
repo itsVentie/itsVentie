@@ -1,5 +1,3 @@
-<h1 align="center">⋆ Systems Security & AI/ML Engineer ⋆</h1>
-
 <p align="center">
   <a href="https://ventie.dev">
     <img src="https://i.pinimg.com/originals/0c/45/11/0c451140422f77f4fbfc7e2987bd86af.gif" alt="prana system error optimized webp loop" />
@@ -23,10 +21,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> ⋆ About Me ⋆
 
+* ˗ˏˋ **Headline:** Security Systems & AI/ML Engineer // Future Computer Scientist
 * ˗ˏˋ **Age:** 18+
-* ˗ˏˋ **Gender:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png"  alt="non-binary" width="16"> Non-binary
+* ˗ˏˋ **Gender:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="non-binary" width="16"> Non-binary
 * ˗ˏˋ **Personality:** INFJ • 4w5
-* ˗ˏˋ **Languages:** <img src="https://flagcdn.com/20x15/gb.png" alt="UK" width="16" /> English • <img src="https://flagcdn.com/20x15/ru.png" alt="RU" width="16" /> Russian • <img src="https://flagcdn.com/20x15/fr.png" alt="FR" width="16" /> French
+* ˗ˏˋ **Languages:** <img src="https://flagcdn.com/20x15/gb.png" alt="UK" width="16" /> English • <img src="https://flagcdn.com/20x15/ru.png" alt="RU" width="16" /> Russian • <img src="https://flagcdn.com/20x15/de.png" alt="DE" width="16" /> German • <img src="https://flagcdn.com/20x15/fr.png" alt="FR" width="16" /> French • <img src="https://flagcdn.com/20x15/es.png" alt="ES" width="16" /> Spanish
 
 ---
  
