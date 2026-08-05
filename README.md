@@ -31,66 +31,94 @@
  
 ## ⋆ Focus & Targets ⋆
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 10px;">
-      
-### ˗ˏˋ Currently Learning
-* ✦ AI & ML
-* ✦ Calculus & Linear Algebra
-* ✦ DFIR & Reverse Engineering
-* ✦ Cryptanalysis
-* ✦ CUDA & Triton & Mojo
-
-</td>
-    <td width="50%" valign="top" style="padding-left: 10px;">
-
-### ˗ˏˋ Goals
-* ✧ Become a Computer Science researcher
-* ✧ Conduct research on ML Security & Adversarial Robustness
-* ✧ Contribute meaningfully to the open-source ecosystem
-* ✧ Research emerging cyber threats
-* ✧ Discover and responsibly disclose zero-day vulnerabilities (CVE)
-
-    </td>
-  </tr>
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
+  <thead>
+    <tr style="border-bottom: 1px solid #30363d; background-color: #161b22;">
+      <th width="50%" align="left" style="padding: 12px 16px;">
+        <span style="font-size: 16px; font-weight: 600;">˗ˏˋ Currently Learning</span>
+      </th>
+      <th width="50%" align="left" style="padding: 12px 16px; border-left: 1px solid #30363d;">
+        <span style="font-size: 16px; font-weight: 600;">˗ˏˋ Goals</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td width="50%" valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
+        <b>Mathematics & AI</b><br />
+        <code>✦</code> AI & ML<br />
+        <code>✦</code> Calculus & Linear Algebra
+      </td>
+      <td width="50%" valign="top" style="padding: 14px 16px;">
+        <b>Academic & Scientific Path</b><br />
+        <code>✧</code> Become a Computer Science researcher<br />
+        <code>✧</code> Conduct research on ML Security & Adversarial Robustness
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td width="50%" valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
+        <b>Security & Analysis</b><br />
+        <code>✦</code> DFIR & Reverse Engineering<br />
+        <code>✦</code> Cryptanalysis
+      </td>
+      <td width="50%" valign="top" style="padding: 14px 16px;">
+        <b>Vulnerability Research</b><br />
+        <code>✧</code> Research emerging cyber threats<br />
+        <code>✧</code> Discover & disclose zero-day vulnerabilities (CVE)
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
+        <b>Compute & Acceleration</b><br />
+        <code>✦</code> CUDA & Triton & Mojo<br />
+        <br />
+      </td>
+      <td width="50%" valign="top" style="padding: 14px 16px;">
+        <b>Open Source Ecosystem</b><br />
+        <code>✧</code> Contribute meaningfully to open-source<br />
+        <br />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## ⋆ Academic & Research Roadmap ⋆
 
-<ul>
-  <li><b>Phase 1: Mathematical Foundations & Optimization</b>
-    <ul>
-      <li>[ ] <b>Convex & Non-Convex Optimization:</b> Proximal gradient methods, KKT conditions, and SGD convergence bounds on non-convex loss landscapes.</li>
-      <li>[ ] <b>Measure-Theoretic Probability:</b> Measure spaces, Lebesgue integration, and martingale theory for stochastic differential equations.</li>
-      <li>[ ] <b>Differential Geometry & Tensor Calculus:</b> Riemannian manifolds, parallel transport, and geometric deep learning primitives.</li>
-    </ul>
-  </li>
-  <br />
-  <li><b>Phase 2: Theoretical CS, Complexity & Formal Verification</b>
-    <ul>
-      <li>[ ] <b>Advanced Complexity Theory:</b> PAC learning theory, Rademacher complexity, Circuit complexity, and Interactive Proof Systems (IP/PSPACE).</li>
-      <li>[ ] <b>Type Theory & Formal Methods:</b> Dependent types, Curry-Howard isomorphism, Coq/Lean theorem proving, and operational semantics.</li>
-      <li>[ ] <b>High-Dimensional Statistics:</b> Concentration of measure, random matrix theory, and singular value bounds for deep networks.</li>
-    </ul>
-  </li>
-  <br />
-  <li><b>Phase 3: Machine Learning Theory & Compute Microarchitectures</b>
-    <ul>
-      <li>[ ] <b>Statistical Learning & Generalization Bounds:</b> Neural Tangent Kernel (NTK) theory, implicit bias of gradient descent, and overparameterization dynamics.</li>
-      <li>[ ] <b>Adversarial Robustness & Certified Guarantees:</b> Randomized smoothing, certified $L_p$ robustness, and Wasserstein distributionally robust optimization.</li>
-      <li>[ ] <b>HPC & Hardware-Aware Algorithms:</b> Cache-oblivious algorithms, Roofline performance modeling, SRAM/HBM bandwidth limits, and custom GPU/Triton memory tiling.</li>
-    </ul>
-  </li>
-  <br />
-  <li><b>Phase 4: OS Internals, Runtimes & Distributed Systems</b>
-    <ul>
-      <li>[ ] <b>Distributed Consensus & Fault Tolerance:</b> TLA+ formal specification, PACELC theorem, Asynchronous BFT consensus, and CRDT verification.</li>
-      <li>[ ] <b>Compiler Optimizations & Program Analysis:</b> Static Single Assignment (SSA) form, polyhedral loop transformations, and abstract interpretation.</li>
-      <li>[ ] <b>Kernel & Hardware Subsystems:</b> Non-Volatile Memory architectures, lock-free memory reclamation (Epoch/RCU), and NUMA-aware synchronization.</li>
-    </ul>
-  </li>
-</ul>
+<details>
+  <summary><b>Phase 1: Mathematical Foundations & Optimization</b></summary>
+  <ul>
+    <li>[ ] <b>Convex & Non-Convex Optimization:</b> Proximal gradient methods, KKT conditions, SGD bounds.</li>
+    <li>[ ] <b>Measure-Theoretic Probability:</b> Measure spaces, Lebesgue integration, martingale theory.</li>
+    <li>[ ] <b>Differential Geometry:</b> Riemannian manifolds, parallel transport, geometric DL.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Phase 2: Theoretical CS & Formal Verification</b></summary>
+  <ul>
+    <li>[ ] <b>Advanced Complexity Theory:</b> PAC learning, Rademacher complexity, Interactive Proofs.</li>
+    <li>[ ] <b>Type Theory & Formal Methods:</b> Dependent types, Curry-Howard, Coq/Lean, operational semantics.</li>
+    <li>[ ] <b>High-Dimensional Statistics:</b> Concentration of measure, random matrix theory.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Phase 3: Machine Learning Theory & Compute Microarchitectures</b></summary>
+  <ul>
+    <li>[ ] <b>Statistical Learning:</b> Neural Tangent Kernel (NTK), overparameterization dynamics.</li>
+    <li>[ ] <b>Adversarial Robustness:</b> Randomized smoothing, certified guarantees, Wasserstein DRO.</li>
+    <li>[ ] <b>HPC & Hardware-Aware Algorithms:</b> Roofline modeling, SRAM/HBM limits, Triton memory tiling.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Phase 4: OS Internals, Runtimes & Distributed Systems</b></summary>
+  <ul>
+    <li>[ ] <b>Distributed Consensus:</b> TLA+ formal spec, PACELC theorem, Async BFT consensus.</li>
+    <li>[ ] <b>Compiler Optimizations:</b> SSA form, polyhedral loop transformations, abstract interpretation.</li>
+    <li>[ ] <b>Kernel Subsystems:</b> Non-Volatile Memory, lock-free memory reclamation (Epoch/RCU), NUMA.</li>
+  </ul>
+</details>
 
 ---
 
