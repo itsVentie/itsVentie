@@ -33,7 +33,7 @@
 * ˗ˏˋ **Languages:** <img src="https://flagcdn.com/20x15/gb.png" alt="UK" width="16" /> English • <img src="https://flagcdn.com/20x15/ru.png" alt="RU" width="16" /> Russian • <img src="https://flagcdn.com/20x15/de.png" alt="DE" width="16" /> German • <img src="https://flagcdn.com/20x15/fr.png" alt="FR" width="16" /> French • <img src="https://flagcdn.com/20x15/es.png" alt="ES" width="16" /> Spanish
 
 ---
- 
+
 ## ⋆ Focus & Targets ⋆
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
@@ -74,9 +74,9 @@
     </tr>
     <tr>
       <td width="50%" valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
-        <b>Compute & Acceleration</b><br />
+        <b>Compute, Acceleration & Languages</b><br />
         <code>✦</code> CUDA & Triton & Mojo<br />
-        <br />
+        <code>✦</code> Zig & Nim & Gleam
       </td>
       <td width="50%" valign="top" style="padding: 14px 16px;">
         <b>Open Source Ecosystem</b><br />
@@ -138,7 +138,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left"><b>General & Systems Languages</b></td>
+      <td align="left"><b>Main Languages</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -154,39 +154,27 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
+            <tr><td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
+            <tr><td align="center"><sub>Python</sub></td></tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Currently Learning & Exploring</b></td>
+      <td align="left">
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/zig" width="36" height="36" alt="Zig" /></td></tr>
             <tr><td align="center"><sub>Zig</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/C.svg" width="36" height="36" alt="C" /></td></tr>
-            <tr><td align="center"><sub>C</sub></td></tr>
+            <tr><td align="center"><img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="36" height="36" alt="Nim" /></td></tr>
+            <tr><td align="center"><sub>Nim</sub></td></tr>
           </table>
         </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="36" height="36" alt="C++" /></td></tr>
-            <tr><td align="center"><sub>C++</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
-            <tr><td align="center"><sub>Python</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/kotlin" width="36" height="36" alt="Kotlin" /></td></tr>
-            <tr><td align="center"><sub>Kotlin</sub></td></tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>Domain-Specific & Niche Languages</b></td>
-      <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/gleam" width="36" height="36" alt="Gleam" /></td></tr>
@@ -195,8 +183,19 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="36" height="36" alt="Nim" /></td></tr>
-            <tr><td align="center"><sub>Nim</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/nvidia" width="36" height="36" alt="Triton" /></td></tr>
+            <tr><td align="center"><sub>Triton</sub></td></tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Domain-Specific Languages (Planning/Not in active use)</b></td>
+      <td align="left">
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/kotlin" width="36" height="36" alt="Kotlin" /></td></tr>
+            <tr><td align="center"><sub>Kotlin</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -227,12 +226,6 @@
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/ethereum/ffffff" width="36" height="36" alt="Circom" /></td></tr>
             <tr><td align="center"><sub>Circom</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/nvidia" width="36" height="36" alt="Triton" /></td></tr>
-            <tr><td align="center"><sub>Triton</sub></td></tr>
           </table>
         </a>
       </td>
@@ -560,6 +553,7 @@
 
 <p align="center">
 <img src="https://github-trophies.vercel.app/?username=itsventie&theme=radical&no-frame=true&column=7" alt="GitHub Profile Trophy" />
+</p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdxMWluZWEybTRycHl2YW54cnlnaGhqempjbTE1Y3A2MHQyMmx6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO9TEHqEGzWiQ/giphy.gif" width="160" alt="meow gif" />
