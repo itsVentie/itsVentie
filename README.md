@@ -6,10 +6,14 @@
       </a>
     </td>
     <td align="left" valign="middle" width="50%">
+    <a href="https://spotify.com">
+  <img src="https://lanyard.cnrad.dev/api/939851605111631903?theme=dark&hideDiscrim=true&showExternalApp=true" alt="Discord & Spotify Status" />
+</a>
+  <br/><br/>
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
   <img src="https://img.shields.io/github/followers/itsventie?label=Followers&style=flat-square&color=7aa2f7&logo=github" />
   <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
-  <br/><br/>
+
   <img src="https://img.shields.io/badge/Timezone-UTC%2B2-1a1b26?style=flat-square&logo=clockify&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/Status-Available_for_work-73daca?style=flat-square&logo=gitbook&logoColor=1a1b26" />
   <br/><br/>
@@ -17,10 +21,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fvintiq%2Fstats&query=%24.chess_rapid.last.rating&style=flat-square&logo=chess.com&logoColor=ffffff&label=Chess.com%20Rapid&color=e0af68" alt="Chess.com Rapid Rating" />
   <img src="https://img.shields.io/badge/Shogi-5%20Kyu-73daca?style=flat-square&logo=shogi&logoColor=ffffff" />
   <br/><br/>
-   <a href="https://spotify.com">
-  <img src="https://lanyard.cnrad.dev/api/939851605111631903?theme=dark&hideDiscrim=true&showExternalApp=true" alt="Discord & Spotify Status" />
-</a>
-   <br/><br/>
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
     <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
   </a>
