@@ -343,14 +343,8 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left"><b>Main Languages</b></td>
+      <td align="left"><b>Core / Systems Languages</b></td>
       <td align="left">
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/go" width="36" height="36" alt="Go" /></td></tr>
-            <tr><td align="center"><sub>Go</sub></td></tr>
-          </table>
-        </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/rust/ffffff" width="36" height="36" alt="Rust" /></td></tr>
@@ -359,15 +353,10 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
-            <tr><td align="center"><sub>Python</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/go" width="36" height="36" alt="Go" /></td></tr>
+            <tr><td align="center"><sub>Go</sub></td></tr>
           </table>
         </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>Currently Learning & Exploring</b></td>
-      <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/zig" width="36" height="36" alt="Zig" /></td></tr>
@@ -380,10 +369,21 @@
             <tr><td align="center"><sub>Nim</sub></td></tr>
           </table>
         </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>AI & ML Runtimes</b></td>
+      <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/gleam" width="36" height="36" alt="Gleam" /></td></tr>
-            <tr><td align="center"><sub>Gleam</sub></td></tr>
+            <tr><td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
+            <tr><td align="center"><sub>Python</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="36" height="36" alt="Julia" /></td></tr>
+            <tr><td align="center"><sub>Julia</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -395,24 +395,29 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><b>Domain-Specific Languages (Planning/Not in active use)</b></td>
+      <td align="left"><b>Distributed, Web & Mobile Infra</b></td>
       <td align="left">
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/elixir" width="36" height="36" alt="Elixir" /></td></tr>
+            <tr><td align="center"><sub>Elixir</sub></td></tr>
+          </table>
+        </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/kotlin" width="36" height="36" alt="Kotlin" /></td></tr>
             <tr><td align="center"><sub>Kotlin</sub></td></tr>
           </table>
         </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Exploring & Domain-Specific DSLs</b></td>
+      <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="36" height="36" alt="Julia" /></td></tr>
-            <tr><td align="center"><sub>Julia</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="36" height="36" alt="R" /></td></tr>
-            <tr><td align="center"><sub>R</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/gleam" width="36" height="36" alt="Gleam" /></td></tr>
+            <tr><td align="center"><sub>Gleam</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -436,20 +441,8 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><b>Systems, Web & Microservices</b></td>
+      <td align="left"><b>Backend, Async & Microservices</b></td>
       <td align="left">
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/tauri" width="36" height="36" alt="Tauri" /></td></tr>
-            <tr><td align="center"><sub>Tauri</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/wails" width="36" height="36" alt="Wails" /></td></tr>
-            <tr><td align="center"><sub>Wails</sub></td></tr>
-          </table>
-        </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/tokio" width="36" height="36" alt="Tokio" /></td></tr>
@@ -477,7 +470,42 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><b>AI, Data & Scientific Compute</b></td>
+      <td align="left"><b>UI, Desktop & Frontend</b></td>
+      <td align="left">
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/tauri" width="36" height="36" alt="Tauri" /></td></tr>
+            <tr><td align="center"><sub>Tauri</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/wails" width="36" height="36" alt="Wails" /></td></tr>
+            <tr><td align="center"><sub>Wails</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/solid" width="36" height="36" alt="SolidJS" /></td></tr>
+            <tr><td align="center"><sub>SolidJS</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/preact" width="36" height="36" alt="Preact" /></td></tr>
+            <tr><td align="center"><sub>Preact</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/jetpackcompose" width="36" height="36" alt="Jetpack Compose" /></td></tr>
+            <tr><td align="center"><sub>Compose</sub></td></tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>AI & Data Frameworks</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -495,29 +523,6 @@
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/960px-Tidyverse_hex_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241111025027" width="36" height="36" alt="Tidyverse" /></td></tr>
             <tr><td align="center"><sub>Tidyverse</sub></td></tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>UI & Frontend Frameworks</b></td>
-      <td align="left">
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/solid" width="36" height="36" alt="SolidJS" /></td></tr>
-            <tr><td align="center"><sub>SolidJS</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/preact" width="36" height="36" alt="Preact" /></td></tr>
-            <tr><td align="center"><sub>Preact</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/jetpackcompose" width="36" height="36" alt="Jetpack Compose" /></td></tr>
-            <tr><td align="center"><sub>Compose</sub></td></tr>
           </table>
         </a>
       </td>
@@ -631,9 +636,8 @@
   </tbody>
 </table>
 
-<details>
-  <summary><b> Security, CyberSec & DFIR Toolchain</b></summary>
-  <br />
+
+## ⋆ Security, CyberSec & DFIR Toolchain ⋆
 
   <details style="margin-left: 15px; margin-bottom: 10px;">
     <summary><b>Purple Teaming & Adversary Operations</b></summary>
