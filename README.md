@@ -43,7 +43,7 @@
   * **Socionics:** EII (Dostoevsky)
   * **Attitudinal Psyche:** ELVF (Andersen)
 * ˗ˏˋ **Interests:**
-  * <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> **Chess:** 2300+ Blitz Elo
+  * <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> **Chess:** 2400-2500 Elo
   * <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> **Shogi:** 5 Kyu
   * <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> **Media:** Anime & Manga/Manhwa
   * <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> **Gaming:** Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)
