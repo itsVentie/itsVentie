@@ -20,12 +20,15 @@
         <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
           <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
         </a>
-        <img src="https://img.shields.io/badge/Environment-RHEL_%7C_Windows_11_Pro_%7C_Artix_%7C_EndeavourOS-1a1b26?style=flat&logo=redhat&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Architecture-x86__64_%7C_ARM64-1a1b26?style=flat&logo=cpu&logoColor=f7768e" />
-  <img src="https://img.shields.io/badge/Status-Architecting_Autonomous_Systems-1a1b26?style=flat&logo=probot&logoColor=73daca" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Environment-RHEL_%7C_Windows_11_Pro_%7C_Artix_%7C_EndeavourOS-1a1b26?style=flat&logo=redhat&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Architecture-x86__64_%7C_ARM64-1a1b26?style=flat&logo=cpu&logoColor=f7768e" />
+  <img src="https://img.shields.io/badge/Status-Architecting_Autonomous_Systems-1a1b26?style=flat&logo=probot&logoColor=73daca" />
+</p>
 
 ---
 
