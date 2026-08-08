@@ -6,7 +6,7 @@
       </a>
     </td>
     <td align="left" valign="middle" width="50%">
-      <<a href="https://api.lanyard.rest/v1/users/939851605111631903/spotify/redirect" target="_blank">
+      <a href="https://api.lanyard.rest/v1/users/939851605111631903/spotify/redirect" target="_blank">
   <img src="https://lanyard.cnrad.dev/api/939851605111631903?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=8px" width="100%" />
 </a>
         <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
