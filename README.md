@@ -6,9 +6,9 @@
       </a>
     </td>
     <td align="left" valign="middle" width="50%">
-      <a href="https://spotify.com">
-        <img src="https://lanyard.cnrad.dev/api/939851605111631903?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=8px" width="100%" />
-      </a>
+      <<a href="https://api.lanyard.rest/v1/users/939851605111631903/spotify/redirect" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/939851605111631903?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=8px" width="100%" />
+</a>
         <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
         <img src="https://img.shields.io/github/followers/itsventie?label=Followers&style=flat-square&color=7aa2f7&logo=github" />
         <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
