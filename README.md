@@ -66,43 +66,43 @@
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid #21262d;">
-      <td width="50%" valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
+      <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
         <b>Mathematics & AI</b><br />
         <code>✦</code> AI & ML<br />
         <code>✦</code> Calculus & Linear Algebra
       </td>
-      <td width="50%" valign="top" style="padding: 14px 16px;">
+      <td valign="top" style="padding: 14px 16px;">
         <b>Academic & Scientific Path</b><br />
         <code>✧</code> Become a Computer Science researcher<br />
         <code>✧</code> Conduct research on ML Security & Adversarial Robustness
       </td>
     </tr>
     <tr style="border-bottom: 1px solid #21262d;">
-      <td width="50%" valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
+      <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
         <b>Security & Analysis</b><br />
         <code>✦</code> DFIR & Reverse Engineering<br />
         <code>✦</code> Cryptanalysis
       </td>
-      <td width="50%" valign="top" style="padding: 14px 16px;">
+      <td valign="top" style="padding: 14px 16px;">
         <b>Vulnerability Research</b><br />
         <code>✧</code> Research emerging cyber threats<br />
         <code>✧</code> Discover & disclose zero-day vulnerabilities (CVE)
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
+      <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
         <b>Compute, Acceleration & Languages</b><br />
         <code>✦</code> CUDA & Triton & Mojo<br />
-        <code>✦</code> Zig & Nim & Gleam
+        <code>✦</code> Zig & Gleam
       </td>
-      <td width="50%" valign="top" style="padding: 14px 16px;">
+      <td valign="top" style="padding: 14px 16px;">
         <b>Open Source Ecosystem</b><br />
-        <code>✧</code> Contribute meaningfully to open-source<br />
-        <br />
+        <code>✧</code> Contribute meaningfully to open-source
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ## ⋆ Academic & Research Roadmap ⋆
 
@@ -400,13 +400,13 @@
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.openai.com/triton/assets/triton-logo.png" width="36" height="36" alt="Triton" /></td></tr>
-            <tr><td align="center"><sub>Triton(Not used yet)</sub></td></tr>
+            <tr><td align="center"><sub>Triton <i>(planned)</i></sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="36" height="36" alt="CUDA" /></td></tr>
-            <tr><td align="center"><sub>CUDA(Not used yet)</sub></td></tr>
+            <tr><td align="center"><sub>CUDA <i>(planned)</i></sub></td></tr>
           </table>
         </a>
       </td>
@@ -446,7 +446,7 @@
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/Clojure.svg" width="36" height="36" alt="Clojure" /></td></tr>
-            <tr><td align="center"><sub>Clojure(Not used yet)</sub></td></tr>
+            <tr><td align="center"><sub>Clojure <i> (planned)</i></sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -458,7 +458,7 @@
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/ethereum/ffffff" width="36" height="36" alt="Circom" /></td></tr>
-            <tr><td align="center"><sub>Circom(Not used yet)</sub></td></tr>
+            <tr><td align="center"><sub>Circom <i>(planned)</i></sub></td></tr>
           </table>
         </a>
       </td>
