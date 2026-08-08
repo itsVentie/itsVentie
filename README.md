@@ -380,12 +380,6 @@
             <tr><td align="center"><sub>Zig</sub></td></tr>
           </table>
         </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="36" height="36" alt="Nim" /></td></tr>
-            <tr><td align="center"><sub>Nim</sub></td></tr>
-          </table>
-        </a>
       </td>
     </tr>
     <tr>
@@ -406,13 +400,13 @@
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.openai.com/triton/assets/triton-logo.png" width="36" height="36" alt="Triton" /></td></tr>
-            <tr><td align="center"><sub>Triton</sub></td></tr>
+            <tr><td align="center"><sub>Triton(Not used yet)</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="36" height="36" alt="CUDA" /></td></tr>
-            <tr><td align="center"><sub>CUDA</sub></td></tr>
+            <tr><td align="center"><sub>CUDA(Not used yet)</sub></td></tr>
           </table>
         </a>
       </td>
@@ -445,8 +439,14 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
+            <tr><td align="center"><img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="36" height="36" alt="Nim" /></td></tr>
+            <tr><td align="center"><sub>Nim</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
             <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/Clojure.svg" width="36" height="36" alt="Clojure" /></td></tr>
-            <tr><td align="center"><sub>Clojure</sub></td></tr>
+            <tr><td align="center"><sub>Clojure(Not used yet)</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -458,7 +458,7 @@
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/ethereum/ffffff" width="36" height="36" alt="Circom" /></td></tr>
-            <tr><td align="center"><sub>Circom</sub></td></tr>
+            <tr><td align="center"><sub>Circom(Not used yet)</sub></td></tr>
           </table>
         </a>
       </td>
