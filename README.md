@@ -545,7 +545,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><b>Databases & Storage</b></td>
+<td align="left"><b>Databases & Storage</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -581,6 +581,12 @@
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://images.icon-icons.com/2699/PNG/512/scylladb_logo_icon_169771.png" width="36" height="36" alt="ScyllaDB" /></td></tr>
             <tr><td align="center"><sub>ScyllaDB</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn-icons-png.flaticon.com/128/11389/11389860.png" width="36" height="36" alt="redb" /></td></tr>
+            <tr><td align="center"><sub>redb</sub></td></tr>
           </table>
         </a>
       </td>
@@ -1101,10 +1107,6 @@
     <img src="https://cdn.simpleicons.org/keybase/33A0FF" width="32" height="32" alt="Keybase" />
   </a>
 </p>
-
----
-
-## ⋆ Platforms & Profiles ⋆
 
 <p align="center">
   <a href="https://tryhackme.com/p/Ventie" target="_blank">
