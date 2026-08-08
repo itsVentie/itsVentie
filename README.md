@@ -32,13 +32,22 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> ⋆ About Me ⋆
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> ⋆ About Me ⋆
 
 * ˗ˏˋ **Headline:** Security Systems & AI/ML Engineer // Future Computer Scientist
 * ˗ˏˋ **Age:** 18+
-* ˗ˏˋ **Gender:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="non-binary" width="16"> Non-binary
-* ˗ˏˋ **Personality:** INFJ • 4w5
-* ˗ˏˋ **Languages:** <img src="https://flagcdn.com/20x15/gb.png" alt="UK" width="16" /> English • <img src="https://flagcdn.com/20x15/ru.png" alt="RU" width="16" /> Russian • <img src="https://flagcdn.com/20x15/de.png" alt="DE" width="16" /> German • <img src="https://flagcdn.com/20x15/fr.png" alt="FR" width="16" /> French • <img src="https://flagcdn.com/20x15/es.png" alt="ES" width="16" /> Spanish
+* ˗ˏˋ **Gender:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary
+* ˗ˏˋ **Personality Profiles:**
+  * **MBTI:** INFJ-T (Advocate)
+  * **Enneagram:** 4w5 (The Individualist / The Bohemian)
+  * **Socionics:** EII (Dostoevsky)
+  * **Attitudinal Psyche:** ELVF (Andersen)
+* ˗ˏˋ **Interests:**
+  * <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> **Chess:** 2300+ Blitz Elo
+  * <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> **Shogi:** 5 Kyu
+  * <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> **Media:** Anime & Manga/Manhwa
+  * <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> **Gaming:** Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)
+* ˗ˏˋ **Languages:** <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English • <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian • <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German • <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French • <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish
 
 ---
 
