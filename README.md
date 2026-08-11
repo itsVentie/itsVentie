@@ -165,12 +165,12 @@
 <details>
 <summary><b>Phase 1: Real, Complex Analysis & Linear Algebra</b></summary>
 
-- [ ] **Topology of Metric Spaces:** $\epsilon$-$\delta$ continuity, open/closed sets, compactness (Heine-Borel, sequential compactness), connectedness, completeness, Cauchy sequences, Baire Category Theorem.
-- [ ] **Real Analysis:** Uniform vs pointwise convergence, Arzelà-Ascoli theorem, Stone-Weierstrass theorem, Riemann-Stieltjes integration, power series, radius of convergence.
-- [ ] **Complex Analysis:** Cauchy-Riemann equations, Cauchy's Integral Theorem & Formula, Laurent series, Residue Theorem, conformal mappings, analytic continuation.
-- [ ] **Linear Operators & Canonical Forms:** Spectral Theorem for normal operators, Jordan Normal Form, Schur Decomposition, Singular Value Decomposition (SVD), Low-rank approximations.
-- [ ] **Matrix Analysis:** Matrix norms ($L_{p,q}$, Schatten $p$-norms, Operator norm), Courant-Fischer Min-Max Theorem, Gershgorin Circle Theorem, Perron-Frobenius Theorem, Condition numbers & matrix stability.
-- [ ] **Differential Forms & Vector Calculus:** Exterior algebra, wedge product ($\wedge$), exterior derivative ($d$), differential $k$-forms, pullbacks, Stokes' Theorem on Manifolds ($\int_{\partial M} \omega = \int_M d\omega$).
+- [ ] **Topology of Metric Spaces:** Continuity definitions, open and closed sets, compactness (Heine-Borel, sequential compactness), connectedness, completeness, Cauchy sequences, and Baire Category Theorem.
+- [ ] **Real Analysis:** Uniform vs. pointwise convergence, Arzelà-Ascoli theorem, Stone-Weierstrass theorem, Riemann-Stieltjes integration, power series, and radius of convergence.
+- [ ] **Complex Analysis:** Cauchy-Riemann equations, Cauchy's Integral Theorem and Formula, Laurent series, Residue Theorem, conformal mappings, and analytic continuation.
+- [ ] **Linear Operators & Canonical Forms:** Spectral Theorem for normal operators, Jordan Normal Form, Schur Decomposition, Singular Value Decomposition (SVD), and low-rank approximations.
+- [ ] **Matrix Analysis:** Matrix norms (operator, Schatten, Lp,q), Courant-Fischer Min-Max Theorem, Gershgorin Circle Theorem, Perron-Frobenius Theorem, condition numbers, and matrix stability.
+- [ ] **Differential Forms & Vector Calculus:** Exterior algebra, wedge product, exterior derivative, differential k-forms, pullbacks, and Generalized Stokes' Theorem on Manifolds.
 
 📚 **Primary Reading:** **Walter Rudin** — *Principles of Mathematical Analysis* | **Lars Ahlfors** — *Complex Analysis* | **Sheldon Axler** — *Linear Algebra Done Right* | **Gene H. Golub, Charles F. Van Loan** — *Matrix Computations*.
 
@@ -179,10 +179,10 @@
 <details>
 <summary><b>Phase 2: Abstract Algebra, Galois Theory & Number Theory</b></summary>
 
-- [ ] **Group Theory:** Normal subgroups, quotient groups, First/Second/Third Isomorphism Theorems, Group actions, Sylow Theorems, Solvable groups, Symmetric/Alternating groups ($S_n, A_n$).
-- [ ] **Ring & Ideal Theory:** Commutative rings, prime and maximal ideals, Principal Ideal Domains (PID), Unique Factorization Domains (UFD), Euclidean domains, Quotient rings.
-- [ ] **Field Extensions & Galois Theory:** Algebraic vs transcendental extensions, Splitting fields, Finite fields ($\mathbb{F}_{p^k}$ / Galois Fields), Fundamental Theorem of Galois Theory, Cyclotomic polynomials.
-- [ ] **Computational Number Theory:** Extended Euclidean Algorithm, Chinese Remainder Theorem (CRT), Euler's Totient ($\phi$), Discrete Logarithm Problem (DLP), Quadratic Reciprocity, Miller-Rabin Primality Test, Pollard's $\rho$ algorithm.
+- [ ] **Group Theory:** Normal subgroups, quotient groups, First/Second/Third Isomorphism Theorems, group actions, Sylow Theorems, solvable groups, and symmetric or alternating groups.
+- [ ] **Ring & Ideal Theory:** Commutative rings, prime and maximal ideals, Principal Ideal Domains (PID), Unique Factorization Domains (UFD), Euclidean domains, and quotient rings.
+- [ ] **Field Extensions & Galois Theory:** Algebraic vs. transcendental extensions, splitting fields, finite fields (Galois Fields), Fundamental Theorem of Galois Theory, and cyclotomic polynomials.
+- [ ] **Computational Number Theory:** Extended Euclidean Algorithm, Chinese Remainder Theorem, Euler's Totient function, Discrete Logarithm Problem, Quadratic Reciprocity, Miller-Rabin primality testing, and Pollard's rho algorithm.
 
 📚 **Primary Reading:** **David S. Dummit, Richard M. Foote** — *Abstract Algebra* | **Victor Shoup** — *A Computational Introduction to Number Theory and Algebra*.
 
@@ -191,12 +191,12 @@
 <details>
 <summary><b>Phase 3: Measure-Theoretic Probability & Stochastic Analysis</b></summary>
 
-- [ ] **Measure Theory:** $\sigma$-algebras, Borel sets, Outer measures, Carathéodory Extension Theorem, Lebesgue measure construction, Non-measurable sets (Vitali sets).
-- [ ] **Lebesgue Integration:** Measurable functions, Simple functions, Monotone Convergence Theorem, Fatou's Lemma, Dominated Convergence Theorem, $L^p$ spaces, Completeness of $L^p$ (Riesz-Fischer Theorem).
-- [ ] **Product Measures & Absolute Continuity:** Product $\sigma$-algebras, Fubini-Tonelli Theorems, Radon-Nikodym Theorem & Derivatives, Lebesgue Decomposition Theorem.
-- [ ] **Probability Foundations:** Probability spaces $(\Omega, \mathcal{F}, \mathbb{P})$, Random variables as measurable mappings, Independence, Borel-Cantelli Lemmas, Kolmogorov's 0-1 Law.
-- [ ] **Martingale Theory:** Filtration, Conditional expectation as an $L^2$ projection, Martingales, Super/Sub-martingales, Stopping times, Doob's Optional Stopping Theorem, Doob's Martingale Convergence Theorem, Azuma-Hoeffding inequality.
-- [ ] **Stochastic Calculus:** Brownian Motion (Wiener Process properties), Itô Integral, Itô's Lemma, Stochastic Differential Equations (SDEs), Fokker-Planck equation, Ornstein-Uhlenbeck processes.
+- [ ] **Measure Theory:** Sigma-algebras, Borel sets, outer measures, Carathéodory Extension Theorem, Lebesgue measure construction, and Vitali non-measurable sets.
+- [ ] **Lebesgue Integration:** Measurable and simple functions, Monotone Convergence Theorem, Fatou's Lemma, Dominated Convergence Theorem, Lp spaces, and completeness of Lp (Riesz-Fischer Theorem).
+- [ ] **Product Measures & Absolute Continuity:** Product sigma-algebras, Fubini-Tonelli Theorems, Radon-Nikodym Theorem and derivatives, and Lebesgue Decomposition Theorem.
+- [ ] **Probability Foundations:** Probability spaces, random variables as measurable mappings, independence, Borel-Cantelli Lemmas, and Kolmogorov's 0-1 Law.
+- [ ] **Martingale Theory:** Filtrations, conditional expectation as L2 projection, super/sub-martingales, stopping times, Doob's Optional Stopping Theorem, Doob's Convergence Theorem, and Azuma-Hoeffding inequality.
+- [ ] **Stochastic Calculus:** Brownian motion (Wiener process), Itô integral, Itô's Lemma, Stochastic Differential Equations (SDEs), Fokker-Planck equation, and Ornstein-Uhlenbeck processes.
 
 📚 **Primary Reading:** **Patrick Billingsley** — *Probability and Measure* | **R. M. Dudley** — *Real Analysis and Probability* | **Bernt Øksendal** — *Stochastic Differential Equations*.
 
@@ -205,11 +205,11 @@
 <details>
 <summary><b>Phase 4: Convex, Non-Convex & High-Dimensional Optimization</b></summary>
 
-- [ ] **Convex Analysis:** Convex sets, Supporting Hyperplane Theorem, Proper/Closed/Lower-Semicontinuous functions, Fenchel Conjugate ($f^*$), Subgradients & Subdifferentials ($\partial f$).
-- [ ] **Optimality & Duality:** Karush-Kuhn-Tucker (KKT) conditions, Constraint qualifications (Slater's condition), Lagrangian Duality, Strong Duality, Dual Ascent, Primal-Dual methods.
-- [ ] **First-Order Optimization:** Nesterov's Accelerated Gradient Descent (NAG), Proximal Gradient Descent (ISTA/FISTA), ADMM (Alternating Direction Method of Multipliers), Mirror Descent, Frank-Wolfe (Conditional Gradient).
-- [ ] **Stochastic & Non-Convex Optimization:** Stochastic Gradient Descent (SGD) convergence under $L$-smoothness, Polyak-Łojasiewicz (PL) inequality, Variance reduction methods (SVRG, SAGA), Escaping saddle points via Hessian-free and perturbed SGD, Adam/RMSProp convergence limits.
-- [ ] **Manifold Optimization:** Riemannian Gradient Descent, Retractions, Vector Transport, Optimization on Grassmannians and Stiefel manifolds.
+- [ ] **Convex Analysis:** Convex sets, Supporting Hyperplane Theorem, proper/closed/lower-semicontinuous functions, Fenchel Conjugate, subgradients, and subdifferentials.
+- [ ] **Optimality & Duality:** Karush-Kuhn-Tucker (KKT) conditions, Slater's constraint qualification, Lagrangian duality, strong duality, dual ascent, and primal-dual algorithms.
+- [ ] **First-Order Optimization:** Nesterov Accelerated Gradient Descent, Proximal Gradient Descent (ISTA/FISTA), ADMM, Mirror Descent, and Frank-Wolfe algorithms.
+- [ ] **Stochastic & Non-Convex Optimization:** SGD convergence under smoothness, Polyak-Łojasiewicz inequality, variance reduction (SVRG, SAGA), escaping saddle points via Hessian-free or perturbed SGD, and Adam/RMSProp stability limits.
+- [ ] **Manifold Optimization:** Riemannian Gradient Descent, retractions, vector transport, and optimization on Grassmannian and Stiefel manifolds.
 
 📚 **Primary Reading:** **Stephen Boyd, Lieven Vandenberghe** — *Convex Optimization* | **Yurii Nesterov** — *Lectures on Convex Optimization* | **Nicolas Boumal** — *An Introduction to Optimization on Smooth Manifolds*.
 
@@ -218,9 +218,9 @@
 <details>
 <summary><b>Phase 5: Differential Geometry & Geometric Mechanics</b></summary>
 
-- [ ] **Smooth Manifolds & Tensors:** Smooth maps, Immersions, Subversions, Tangent space $T_p M$, Cotangent space $T_p^* M$, Tangent bundle $TM$, Vector fields, Lie Bracket $[X,Y]$, Exterior algebra.
-- [ ] **Riemannian Geometry:** Riemannian metric $g$, Levi-Civita connection $\nabla$, Parallel transport, Geodesics, Exponential map $\exp_p$, Riemann curvature tensor, Ricci curvature, Scalar curvature.
-- [ ] **Lie Groups & Lie Algebras:** $\mathrm{SO}(3)$, $\mathrm{SE}(3)$, $\mathrm{SU}(N)$, Exponential map $\exp: \mathfrak{g} \to G$, Adjoint representation $\mathrm{Ad}_g$, Lie algebra actions on manifolds.
+- [ ] **Smooth Manifolds & Tensors:** Smooth maps, immersions, submersions, tangent and cotangent spaces, tangent bundles, vector fields, Lie brackets, and exterior algebra.
+- [ ] **Riemannian Geometry:** Riemannian metrics, Levi-Civita connection, parallel transport, geodesics, exponential maps, Riemann curvature tensor, Ricci curvature, and scalar curvature.
+- [ ] **Lie Groups & Lie Algebras:** SO(3), SE(3), SU(N) groups, exponential mapping from Lie algebras to groups, adjoint representations, and Lie algebra actions on manifolds.
 
 📚 **Primary Reading:** **John M. Lee** — *Introduction to Smooth Manifolds* | **Manfredo P. do Carmo** — *Riemannian Geometry*.
 
@@ -233,11 +233,11 @@
 <details>
 <summary><b>Phase 1: Computational Complexity & Information Theory</b></summary>
 
-- [ ] **Structural Complexity:** Turing Machines (Deterministic, Nondeterministic, Oracle), Classes $\mathcal{P}, \mathcal{NP}, \mathcal{coNP}$, Polynomial Hierarchy ($\mathbf{\Sigma}_k^P, \mathbf{\Pi}_k^P$), $\mathcal{PSPACE}$, Ladner's Theorem, Baker-Gill-Solovay Relativization barrier.
-- [ ] **Space & Circuit Complexity:** Savitch's Theorem, Immerman-Szelepcsényi Theorem ($\mathcal{NL} = \mathcal{coNL}$), Circuit classes $\mathcal{NC}^k, \mathcal{AC}^k$, Razborov-Smirnov Natural Proofs barrier.
-- [ ] **Interactive Proofs & Zero-Knowledge:** IP = PSPACE Theorem (Shamir), Interactive Proof Systems, Arthur-Merlin games ($\mathcal{AM}, \mathcal{MA}$), Zero-Knowledge definition (Computational, Statistical, Perfect), PCP Theorem (Probabilistically Checkable Proofs) and Hardness of Approximation.
-- [ ] **Quantum Complexity:** Postulates of Quantum Mechanics, Quantum Circuits, Class $\mathcal{BQP}$, Shor's factoring algorithm, Grover's search, Quantum Supremacy frontiers.
-- [ ] **Information Theory:** Shannon Entropy $H(X)$, Joint/Conditional Entropy, Mutual Information $I(X;Y)$, KL Divergence $D_{\mathrm{KL}}(P \parallel Q)$, Rényi Entropy, Channel Capacity, Fano's Inequality, Data Processing Inequality.
+- [ ] **Structural Complexity:** Turing machines (Deterministic, Non-deterministic, Oracle), classes P, NP, coNP, Polynomial Hierarchy, PSPACE, Ladner's Theorem, and Baker-Gill-Solovay Relativization barrier.
+- [ ] **Space & Circuit Complexity:** Savitch's Theorem, Immerman-Szelepcsényi Theorem (NL = coNL), NC and AC circuit classes, and Razborov-Smirnov Natural Proofs barrier.
+- [ ] **Interactive Proofs & Zero-Knowledge:** IP = PSPACE Theorem (Shamir), Interactive Proof Systems, Arthur-Merlin games (AM, MA), zero-knowledge definitions (Computational, Statistical, Perfect), PCP Theorem, and Hardness of Approximation.
+- [ ] **Quantum Complexity:** Postulates of Quantum Mechanics, quantum circuits, class BQP, Shor's factoring algorithm, Grover's search, and Quantum Supremacy frontiers.
+- [ ] **Information Theory:** Shannon entropy, joint and conditional entropy, mutual information, KL divergence, Rényi entropy, channel capacity, Fano's Inequality, and Data Processing Inequality.
 
 📚 **Primary Reading:** **Sanjeev Arora, Boaz Barak** — *Computational Complexity: A Modern Approach* | **Thomas M. Cover, Joy A. Thomas** — *Elements of Information Theory* | **Michael A. Nielsen, Isaac L. Chuang** — *Quantum Computation and Quantum Information*.
 
@@ -246,12 +246,12 @@
 <details>
 <summary><b>Phase 2: Lattice-Based Cryptography, PQC & Cryptanalysis</b></summary>
 
-- [ ] **Lattice Geometry:** Geometry of Numbers, Full-rank lattices $\Lambda \subset \mathbb{R}^n$, Determinant $\det(\Lambda)$, Dual lattice $\Lambda^*$, Fundamental parallelotope, Successive minima $\lambda_i(\Lambda)$, Minkowski's Theorems.
-- [ ] **Lattice Reduction Algorithms:** Gram-Schmidt Orthogonalization, LLL (Lenstra-Lenstra-Lovász) reduction algorithm, Hermite-factor, BKZ (Block Korkine-Zolotarev) reduction, Babai's Closest Vector Algorithms (Nearest Plane, Rounding).
-- [ ] **Lattice Hard Problems:** Shortest Vector Problem (SVP), Closest Vector Problem (CVP), Bounded Distance Decoding (BDD), Shortest Independent Vectors Problem (SIVP), Average-case to Worst-case reductions.
-- [ ] **Learning With Errors (LWE) Mechanics:** LWE formulation, Search-LWE vs Decision-LWE reduction, Ring-LWE ($\mathbb{Z}_q[X]/(X^n+1)$), Module-LWE.
-- [ ] **PQC Standards & Implementations:** NIST PQC Standards: ML-KEM (Kyber) & ML-DSA (Dilithium), Number Theoretic Transform (NTT) for fast polynomial multiplication, Constant-time implementation techniques to prevent timing side-channels, Power Analysis (SPA/DPA) mitigations.
-- [ ] **Zero-Knowledge Proof Construction:** R1CS (Rank-1 Constraint System), AIR (Algebraic Intermediate Representation), Polynomial Commitment Schemes (KZG, IPA, FRI), SNARKs (Groth16, PLONK) vs STARKs.
+- [ ] **Lattice Geometry:** Geometry of numbers, full-rank lattices, determinant, dual lattice, fundamental parallelotope, successive minima, and Minkowski's Theorems.
+- [ ] **Lattice Reduction Algorithms:** Gram-Schmidt Orthogonalization, LLL reduction algorithm, Hermite factor, BKZ reduction, and Babai's Closest Vector algorithms (Nearest Plane, Rounding).
+- [ ] **Lattice Hard Problems:** Shortest Vector Problem (SVP), Closest Vector Problem (CVP), Bounded Distance Decoding (BDD), Shortest Independent Vectors Problem (SIVP), and worst-case to average-case reductions.
+- [ ] **Learning With Errors (LWE) Mechanics:** LWE formulation, Search-LWE to Decision-LWE reduction, Ring-LWE, and Module-LWE.
+- [ ] **PQC Standards & Implementations:** NIST PQC Standards (ML-KEM/Kyber, ML-DSA/Dilithium), Number Theoretic Transform (NTT) for fast polynomial multiplication, constant-time side-channel mitigations, and power analysis (SPA/DPA) defenses.
+- [ ] **Zero-Knowledge Proof Construction:** Rank-1 Constraint Systems (R1CS), Algebraic Intermediate Representation (AIR), Polynomial Commitment Schemes (KZG, IPA, FRI), SNARKs (Groth16, PLONK), and STARKs.
 
 📚 **Primary Reading:** **Daniele Micciancio, Oded Regev** — *Lattice-Based Cryptography* | **Oded Goldreich** — *Foundations of Cryptography (Volumes 1 & 2)* | **Steven Galbraith** — *Mathematics of Public Key Cryptography*.
 
@@ -260,11 +260,11 @@
 <details>
 <summary><b>Phase 3: Type Theory, Formal Semantics & Interactive Theorem Proving</b></summary>
 
-- [ ] **Lambda Calculus:** Untyped $\lambda$-calculus ($\beta/\eta$-reduction, Church-Rosser theorem, Curry's $Y$-combinator), Simply Typed $\lambda$-calculus ($\lambda^{\to}$, Strong Normalization), System F (polymorphism), System $F_\omega$.
-- [ ] **Dependent Type Theory:** Calculus of Constructions (CoC), Pure Type Systems, $\lambda P$ (dependent types), Martin-Löf Type Theory (MLTT), Homotopy Type Theory (HoTT) basics (Univalence Axiom).
-- [ ] **Curry-Howard Isomorphism:** Propositions-as-Types, Proofs-as-Programs, Classical vs Intuitionistic Logic, Constructive Mathematics.
-- [ ] **Formal Program Semantics:** Small-step & Big-step Operational Semantics, Denotational Semantics (Domain Theory, Complete Partial Orders), Axiomatic Semantics (Hoare Logic, Invariants, Weakest Preconditions), Separation Logic for memory heap reasoning.
-- [ ] **Verification Toolchains & Solvers:** SMT Solving algorithms: DPLL(T), Congruence Closure, Simplex for LIA/LRA, Bit-vector theories ($QF\_BV$), Abstract Interpretation (Galois Connections, Widening/Narrowing operators), Theorem Provers (Coq / Lean 4 proof automation).
+- [ ] **Lambda Calculus:** Untyped lambda calculus (beta/eta reduction, Church-Rosser theorem, Y-combinator), Simply Typed lambda calculus (Strong Normalization), System F, and System F-omega.
+- [ ] **Dependent Type Theory:** Calculus of Constructions (CoC), Pure Type Systems, dependent types, Martin-Löf Type Theory (MLTT), and Homotopy Type Theory (HoTT) basics including the Univalence Axiom.
+- [ ] **Curry-Howard Isomorphism:** Propositions-as-Types, Proofs-as-Programs, classical vs. intuitionistic logic, and constructive mathematics.
+- [ ] **Formal Program Semantics:** Small-step and Big-step operational semantics, denotational semantics (domain theory, complete partial orders), axiomatic semantics (Hoare logic, invariants, weakest preconditions), and Separation Logic.
+- [ ] **Verification Toolchains & Solvers:** SMT solving algorithms (DPLL(T), Congruence Closure, Simplex for LIA/LRA, Bit-vector theories), Abstract Interpretation (Galois Connections, Widening/Narrowing), and Theorem Provers (Coq / Lean 4 proof automation).
 
 📚 **Primary Reading:** **Benjamin C. Pierce** — *Types and Programming Languages (TAPL)* | **Benjamin C. Pierce et al.** — *Software Foundations (Coq Series)* | **Bradley & Manna** — *The Calculus of Computation: Decision Procedures with Applications to Verification*.
 
@@ -277,10 +277,10 @@
 <details>
 <summary><b>Phase 1: Statistical Learning Theory & Infinite-Width Regime</b></summary>
 
-- [ ] **PAC Learning Framework:** Probably Approximately Correct (PAC) learning, Agnostic PAC learning, Sample Complexity bounds, Empirical Risk Minimization (ERM).
-- [ ] **Combinatorial & Function Class Complexity:** Growth Function, Sauer-Shelah Lemma, VC-Dimension, Vapnik-Chervonenkis bounds, Rademacher & Gaussian Complexities, Fat-shattering dimension.
-- [ ] **Concentration of Measure:** Sub-Gaussian & Sub-Exponential random variables, Hoeffding's Lemma/Inequality, Chernoff Bounds, McDiarmid's Inequality (Bounded Differences), Bernstein's Inequality, Hansen-Wright Inequality.
-- [ ] **Overparameterization Mechanics:** Double Descent curve (Interpolation threshold), Benign Overfitting in high dimensions, Neural Tangent Kernel (NTK) regime ($\infty$-width limit, ODE dynamics of gradient flow), Lazy Training vs Feature Learning regime (Tensor Programs, $\mu P$ parametrization).
+- [ ] **PAC Learning Framework:** Probably Approximately Correct (PAC) learning, Agnostic PAC learning, Sample Complexity bounds, and Empirical Risk Minimization (ERM).
+- [ ] **Combinatorial & Function Class Complexity:** Growth function, Sauer-Shelah Lemma, VC-Dimension, Vapnik-Chervonenkis bounds, Rademacher and Gaussian complexities, and fat-shattering dimension.
+- [ ] **Concentration of Measure:** Sub-Gaussian and Sub-Exponential random variables, Hoeffding's Lemma/Inequality, Chernoff bounds, McDiarmid's Inequality, Bernstein's Inequality, and Hansen-Wright Inequality.
+- [ ] **Overparameterization Mechanics:** Double Descent curve (interpolation threshold), benign overfitting in high dimensions, Neural Tangent Kernel (NTK) regime (infinite-width limit, ODE dynamics of gradient flow), and lazy training vs. feature learning regimes (muP parametrization).
 
 📚 **Primary Reading:** **Shai Shalev-Shwartz, Shai Ben-David** — *Understanding Machine Learning: From Theory to Algorithms* | **Roman Vershynin** — *High-Dimensional Probability* | **Martin J. Wainwright** — *High-Dimensional Statistics: A Non-Asymptotic Viewpoint*.
 
@@ -289,8 +289,8 @@
 <details>
 <summary><b>Phase 2: Geometric Deep Learning & Symmetry</b></summary>
 
-- [ ] **Symmetry and Equivariance:** Symmetry and Invariance/Equivariance principles, Group Equivariant CNNs (G-CNNs), Spherical CNNs, Gauge Equivariant Mesh CNNs.
-- [ ] **Graph & Mesh Theory:** Spectral Graph Theory (Graph Laplacian $L = D - A$, Normalized Laplacian, Graph Fourier Transform), Message Passing Neural Networks (MPNNs), Oversmoothing & Oversquashing phenomena.
+- [ ] **Symmetry and Equivariance:** Invariance and equivariance principles, Group Equivariant CNNs (G-CNNs), Spherical CNNs, and Gauge Equivariant Mesh CNNs.
+- [ ] **Graph & Mesh Theory:** Spectral Graph Theory (Graph Laplacian, Normalized Laplacian, Graph Fourier Transform), Message Passing Neural Networks (MPNNs), oversmoothing, and oversquashing phenomena.
 
 📚 **Primary Reading:** **Michael M. Bronstein et al.** — *Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*.
 
@@ -299,9 +299,9 @@
 <details>
 <summary><b>Phase 3: Adversarial Robustness, Certified Bounds & Distributional Drift</b></summary>
 
-- [ ] **Adversarial Threat Formalization:** $L_\infty, L_2, L_1$ Threat Models, First-order attacks (FGSM, PGD, C&W, AutoAttack), Black-box attacks (Query-based, Transferability, Substitute models), Backdoor & Data Poisoning attacks (Clean-label poisoning, Bilevel optimization formulation).
-- [ ] **Certified Defense Mechanics:** Randomized Smoothing ($\ell_2$ certified radius computation via Neyman-Pearson Lemma), Interval Bound Propagation (IBP), Bound Propagation via Abstract Interpretation ($\alpha,\beta$-CROWN, LiRPA), Exact verification via SMT/MILP solvers (Reluplex, Marabou).
-- [ ] **Distributional Robustness & Domain Generalization:** Wasserstein Distributionally Robust Optimization (WDRO), Optimal Transport distance $W_1$, Invariant Risk Minimization (IRM), Domain Adversarial Neural Networks (DANN), Out-of-Distribution (OOD) Detection.
+- [ ] **Adversarial Threat Formalization:** L-infinity, L2, and L1 threat models, first-order attacks (FGSM, PGD, C&W, AutoAttack), black-box attacks (query-based, transferability, substitute models), and backdoor/data poisoning attacks.
+- [ ] **Certified Defense Mechanics:** Randomized smoothing (L2 certified radius via Neyman-Pearson Lemma), Interval Bound Propagation (IBP), bound propagation via abstract interpretation (alpha/beta-CROWN, LiRPA), and exact verification via SMT/MILP solvers (Reluplex, Marabou).
+- [ ] **Distributional Robustness & Domain Generalization:** Wasserstein Distributionally Robust Optimization (WDRO), Optimal Transport distance (W1), Invariant Risk Minimization (IRM), Domain Adversarial Neural Networks (DANN), and Out-of-Distribution (OOD) detection.
 
 📚 **Primary Reading:** **Pin-Yu Chen, Cho-Jui Hsieh** — *Adversarial Robustness for Machine Learning* | **Cédric Villani** — *Optimal Transport: Old and New*.
 
@@ -310,9 +310,9 @@
 <details>
 <summary><b>Phase 4: Alignment Mathematics, Game Theory & Agent Safety</b></summary>
 
-- [ ] **Preference Learning Mathematics:** Bradley-Terry & Plackett-Luce preference models, Reinforcement Learning from Human Feedback (RLHF) objective formulation (PPO with KL-penalty), Direct Preference Optimization (DPO) closed-form derivation, Kahneman-Tversky Optimization (KTO), Identity-PO.
-- [ ] **Control-Theoretic Safety:** Control Barrier Functions (CBF), Control Lyapunov Functions (CLF), Safe Reinforcement Learning, Constrained Markov Decision Processes (CMDPs) with Lagrangian multipliers.
-- [ ] **AI Agent Security & Red Teaming:** Direct/Indirect Prompt Injection vectors, Representation Engineering, Jailbreak mechanics (Adversarial Suffix Search / GCG algorithm), Guardrail System Design, Automated Multi-Agent Red-Teaming, Formalization of Agent Intent & Specification Drift.
+- [ ] **Preference Learning:** Bradley-Terry and Plackett-Luce preference models, RLHF objective formulation (PPO with KL-penalty), Direct Preference Optimization (DPO), Kahneman-Tversky Optimization (KTO), and Identity-PO.
+- [ ] **Control-Theoretic Safety:** Control Barrier Functions (CBF), Control Lyapunov Functions (CLF), Safe Reinforcement Learning, and Constrained Markov Decision Processes (CMDPs) with Lagrangian multipliers.
+- [ ] **AI Agent Security & Red Teaming:** Direct/Indirect prompt injection, Representation Engineering, jailbreak mechanics (GCG algorithm), guardrail system design, automated multi-agent red-teaming, and formal specification drift.
 
 📚 **Primary Reading:** **Dimitri P. Bertsekas** — *Reinforcement Learning and Optimal Control* | **NeurIPS / ICML / ICLR / IEEE S&P / USENIX Security** — *Current Safety & Alignment Proceedings*.
 
@@ -325,10 +325,10 @@
 <details>
 <summary><b>Phase 1: Silicon Foundations & Digital Microarchitecture</b></summary>
 
-- [ ] **Semiconductor Physics & MOSFETs:** P-N junctions, Bandgap mechanics, NMOS/PMOS transistor operation, CMOS logic gates, parasitic capacitance, leakage current ($I_\text{leak}$), dynamic power ($P = C V^2 f$).
-- [ ] **Digital Logic & Sequential Circuitry:** Boolean algebra minimization (Karnaugh maps, Quine-McCluskey), Setup/Hold times, Clock jitter/skew, Metastability, Synchronizers, Finite State Machines (FSMs / Mealy & Moore).
-- [ ] **Computer Organization & RTL:** Register-Transfer Level (RTL) design, ALU architectures, Carry-Lookahead adders, Wallace tree multipliers, Pipelining (Hazard detection, Forwarding, Stall units), Branch Predictors (2-bit local, Gshare, TAGE).
-- [ ] **Memory Subsystem Microarchitecture:** SRAM cell topology (6T) vs DRAM cell (1T1C), Cache lines, Direct-mapped vs Set-Associative caches, MESI/MOESI cache coherence protocols, Write-buffers, Store-to-Load forwarding.
+- [ ] **Semiconductor Physics & MOSFETs:** P-N junctions, bandgap mechanics, NMOS/PMOS operation, CMOS logic gates, parasitic capacitance, leakage current, and dynamic power consumption.
+- [ ] **Digital Logic & Sequential Circuitry:** Boolean algebra minimization (Karnaugh maps, Quine-McCluskey), setup/hold times, clock jitter/skew, metastability, synchronizers, and Finite State Machines (Mealy & Moore).
+- [ ] **Computer Organization & RTL:** Register-Transfer Level (RTL) design, ALU architectures, carry-lookahead adders, Wallace tree multipliers, pipelining hazards, forwarding, stall units, and branch predictors (Gshare, TAGE).
+- [ ] **Memory Subsystem Microarchitecture:** SRAM topology (6T) vs DRAM cell (1T1C), cache line architecture, direct-mapped vs set-associative caches, MESI/MOESI cache coherence, write-buffers, and store-to-load forwarding.
 
 📚 **Primary Reading:** **Neil Weste, David Harris** — *CMOS VLSI Design* | **David Harris, Sarah Harris** — *Digital Design and Computer Architecture*.
 
@@ -337,10 +337,10 @@
 <details>
 <summary><b>Phase 2: Hardware Microarchitecture & Parallel Compute Engines</b></summary>
 
-- [ ] **Advanced CPU Microarchitecture:** Out-of-Order Execution (OoO), Reorder Buffer (ROB), Reservation Stations, Register Renaming (RAT), Branch Target Buffers (BTB), TAGE Predictor, SIMD Vectorization (AVX-512, ARM SVE), Cache bottlenecks (False sharing, Cache line bouncing, NUMA effects).
-- [ ] **GPU Architecture & Compute Pipelines:** SIMT Execution Model (Single Instruction, Multiple Threads), Streaming Multiprocessors (SMs), Warps (32 threads), Warp Divergence, Register Pressure, Shared Memory Banking & Bank Conflicts, Tensor Cores (MMA - Matrix Multiply-Accumulate execution paths), HBM3/HBM3e vs SRAM bandwidth constraints.
-- [ ] **Roofline Performance Modeling:** Arithmetic Intensity (FLOP/Byte), Operational Boundaries, Memory Bound vs Compute Bound classification, Latency hiding via concurrency.
-- [ ] **Custom Kernel Engineering (CUDA & Triton):** Manual Shared Memory Tiling, Coalesced Global Memory Access, Warp Shuffle Primitives (`__shfl_xor_sync`), Double Buffering / Asynchronous Data Transfers (`cp.async`), Triton Compiler IR (Triton-GPU MLIR Dialect), PTX & SASS Assembly Inspection.
+- [ ] **Advanced CPU Microarchitecture:** Out-of-Order execution (OoO), Reorder Buffer (ROB), Reservation Stations, Register Renaming (RAT), Branch Target Buffers (BTB), SIMD vectorization (AVX-512, ARM SVE), and cache bottlenecks (false sharing, NUMA effects).
+- [ ] **GPU Architecture & Compute Pipelines:** SIMT execution model, Streaming Multiprocessors (SMs), Warps (32 threads), warp divergence, register pressure, shared memory bank conflicts, Tensor Cores (MMA execution paths), and HBM3 vs SRAM bandwidth constraints.
+- [ ] **Roofline Performance Modeling:** Arithmetic intensity (FLOP/Byte), operational boundaries, memory-bound vs compute-bound classification, and latency hiding via concurrency.
+- [ ] **Custom Kernel Engineering (CUDA & Triton):** Shared memory tiling, coalesced global memory access, warp shuffle primitives, double buffering, asynchronous data transfers, Triton compiler IR (Triton-GPU MLIR dialect), and PTX/SASS assembly inspection.
 
 📚 **Primary Reading:** **John L. Hennessy, David A. Patterson** — *Computer Architecture: A Quantitative Approach* | **David B. Kirk, Wen-mei W. Hwu** — *Programming Massively Parallel Processors: A Hands-on Approach*.
 
@@ -349,11 +349,11 @@
 <details>
 <summary><b>Phase 3: Compiler Architecture, Polyhedral Model & MLIR</b></summary>
 
-- [ ] **Compiler Frontend & Middle-End:** Abstract Syntax Trees (AST), Control Flow Graphs (CFG), Static Single Assignment (SSA) form construction (Cytron et al. algorithm), Dominance Frontiers, Dominator Trees.
-- [ ] **Optimization Passes:** Loop Invariant Code Motion (LICM), Dead Code Elimination (DCE), Common Subexpression Elimination (CSE), Alias Analysis, Inline Expansion, Loop Unrolling & Vectorization.
-- [ ] **Polyhedral Compilation Model:** Polyhedral representation of nested loops (Iteration domains, Access maps, Schedules), Affine transformations, Loop Tiling, Skewing, Interchange, Fusion, Pluto Algorithm.
-- [ ] **MLIR Infrastructure:** Dialect Ecosystem (Linalg, Vector, GPU, Arith, LLVM), Operation Definition Specification (ODS), Declarative Rewrite Rules (DRR), Passes, Lowering Pipeline design, JIT Compilation execution via LLVM ORC.
-- [ ] **Advanced Runtimes & Memory Management:** Garbage Collection algorithms (Tri-color marking, Generational ZGC/Go GC), Lock-free Memory Reclamation (Epoch-Based Reclamation (EBR), Hazard Pointers, Read-Copy-Update (RCU)).
+- [ ] **Compiler Frontend & Middle-End:** Abstract Syntax Trees (AST), Control Flow Graphs (CFG), Static Single Assignment (SSA) form construction, dominance frontiers, and dominator trees.
+- [ ] **Optimization Passes:** Loop Invariant Code Motion (LICM), Dead Code Elimination (DCE), Common Subexpression Elimination (CSE), alias analysis, inline expansion, loop unrolling, and vectorization.
+- [ ] **Polyhedral Compilation Model:** Polyhedral representation of nested loops, affine transformations, loop tiling, skewing, interchange, fusion, and Pluto Algorithm.
+- [ ] **MLIR Infrastructure:** Dialect Ecosystem (Linalg, Vector, GPU, Arith, LLVM), Operation Definition Specification (ODS), Declarative Rewrite Rules (DRR), passes, lowering pipeline design, and JIT compilation via LLVM ORC.
+- [ ] **Advanced Runtimes & Memory Management:** Garbage collection algorithms (tri-color marking, generational collectors), lock-free memory reclamation (Epoch-Based Reclamation, Hazard Pointers, Read-Copy-Update).
 
 📚 **Primary Reading:** **Alfred V. Aho et al.** — *Compilers: Principles, Techniques, and Tools* | **Chris Lattner et al.** — *MLIR: Scaling Compiler Infrastructure for Domain Specific Computation*.
 
@@ -362,11 +362,11 @@
 <details>
 <summary><b>Phase 4: OS Kernel Subsystems, Concurrency & Low-Level Systems</b></summary>
 
-- [ ] **Virtual Memory Subsystem:** Page Tables (4-Level / 5-Level Paging), Page Walk Hardware, Translation Lookaside Buffer (TLB), TLB Shootdowns, HugePages, Memory-Mapped I/O (MMIO), Page Fault Handling execution path, Kernel Page Table Isolation (KPTI).
-- [ ] **Kernel Memory Allocation:** Buddy Allocator, Slab/Slub/Slob Allocators, Memory Overcommit mechanics, Out-Of-Memory (OOM) Killer internals.
-- [ ] **Async I/O Subsystems:** `epoll` architecture, `io_uring` ring-buffer design (Submission Queue / Completion Queue), Zero-copy networking paths, Direct I/O (`O_DIRECT`).
-- [ ] **eBPF (Extended Berkeley Packet Filter):** eBPF Bytecode Verification, JIT Compilation to Native Machine Code, Hooking (Kprobes, Uprobes, Tracepoints), XDP (eXpress Data Path) packet processing at NIC driver level.
-- [ ] **Microarchitectural Vulnerabilities & Hardware Security:** Transient Execution Attacks (Spectre V1/V2, Meltdown, Foreshadow), Rowhammer DRAM Bit-flips, Fault Injection (Voltage/Clock glitching), Hardware Enclaves (Intel SGX, AMD SEV, ARM Realm / CCA).
+- [ ] **Virtual Memory Subsystem:** Multi-level page tables (4-level / 5-level), page walks, Translation Lookaside Buffer (TLB), TLB shootdowns, HugePages, Memory-Mapped I/O (MMIO), page fault handling, and Kernel Page Table Isolation (KPTI).
+- [ ] **Kernel Memory Allocation:** Buddy Allocator, Slab/Slub/Slob allocators, memory overcommit mechanics, and Out-Of-Memory (OOM) killer internals.
+- [ ] **Async I/O Subsystems:** epoll architecture, io_uring ring-buffer design (Submission Queue / Completion Queue), zero-copy networking, and direct I/O (O_DIRECT).
+- [ ] **eBPF (Extended Berkeley Packet Filter):** Bytecode verification, JIT compilation to native machine code, kprobes, uprobes, tracepoints, and XDP packet processing at the NIC driver level.
+- [ ] **Microarchitectural Vulnerabilities & Hardware Security:** Transient execution attacks (Spectre, Meltdown, Foreshadow), Rowhammer DRAM bit-flips, fault injection (voltage/clock glitching), and hardware enclaves (Intel SGX, AMD SEV, ARM Realm/CCA).
 
 📚 **Primary Reading:** **Daniel P. Bovet, Marco Cesati** — *Understanding the Linux Kernel* | **Brendan Gregg** — *Systems Performance: Enterprise and the Cloud*.
 
@@ -379,9 +379,9 @@
 <details>
 <summary><b>Phase 1: Theoretical Distributed Systems & Formal Specifications</b></summary>
 
-- [ ] **Fundamental Theorems:** FLP Impossibility Theorem (Fischer, Lynch, Paterson), CAP Theorem, PACELC Theorem, Fischer's bounds for synchronous vs asynchronous networks.
-- [ ] **Logical Time & Ordering:** Lamport Timestamps, Vector Clocks, Matrix Clocks, Causal Consistency, Total Order Broadcast, Chandy-Lamport Distributed Snapshot algorithm.
-- [ ] **Formal Specification & Verification:** TLA+ (Temporal Logic of Actions), PlusCal, Model Checking via TLC, Verifying Safety Invariants ($\square P$) and Liveness Properties ($\diamond P$), Refinement Mapping.
+- [ ] **Fundamental Theorems:** FLP Impossibility Theorem, CAP Theorem, PACELC Theorem, and synchronous vs. asynchronous network bounds.
+- [ ] **Logical Time & Ordering:** Lamport Timestamps, Vector Clocks, Matrix Clocks, causal consistency, total order broadcast, and Chandy-Lamport distributed snapshot algorithm.
+- [ ] **Formal Specification & Verification:** TLA+ (Temporal Logic of Actions), PlusCal, model checking via TLC, verifying safety invariants and liveness properties, and refinement mapping.
 
 📚 **Primary Reading:** **Leslie Lamport** — *Specifying Systems: The TLA+ Language and Tools* | **Nancy A. Lynch** — *Distributed Algorithms*.
 
@@ -390,15 +390,14 @@
 <details>
 <summary><b>Phase 2: Asynchronous Consensus, BFT Mechanics & Distributed Data</b></summary>
 
-- [ ] **Crash Fault Tolerant (CFT) Consensus:** Paxos (Single-decree, Multi-Paxos), Raft, Viewstamped Replication (VR), State Machine Replication (SMR) paradigm.
-- [ ] **Byzantine Fault Tolerant (BFT) Consensus:** PBFT (Practical Byzantine Fault Tolerance), HotStuff (Pipelined BFT), Narwhal & Tusk (Mempool/Consensus separation), Async BFT (HoneyBadgerBFT, VSS - Verifiable Secret Sharing), DAG-based Consensus Mechanics (Directed Acyclic Graphs).
-- [ ] **Distributed Data Structures & Transactions:** Consistent Hashing (Rendezvous, Chord), Distributed Hash Tables (Kademlia), Two-Phase Commit (2PC), Three-Phase Commit (3PC), SAGA Pattern, Spanner Architecture (TrueTime API, GPS/Atomic Clocks, External Consistency, Multi-version Concurrency Control / MVCC).
+- [ ] **Crash Fault Tolerant (CFT) Consensus:** Paxos (Single-decree, Multi-Paxos), Raft, Viewstamped Replication (VR), and State Machine Replication (SMR).
+- [ ] **Byzantine Fault Tolerant (BFT) Consensus:** PBFT, HotStuff, Narwhal & Tusk (mempool and consensus separation), Async BFT (HoneyBadgerBFT, Verifiable Secret Sharing), and DAG-based consensus mechanics.
+- [ ] **Distributed Data Structures & Transactions:** Consistent hashing (Rendezvous, Chord), Distributed Hash Tables (Kademlia), Two-Phase Commit (2PC), Three-Phase Commit (3PC), SAGA Pattern, and Spanner architecture (TrueTime API, external consistency, MVCC).
 
 📚 **Primary Reading:** **Martin Kleppmann** — *Designing Data-Intensive Applications* | **Christian Cachin, Rachid Guerraoui, Luís Rodrigues** — *Introduction to Reliable and Secure Distributed Programming*.
 
 </details>
 </details>
-
 
 ---
 
