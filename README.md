@@ -360,12 +360,24 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left"><b>Core / Systems Languages</b></td>
+      <td align="left"><b>Core Systems & Low-Level</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/rust/ffffff" width="36" height="36" alt="Rust" /></td></tr>
             <tr><td align="center"><sub>Rust</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/c" width="36" height="36" alt="C" /></td></tr>
+            <tr><td align="center"><sub>C</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/cplusplus" width="36" height="36" alt="C++" /></td></tr>
+            <tr><td align="center"><sub>C++</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -383,7 +395,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><b>AI & ML Runtimes</b></td>
+      <td align="left"><b>AI / ML & Acceleration</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -393,8 +405,8 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/Julia.svg" width="36" height="36" alt="Julia" /></td></tr>
-            <tr><td align="center"><sub>Julia</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/pytorch" width="36" height="36" alt="PyTorch" /></td></tr>
+            <tr><td align="center"><sub>PyTorch</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -412,59 +424,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><b>Distributed, Web & Mobile Infra</b></td>
-      <td align="left">
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/elixir" width="36" height="36" alt="Elixir" /></td></tr>
-            <tr><td align="center"><sub>Elixir</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/kotlin" width="36" height="36" alt="Kotlin" /></td></tr>
-            <tr><td align="center"><sub>Kotlin</sub></td></tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>Exploring & Domain-Specific DSLs</b></td>
-      <td align="left">
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/gleam" width="36" height="36" alt="Gleam" /></td></tr>
-            <tr><td align="center"><sub>Gleam</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://images.seeklogo.com/logo-png/48/1/nim-programming-language-logo-png_seeklogo-482182.png" width="36" height="36" alt="Nim" /></td></tr>
-            <tr><td align="center"><sub>Nim</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://icon.icepanel.io/Technology/svg/Clojure.svg" width="36" height="36" alt="Clojure" /></td></tr>
-            <tr><td align="center"><sub>Clojure <i> (planned)</i></sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/solidity" width="36" height="36" alt="Solidity" /></td></tr>
-            <tr><td align="center"><sub>Solidity</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/ethereum/ffffff" width="36" height="36" alt="Circom" /></td></tr>
-            <tr><td align="center"><sub>Circom <i>(planned)</i></sub></td></tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>Backend, Async & Microservices</b></td>
+      <td align="left"><b>Async, Security Tooling & Infra</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -474,43 +434,20 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/gin" width="36" height="36" alt="Gin" /></td></tr>
-            <tr><td align="center"><sub>Gin</sub></td></tr>
+            <tr><td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7D3hgKiRcpBd8YgmV-0hd6k64iSUYcNkJq4O_nQv7gK5zbVjwO-70KOOWlR7bt0QznNTMD8JLUnlU7JOQG_7S3mshyjOiLdVncMpN-kI_&s=10" width="36" height="36" alt="Tree-sitter" /></td></tr>
+            <tr><td align="center"><sub>Tree-sitter</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/fastapi" width="36" height="36" alt="FastAPI" /></td></tr>
-            <tr><td align="center"><sub>FastAPI</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/webassembly" width="36" height="36" alt="Aya eBPF" /></td></tr>
+            <tr><td align="center"><sub>Aya</sub></td></tr>
           </table>
         </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/ktor" width="36" height="36" alt="Ktor" /></td></tr>
-            <tr><td align="center"><sub>Ktor</sub></td></tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>UI, Desktop & Frontend</b></td>
-      <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/tauri" width="36" height="36" alt="Tauri" /></td></tr>
-            <tr><td align="center"><sub>Tauri</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/wails" width="36" height="36" alt="Wails" /></td></tr>
-            <tr><td align="center"><sub>Wails</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/solid" width="36" height="36" alt="SolidJS" /></td></tr>
-            <tr><td align="center"><sub>SolidJS</sub></td></tr>
+            <tr><td align="center"><sub>Tauri v2</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -519,44 +456,15 @@
             <tr><td align="center"><sub>Preact</sub></td></tr>
           </table>
         </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/jetpackcompose" width="36" height="36" alt="Jetpack Compose" /></td></tr>
-            <tr><td align="center"><sub>Compose</sub></td></tr>
-          </table>
-        </a>
       </td>
     </tr>
     <tr>
-      <td align="left"><b>AI & Data Frameworks</b></td>
+      <td align="left"><b>Data, Logs & Telemetry</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/pytorch" width="36" height="36" alt="PyTorch" /></td></tr>
-            <tr><td align="center"><sub>PyTorch</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/flux" width="36" height="36" alt="Flux" /></td></tr>
-            <tr><td align="center"><sub>Flux</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/960px-Tidyverse_hex_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241111025027" width="36" height="36" alt="Tidyverse" /></td></tr>
-            <tr><td align="center"><sub>Tidyverse</sub></td></tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-    <tr>
-<td align="left"><b>Databases & Storage</b></td>
-      <td align="left">
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/sqlite" width="36" height="36" alt="SQLite" /></td></tr>
-            <tr><td align="center"><sub>SQLite</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/clickhouse" width="36" height="36" alt="ClickHouse" /></td></tr>
+            <tr><td align="center"><sub>ClickHouse</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -573,20 +481,8 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/clickhouse" width="36" height="36" alt="ClickHouse" /></td></tr>
-            <tr><td align="center"><sub>ClickHouse</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/apachecassandra" width="36" height="36" alt="Apache Cassandra" /></td></tr>
-            <tr><td align="center"><sub>Cassandra</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://images.icon-icons.com/2699/PNG/512/scylladb_logo_icon_169771.png" width="36" height="36" alt="ScyllaDB" /></td></tr>
-            <tr><td align="center"><sub>ScyllaDB</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/sqlite" width="36" height="36" alt="SQLite" /></td></tr>
+            <tr><td align="center"><sub>SQLite</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
