@@ -504,6 +504,12 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/wails" width="36" height="36" alt="Wails" /></td></tr>
+            <tr><td align="center"><sub>Wails</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/preact" width="36" height="36" alt="Preact" /></td></tr>
             <tr><td align="center"><sub>Preact</sub></td></tr>
           </table>
