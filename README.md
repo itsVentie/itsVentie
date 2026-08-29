@@ -32,23 +32,31 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> ⋆ About Me ⋆
-
-* ˗ˏˋ **Headline:** Security Systems & AI/ML Engineer // Future Computer Scientist
-* ˗ˏˋ **Age:** 18+
-* ˗ˏˋ **Gender:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary
-* ˗ˏˋ **Personality Profiles:**
-  * **MBTI:** INFJ-T (Advocate)
-  * **Enneagram:** 4w5 (The Individualist / The Bohemian)
-  * **Socionics:** EII (Dostoevsky)
-  * **Attitudinal Psyche:** ELVF (Andersen)
-* ˗ˏˋ **Interests:**
-  * <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> **Chess:** 2400-2500 Elo
-  * <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> **Shogi:** 5 Kyu
-  * <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> **Media:** Anime & Manga/Manhwa
-  * <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> **Gaming:** Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)
-* ˗ˏˋ **Languages:** <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English • <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian • <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German • <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French • <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish
-
+<details>
+  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b>⋆ About Me ⋆</b></summary>
+  <ul>
+    <li>˗ˏˋ <b>Headline:</b> Security Systems & AI/ML Engineer // Future Computer Scientist</li>
+    <li>˗ˏˋ <b>Age:</b> 18+</li>
+    <li>˗ˏˋ <b>Gender:</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary</li>
+    <li>˗ˏˋ <b>Personality Profiles:</b>
+      <ul>
+        <li><b>MBTI:</b> INFJ-T (Advocate)</li>
+        <li><b>Enneagram:</b> 4w5 (The Individualist / The Bohemian)</li>
+        <li><b>Socionics:</b> EII (Dostoevsky)</li>
+        <li><b>Attitudinal Psyche:</b> ELVF (Andersen)</li>
+      </ul>
+    </li>
+    <li>˗ˏˋ <b>Interests:</b>
+      <ul>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> <b>Chess:</b> 2400-2500 Elo</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> <b>Shogi:</b> 5 Kyu</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> <b>Media:</b> Anime & Manga/Manhwa</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> <b>Gaming:</b> Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)</li>
+      </ul>
+    </li>
+ <b>
+ </details>
+   
 ---
 
 ## ⋆ Focus & Targets ⋆
