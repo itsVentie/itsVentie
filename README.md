@@ -840,6 +840,92 @@
 </details>
 </details>
 
+<details open>
+  <summary><img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width=24" /><b>Activity, Metrics & Telemetry</b></summary>
+  <br />
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin-bottom: 12px;">
+    <details>
+      <summary>
+        <img src="https://cdn.simpleicons.org/github/ffffff" width="16" height="16" valign="middle" alt="GitHub" /> <b>GitHub & Code Activity</b>
+      </summary>
+      <br />
+      <table align="center" border="0" width="100%">
+        <tr>
+          <td align="center" width="50%" valign="top">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsventie&theme=tokyonight" alt="Stats Summary" width="100%" />
+          </td>
+          <td align="center" width="50%" valign="top">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsventie&theme=tokyonight&utcOffset=5" alt="Productive Time" width="100%" />
+          </td>
+        </tr>
+      </table>
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsventie&theme=tokyonight" alt="Profile Details" width="100%" />
+      </p>
+    </details>
+  </div>
+
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin-bottom: 12px;">
+    <details>
+      <summary>
+        <img src="https://cdn.simpleicons.org/kalilinux/1782C5" width="16" height="16" valign="middle" alt="Security" /> <b>CyberSecurity, DFIR & Labs</b>
+      </summary>
+      <br />
+      <p align="center">
+        <a href="https://tryhackme.com/p/itsventie" target="_blank">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/itsventie.png" alt="TryHackMe Badge" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://app.hackthebox.com/profile/itsventie" target="_blank">
+          <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox Profile" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Security%20Research-eBPF%20%2F%20DFIR-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Security Domain" />
+        </a>
+      </p>
+    </details>
+  </div>
+
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin-bottom: 12px;">
+    <details>
+      <summary>
+        <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="16" height="16" valign="middle" alt="AI" /> <b>AI, Machine Learning & Data</b>
+      </summary>
+      <br />
+      <p align="center">
+        <a href="https://www.kaggle.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Kaggle-Competitor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
+        </a>
+        <a href="https://huggingface.co/itsventie" target="_blank">
+          <img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Datasets-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Profile" />
+        </a>
+      </p>
+    </details>
+  </div>
+
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px;">
+    <details>
+      <summary>
+        <img src="https://cdn.simpleicons.org/chessdotcom/7FA650" width="16" height="16" valign="middle" alt="Gaming" /> <b>Mind Sports & Gaming</b>
+      </summary>
+      <br />
+      <p align="center">
+        <a href="https://www.chess.com/member/Vintiq" target="_blank">
+          <img src="https://img.shields.io/badge/Chess.com-2400%20Rating-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com Rating" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Shogi-5%20Kyu-informational?style=for-the-badge&logo=litchis&logoColor=white" alt="Shogi Rank" />
+        </a>
+        <a href="https://steamcommunity.com/id/itsventie" target="_blank">
+          <img src="https://img.shields.io/badge/Steam-Profile-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
+        </a>
+      </p>
+    </details>
+  </div>
+</details>
+
+
 ---
 
 ## ⋆ Tech Stack & Toolbox ⋆
