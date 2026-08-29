@@ -24,12 +24,6 @@
   </tr>
 </table>
 
-<p align="center">
- <img src="https://img.shields.io/badge/Environment-RHEL_%7C_Windows_11_Pro_%7C_Artix_%7C_EndeavourOS-1a1b26?style=flat&logo=redhat&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Architecture-x86__64_%7C_ARM64-1a1b26?style=flat&logo=cpu&logoColor=f7768e" />
-  <img src="https://img.shields.io/badge/Status-Architecting_Autonomous_Systems-1a1b26?style=flat&logo=probot&logoColor=73daca" />
-</p>
-
 ---
 
 <details>
@@ -868,7 +862,7 @@
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin-bottom: 12px;">
     <details>
       <summary>
-        <img src="https://cdn.simpleicons.org/kalilinux/1782C5" width="16" height="16" valign="middle" alt="Security" /> <b>CyberSecurity, DFIR & Labs</b>
+        <img src="https://cdn.simpleicons.org/kalilinux/1782C5" width="16" height="16" valign="middle" alt="Security" /> <b>CyberSecurity</b>
       </summary>
       <br />
       <p align="center">
@@ -905,23 +899,34 @@
   </div>
 
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px;">
-    <details>
-      <summary>
-        <img src="https://cdn.simpleicons.org/chessdotcom/7FA650" width="16" height="16" valign="middle" alt="Gaming" /> <b>Mind Sports & Gaming</b>
-      </summary>
-      <br />
-      <p align="center">
+<details>
+  <summary>
+    <img src="https://cdn.simpleicons.org/chessdotcom/7FA650" width="16" height="16" valign="middle" alt="Gaming" /> <b>Mind Sports & Gaming</b>
+  </summary>
+  <br />
+  <table align="center" border="0" width="100%">
+    <tr>
+      <td align="center" width="50%" valign="top">
         <a href="https://www.chess.com/member/Vintiq" target="_blank">
-          <img src="https://img.shields.io/badge/Chess.com-2400%20Rating-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com Rating" />
+          <img src="https://chess-stats-card.vercel.app/api/card?user=Vintiq&theme=ocean_dark" alt="Chess Stats" width="100%" height="160" style="object-fit: contain;" />
         </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Shogi-5%20Kyu-informational?style=for-the-badge&logo=litchis&logoColor=white" alt="Shogi Rank" />
+      </td>
+      <td align="center" width="50%" valign="top">
+        <a href="https://steamcommunity.com/id/vyntiq" target="_blank">
+          <img src="https://card.yuy1n.io/card/76561199865859143?theme=github-dark&lang=en" alt="Steam Playtime" width="100%" height="160" style="object-fit: contain;" />
         </a>
-        <a href="https://steamcommunity.com/id/itsventie" target="_blank">
-          <img src="https://img.shields.io/badge/Steam-Profile-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
-        </a>
-      </p>
-    </details>
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <a href="#">
+      <img src="https://img.shields.io/badge/Shogi-5%20Kyu-informational?style=for-the-badge&logo=litchis&logoColor=white" alt="Shogi Rank" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Go-1%20Dan-black?style=for-the-badge&logoColor=white" alt="Go Rank" />
+    </a>
+  </p>
+</details>
   </div>
 </details>
 
