@@ -909,7 +909,7 @@
           </table>
         </a>
         <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">ам
+          <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.openai.com/triton/assets/triton-logo.png" width="36" height="36" alt="Triton" /></td></tr>
             <tr><td align="center"><sub>Triton</sub></td></tr>
           </table>
