@@ -59,7 +59,7 @@
 </details>
 
 <details>
-  <summary><b>⋆ Focus & Targets ⋆</b></summary>
+  <summary><img src="https://private-user-images.githubusercontent.com/153387435/486514678-dfe0d835-441a-4596-a593-ab9fb10e3e5e.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwNDQwOTQsIm5iZiI6MTc4ODA0Mzc5NCwicGF0aCI6Ii8xNTMzODc0MzUvNDg2NTE0Njc4LWRmZTBkODM1LTQ0MWEtNDU5Ni1hNTkzLWFiOWZiMTBlM2U1ZS53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MjlUMjI0OTU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTYyMzMyNjIzNzAzYzBkMGFiNmVlMDVhZWZiYmMwMTg2MzQzNWU5NWFiODI4YWFiYzIwMWI3MDc2YzhkZDg3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.NiKauk0QUgf01TNfhvWyQtJIpYPfKXmeqtbr-X_Z1fw" width=24"/><b>⋆ Focus & Targets ⋆</b></summary>
   <br />
   <table width="100%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; background-color: #0d1117; border-radius: 6px; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
     <thead>
@@ -166,7 +166,7 @@
 </details>
 
 <details>
-<summary><b>⋆ Academic & Research Roadmap ⋆</b></summary>
+<summary><img src="https://private-user-images.githubusercontent.com/153387435/486463461-8bacf7d5-26da-4caa-8803-303b4165e80b.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwNDQwOTQsIm5iZiI6MTc4ODA0Mzc5NCwicGF0aCI6Ii8xNTMzODc0MzUvNDg2NDYzNDYxLThiYWNmN2Q1LTI2ZGEtNGNhYS04ODAzLTMwM2I0MTY1ZTgwYi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MjlUMjI0OTU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2YxMTEwMjIyMDhjNzI5MTM1ZmJkYThlNDhjOGQ5MDAwMDdhNmQxZWVlYzZhM2YzMzQ5M2UxYTU2YTRlMDEwYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.QHTRcy07cQWKeJLBIIQ4aeFJNVtslqFMaKXkL1m9V80" width="24" style="vertical-align: middle;"/><b>⋆ Academic & Research Roadmap ⋆</b></summary>
   
 ---
 
@@ -446,7 +446,7 @@
 
 
 <details>
-  <summary><b>⋆ Security, CyberSec & DFIR Toolchain ⋆ </b></summary>
+  <summary><img src="https://private-user-images.githubusercontent.com/153387435/486462185-0d2e2fd5-77ce-404c-83f5-ff4bb5b498f2.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwNDQwOTQsIm5iZiI6MTc4ODA0Mzc5NCwicGF0aCI6Ii8xNTMzODc0MzUvNDg2NDYyMTg1LTBkMmUyZmQ1LTc3Y2UtNDA0Yy04M2Y1LWZmNGJiNWI0OThmMi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MjlUMjI0OTU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmY5YjI0YTc1MDM5ZmU1ODcwNGUzZTQwZDlhY2NmM2MzNmFiNjVhOWFjN2U1ODgyZTZmZDk0ZmFjMTMyMzFiZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.ouUCiOMRV1K8jNowD1gCRuXMB4JfpUi2FZU-68AbxE0" width=24 /><b>⋆ Security, CyberSec & DFIR Toolchain ⋆ </b></summary>
   
   ---
   
@@ -888,7 +888,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><b>AI / ML & Acceleration</b></td>
+      <td align="left"><b>AI / ML & LLM Ops</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -902,23 +902,35 @@
             <tr><td align="center"><sub>PyTorch</sub></td></tr>
           </table>
         </a>
-        <a href="#" style="text-decoration:none">
+        <a href="https://ollama.com/" target="_blank" style="text-decoration:none">
           <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/ollama/ffffff" width="36" height="36" alt="Ollama" /></td></tr>
+            <tr><td align="center"><sub>Ollama</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">ам
             <tr><td align="center"><img src="https://cdn.openai.com/triton/assets/triton-logo.png" width="36" height="36" alt="Triton" /></td></tr>
-            <tr><td align="center"><sub>Triton <i>(planned)</i></sub></td></tr>
+            <tr><td align="center"><sub>Triton</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="36" height="36" alt="CUDA" /></td></tr>
-            <tr><td align="center"><sub>CUDA <i>(planned)</i></sub></td></tr>
+            <tr><td align="center"><sub>CUDA</sub></td></tr>
           </table>
         </a>
       </td>
     </tr>
     <tr>
-      <td align="left"><b>Async, Security Tooling & Infra</b></td>
+      <td align="left"><b>Frameworks, Libraries & Runtime</b></td>
       <td align="left">
+        <a href="https://nodejs.org/" target="_blank" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/nodedotjs" width="36" height="36" alt="Node.js" /></td></tr>
+            <tr><td align="center"><sub>Node.js</sub></td></tr>
+          </table>
+        </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/tokio" width="36" height="36" alt="Tokio" /></td></tr>
@@ -949,12 +961,6 @@
             <tr><td align="center"><sub>Wails</sub></td></tr>
           </table>
         </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/preact" width="36" height="36" alt="Preact" /></td></tr>
-            <tr><td align="center"><sub>Preact</sub></td></tr>
-          </table>
-        </a>
       </td>
     </tr>
     <tr>
@@ -970,6 +976,12 @@
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" /></td></tr>
             <tr><td align="center"><sub>PostgreSQL</sub></td></tr>
+          </table>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/mysql" width="36" height="36" alt="MySQL" /></td></tr>
+            <tr><td align="center"><sub>MySQL</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
