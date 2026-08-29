@@ -883,19 +883,32 @@
 
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin-bottom: 12px;">
     <details>
-      <summary>
-        <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="16" height="16" valign="middle" alt="AI" /> <b>AI, Machine Learning & Data</b>
-      </summary>
-      <br />
-      <p align="center">
-        <a href="https://www.kaggle.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Kaggle-Competitor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
+  <summary>
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="16" height="16" valign="middle" alt="AI" /> <b>AI, Machine Learning & Data</b>
+  </summary>
+  <br />
+
+  <table align="center" border="0" width="100%">
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <a href="https://huggingface.co/ventie" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Hugging%20Face-itsventie-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF Profile" />
+          <br /><br />
+          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Models&query=$.length&url=https://huggingface.co/api/models?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Models Count" />
+          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Datasets&query=$.length&url=https://huggingface.co/api/datasets?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Datasets Count" />
         </a>
-        <a href="https://huggingface.co/itsventie" target="_blank">
-          <img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Datasets-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Profile" />
+      </td>
+      <td align="center" width="50%" valign="top">
+        <a href="https://www.kaggle.com/ventie" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Kaggle-ventie-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
+          <br /><br />
+          <img src="https://img.shields.io/badge/Competitor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Rank" />
+          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Kaggle Status" />
         </a>
-      </p>
-    </details>
+      </td>
+    </tr>
+  </table>
+</details>
   </div>
 
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px;">
