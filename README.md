@@ -1097,11 +1097,11 @@
 
 <table align="center" border="0" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsventie&theme=tokyonight&langs_count=12&layout=compact&hide=css,scss,html,javascript,typescript,powershell,shell,cmake,nsis,dockerfile,just,makefile,yaml,hcl,toml,json,json5,jsonc,markdown,batchfile" alt="Most Used Languages" />
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsventie&theme=github_dark" alt="Repos Per Language" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-mwendwa.vercel.app/api?username=itsventie&show_icons=true&count_private=true&line_height=20&theme=dracula" alt="GitHub Stats" />
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsventie&theme=github_dark" alt="Most Commit Language" width="100%" />
     </td>
   </tr>
 </table>
