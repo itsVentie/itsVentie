@@ -54,356 +54,789 @@
         <li><img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> <b>Gaming:</b> Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)</li>
       </ul>
     </li>
- <b>
- </details>
-   
+    <li>˗ˏˋ <b>Languages:</b> <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English • <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian • <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German • <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French • <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⋆ Focus & Targets ⋆</b></summary>
+  <br />
+  <table width="100%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; background-color: #0d1117; border-radius: 6px; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    <thead>
+      <tr style="background-color: #161b22;">
+        <th width="50%" align="left" style="padding: 12px 16px; border-bottom: 1px solid #30363d;">
+          <span style="font-size: 14px; font-weight: 600; color: #58a6ff;">Currently Learning & Focus</span>
+        </th>
+        <th width="50%" align="left" style="padding: 12px 16px; border-left: 1px solid #30363d; border-bottom: 1px solid #30363d;">
+          <span style="font-size: 14px; font-weight: 600; color: #3fb950;">Target Career & Research Paths</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
+          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75z"/></svg>
+            Mathematics & AI Safety
+          </div>
+          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
+            — Machine Learning & Neural Networks<br />
+            — Calculus, Linear Algebra & Probability
+          </div>
+        </td>
+        <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
+          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 1a7 7 0 100 14A7 7 0 008 1zM2 8a6 6 0 1112 0A6 6 0 012 8z"/><path d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            Academic & R&D Path
+          </div>
+          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
+            — Become a Computer Science Researcher<br />
+            — Conduct Academic Research on AI Security
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
+          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8z"/></svg>
+            Cyber Forensics & Investigation
+          </div>
+          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
+            — Digital Forensics & Incident Response (DFIR)<br />
+            — Financial Cybercrime & Data Analysis
+          </div>
+        </td>
+        <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
+          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M4 4a4 4 0 018 0v2h.25c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0112.25 15H3.75A1.75 1.75 0 012 13.25v-5.5C2 6.784 2.784 6 3.75 6H4V4zm1.5 2h5V4a2.5 2.5 0 00-5 0v2z"/></svg>
+            Law Enforcement & Govt Sector
+          </div>
+          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
+            — Transition to Special Cybercrime Units (CyberPol)<br />
+            — Investigate Complex Financial & Cyber Threats
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
+          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zm1.75-.25a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25H1.75z"/></svg>
+            Low-Level Systems Architecture
+          </div>
+          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
+            — Reverse Engineering & Exploit Analysis<br />
+            — Operating System Internals & Memory Safety
+          </div>
+        </td>
+        <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
+          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 010-1.5h1.75v-11h-8a1 1 0 00-1 1v11h1.75a.75.75 0 010 1.5H2.5A.75.75 0 011.75 14V3.5A1 1 0 012 2.5z"/></svg>
+            Vulnerability Research
+          </div>
+          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
+            — Discover Zero-Day Vulnerabilities (CVE)<br />
+            — Systems Vulnerability Assessment
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
+          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+            Cryptography & Networking
+          </div>
+          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
+            — Mathematical Cryptography & Encryption<br />
+            — Secure Network Protocols & Proxies
+          </div>
+        </td>
+        <td valign="top" style="padding: 14px 16px;">
+          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v5.256a2.25 2.25 0 101.5 0V5.372zM4.25 12a.75.75 0 110 1.5.75.75 0 010-1.5z"/></svg>
+            Open Source Development
+          </div>
+          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
+            — Build High-Performance Security Utilities<br />
+            — Contribute to Core Cryptography Ecosystems
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+<summary><b>⋆ Academic & Research Roadmap ⋆</b></summary>
+
 ---
-
-## ⋆ Focus & Targets ⋆
-
-<table width="100%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; background-color: #0d1117; border-radius: 6px; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <thead>
-    <tr style="background-color: #161b22;">
-      <th width="50%" align="left" style="padding: 12px 16px; border-bottom: 1px solid #30363d;">
-        <span style="font-size: 14px; font-weight: 600; color: #58a6ff;">Currently Learning & Focus</span>
-      </th>
-      <th width="50%" align="left" style="padding: 12px 16px; border-left: 1px solid #30363d; border-bottom: 1px solid #30363d;">
-        <span style="font-size: 14px; font-weight: 600; color: #3fb950;">Target Career & Research Paths</span>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75z"/></svg>
-          Mathematics & AI Safety
-        </div>
-        <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-          — Machine Learning & Neural Networks<br />
-          — Calculus, Linear Algebra & Probability
-        </div>
-      </td>
-      <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 1a7 7 0 100 14A7 7 0 008 1zM2 8a6 6 0 1112 0A6 6 0 012 8z"/><path d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-          Academic & R&D Path
-        </div>
-        <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-          — Become a Computer Science Researcher<br />
-          — Conduct Academic Research on AI Security
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8z"/></svg>
-          Cyber Forensics & Investigation
-        </div>
-        <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-          — Digital Forensics & Incident Response (DFIR)<br />
-          — Financial Cybercrime & Data Analysis
-        </div>
-      </td>
-      <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M4 4a4 4 0 018 0v2h.25c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0112.25 15H3.75A1.75 1.75 0 012 13.25v-5.5C2 6.784 2.784 6 3.75 6H4V4zm1.5 2h5V4a2.5 2.5 0 00-5 0v2z"/></svg>
-          Law Enforcement & Govt Sector
-        </div>
-        <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-          — Transition to Special Cybercrime Units (CyberPol)<br />
-          — Investigate Complex Financial & Cyber Threats
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zm1.75-.25a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25H1.75z"/></svg>
-          Low-Level Systems Architecture
-        </div>
-        <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-          — Reverse Engineering & Exploit Analysis<br />
-          — Operating System Internals & Memory Safety
-        </div>
-      </td>
-      <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 010-1.5h1.75v-11h-8a1 1 0 00-1 1v11h1.75a.75.75 0 010 1.5H2.5A.75.75 0 011.75 14V3.5A1 1 0 012 2.5z"/></svg>
-          Vulnerability Research
-        </div>
-        <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-          — Discover Zero-Day Vulnerabilities (CVE)<br />
-          — Systems Vulnerability Assessment
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
-          Cryptography & Networking
-        </div>
-        <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-          — Mathematical Cryptography & Encryption<br />
-          — Secure Network Protocols & Proxies
-        </div>
-      </td>
-      <td valign="top" style="padding: 14px 16px;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v5.256a2.25 2.25 0 101.5 0V5.372zM4.25 12a.75.75 0 110 1.5.75.75 0 010-1.5z"/></svg>
-          Open Source Development
-        </div>
-        <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-          — Build High-Performance Security Utilities<br />
-          — Contribute to Core Cryptography Ecosystems
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-## ⋆ Academic & Research Roadmap ⋆
 
 <details>
 <summary><b>01. Applied Mathematics & Analysis</b></summary>
+<br>
 
-<details>
-<summary><b>Phase 1: Real, Complex Analysis & Linear Algebra</b></summary>
+> ### 🔹 Phase 1: Real, Complex Analysis & Linear Algebra
 
-- [ ] **Topology of Metric Spaces:** Continuity definitions, open and closed sets, compactness (Heine-Borel, sequential compactness), connectedness, completeness, Cauchy sequences, and Baire Category Theorem.
-- [ ] **Real Analysis:** Uniform vs. pointwise convergence, Arzelà-Ascoli theorem, Stone-Weierstrass theorem, Riemann-Stieltjes integration, power series, and radius of convergence.
-- [ ] **Complex Analysis:** Cauchy-Riemann equations, Cauchy's Integral Theorem and Formula, Laurent series, Residue Theorem, conformal mappings, and analytic continuation.
-- [ ] **Linear Operators & Canonical Forms:** Spectral Theorem for normal operators, Jordan Normal Form, Schur Decomposition, Singular Value Decomposition (SVD), and low-rank approximations.
-- [ ] **Matrix Analysis:** Matrix norms (operator, Schatten, Lp,q), Courant-Fischer Min-Max Theorem, Gershgorin Circle Theorem, Perron-Frobenius Theorem, condition numbers, and matrix stability.
-- [ ] **Differential Forms & Vector Calculus:** Exterior algebra, wedge product, exterior derivative, differential k-forms, pullbacks, and Generalized Stokes' Theorem on Manifolds.
+*   [ ] **Topology of Metric Spaces:** Continuity definitions, open and closed sets, compactness (Heine-Borel, sequential compactness), connectedness, completeness, Cauchy sequences, and Baire Category Theorem.
+*   [ ] **Real Analysis:** Uniform vs. pointwise convergence, Arzelà-Ascoli theorem, Stone-Weierstrass theorem, Riemann-Stieltjes integration, power series, and radius of convergence.
+*   [ ] **Complex Analysis:** Cauchy-Riemann equations, Cauchy's Integral Theorem and Formula, Laurent series, Residue Theorem, conformal mappings, and analytic continuation.
+*   [ ] **Linear Operators & Canonical Forms:** Spectral Theorem for normal operators, Jordan Normal Form, Schur Decomposition, Singular Value Decomposition (SVD), and low-rank approximations.
+*   [ ] **Matrix Analysis:** Matrix norms (operator, Schatten, Lp,q), Courant-Fischer Min-Max Theorem, Gershgorin Circle Theorem, Perron-Frobenius Theorem, condition numbers, and matrix stability.
+*   [ ] **Differential Forms & Vector Calculus:** Exterior algebra, wedge product, exterior derivative, differential k-forms, pullbacks, and Generalized Stokes' Theorem on Manifolds.
 
-📚 **Primary Reading:** **Walter Rudin** — *Principles of Mathematical Analysis* | **Lars Ahlfors** — *Complex Analysis* | **Sheldon Axler** — *Linear Algebra Done Right* | **Gene H. Golub, Charles F. Van Loan** — *Matrix Computations*.
+📚 **Primary Reading:**
+* **Walter Rudin** — *Principles of Mathematical Analysis*
+* **Lars Ahlfors** — *Complex Analysis*
+* **Sheldon Axler** — *Linear Algebra Done Right*
+* **Gene H. Golub, Charles F. Van Loan** — *Matrix Computations*
+
+---
+
+> ### 🔹 Phase 2: Abstract Algebra, Galois Theory & Number Theory
+
+*   [ ] **Group Theory:** Normal subgroups, quotient groups, First/Second/Third Isomorphism Theorems, group actions, Sylow Theorems, solvable groups, and symmetric or alternating groups.
+*   [ ] **Ring & Ideal Theory:** Commutative rings, prime and maximal ideals, Principal Ideal Domains (PID), Unique Factorization Domains (UFD), Euclidean domains, and quotient rings.
+*   [ ] **Field Extensions & Galois Theory:** Algebraic vs. transcendental extensions, splitting fields, finite fields (Galois Fields), Fundamental Theorem of Galois Theory, and cyclotomic polynomials.
+*   [ ] **Computational Number Theory:** Extended Euclidean Algorithm, Chinese Remainder Theorem, Euler's Totient function, Discrete Logarithm Problem, Quadratic Reciprocity, Miller-Rabin primality testing, and Pollard's rho algorithm.
+
+📚 **Primary Reading:**
+* **David S. Dummit, Richard M. Foote** — *Abstract Algebra*
+* **Victor Shoup** — *A Computational Introduction to Number Theory and Algebra*
+
+---
+
+> ### 🔹 Phase 3: Measure-Theoretic Probability & Stochastic Analysis
+
+*   [ ] **Measure Theory:** Sigma-algebras, Borel sets, outer measures, Carathéodory Extension Theorem, Lebesgue measure construction, and Vitali non-measurable sets.
+*   [ ] **Lebesgue Integration:** Measurable and simple functions, Monotone Convergence Theorem, Fatou's Lemma, Dominated Convergence Theorem, Lp spaces, and completeness of Lp (Riesz-Fischer Theorem).
+*   [ ] **Product Measures & Absolute Continuity:** Product sigma-algebras, Fubini-Tonelli Theorems, Radon-Nikodym Theorem and derivatives, and Lebesgue Decomposition Theorem.
+*   [ ] **Probability Foundations:** Probability spaces, random variables as measurable mappings, independence, Borel-Cantelli Lemmas, and Kolmogorov's 0-1 Law.
+*   [ ] **Martingale Theory:** Filtrations, conditional expectation as L2 projection, super/sub-martingales, stopping times, Doob's Optional Stopping Theorem, Doob's Convergence Theorem, and Azuma-Hoeffding inequality.
+*   [ ] **Stochastic Calculus:** Brownian motion (Wiener process), Itô integral, Itô's Lemma, Stochastic Differential Equations (SDEs), Fokker-Planck equation, and Ornstein-Uhlenbeck processes.
+
+📚 **Primary Reading:**
+* **Patrick Billingsley** — *Probability and Measure*
+* **R. M. Dudley** — *Real Analysis and Probability*
+* **Bernt Øksendal** — *Stochastic Differential Equations*
+
+---
+
+> ### 🔹 Phase 4: Convex, Non-Convex & High-Dimensional Optimization
+
+*   [ ] **Convex Analysis:** Convex sets, Supporting Hyperplane Theorem, proper/closed/lower-semicontinuous functions, Fenchel Conjugate, subgradients, and subdifferentials.
+*   [ ] **Optimality & Duality:** Karush-Kuhn-Tucker (KKT) conditions, Slater's constraint qualification, Lagrangian duality, strong duality, dual ascent, and primal-dual algorithms.
+*   [ ] **First-Order Optimization:** Nesterov Accelerated Gradient Descent, Proximal Gradient Descent (ISTA/FISTA), ADMM, Mirror Descent, and Frank-Wolfe algorithms.
+*   [ ] **Stochastic & Non-Convex Optimization:** SGD convergence under smoothness, Polyak-Łojasiewicz inequality, variance reduction (SVRG, SAGA), escaping saddle points via Hessian-free or perturbed SGD, and Adam/RMSProp stability limits.
+*   [ ] **Manifold Optimization:** Riemannian Gradient Descent, retractions, vector transport, and optimization on Grassmannian and Stiefel manifolds.
+
+📚 **Primary Reading:**
+* **Stephen Boyd, Lieven Vandenberghe** — *Convex Optimization*
+* **Yurii Nesterov** — *Lectures on Convex Optimization*
+* **Nicolas Boumal** — *An Introduction to Optimization on Smooth Manifolds*
+
+---
+
+> ### 🔹 Phase 5: Differential Geometry & Geometric Mechanics
+
+*   [ ] **Smooth Manifolds & Tensors:** Smooth maps, immersions, submersions, tangent and cotangent spaces, tangent bundles, vector fields, Lie brackets, and exterior algebra.
+*   [ ] **Riemannian Geometry:** Riemannian metrics, Levi-Civita connection, parallel transport, geodesics, exponential maps, Riemann curvature tensor, Ricci curvature, and scalar curvature.
+*   [ ] **Lie Groups & Lie Algebras:** SO(3), SE(3), SU(N) groups, exponential mapping from Lie algebras to groups, adjoint representations, and Lie algebra actions on manifolds.
+
+📚 **Primary Reading:**
+* **John M. Lee** — *Introduction to Smooth Manifolds*
+* **Manfredo P. do Carmo** — *Riemannian Geometry*
 
 </details>
 
-<details>
-<summary><b>Phase 2: Abstract Algebra, Galois Theory & Number Theory</b></summary>
-
-- [ ] **Group Theory:** Normal subgroups, quotient groups, First/Second/Third Isomorphism Theorems, group actions, Sylow Theorems, solvable groups, and symmetric or alternating groups.
-- [ ] **Ring & Ideal Theory:** Commutative rings, prime and maximal ideals, Principal Ideal Domains (PID), Unique Factorization Domains (UFD), Euclidean domains, and quotient rings.
-- [ ] **Field Extensions & Galois Theory:** Algebraic vs. transcendental extensions, splitting fields, finite fields (Galois Fields), Fundamental Theorem of Galois Theory, and cyclotomic polynomials.
-- [ ] **Computational Number Theory:** Extended Euclidean Algorithm, Chinese Remainder Theorem, Euler's Totient function, Discrete Logarithm Problem, Quadratic Reciprocity, Miller-Rabin primality testing, and Pollard's rho algorithm.
-
-📚 **Primary Reading:** **David S. Dummit, Richard M. Foote** — *Abstract Algebra* | **Victor Shoup** — *A Computational Introduction to Number Theory and Algebra*.
-
-</details>
-
-<details>
-<summary><b>Phase 3: Measure-Theoretic Probability & Stochastic Analysis</b></summary>
-
-- [ ] **Measure Theory:** Sigma-algebras, Borel sets, outer measures, Carathéodory Extension Theorem, Lebesgue measure construction, and Vitali non-measurable sets.
-- [ ] **Lebesgue Integration:** Measurable and simple functions, Monotone Convergence Theorem, Fatou's Lemma, Dominated Convergence Theorem, Lp spaces, and completeness of Lp (Riesz-Fischer Theorem).
-- [ ] **Product Measures & Absolute Continuity:** Product sigma-algebras, Fubini-Tonelli Theorems, Radon-Nikodym Theorem and derivatives, and Lebesgue Decomposition Theorem.
-- [ ] **Probability Foundations:** Probability spaces, random variables as measurable mappings, independence, Borel-Cantelli Lemmas, and Kolmogorov's 0-1 Law.
-- [ ] **Martingale Theory:** Filtrations, conditional expectation as L2 projection, super/sub-martingales, stopping times, Doob's Optional Stopping Theorem, Doob's Convergence Theorem, and Azuma-Hoeffding inequality.
-- [ ] **Stochastic Calculus:** Brownian motion (Wiener process), Itô integral, Itô's Lemma, Stochastic Differential Equations (SDEs), Fokker-Planck equation, and Ornstein-Uhlenbeck processes.
-
-📚 **Primary Reading:** **Patrick Billingsley** — *Probability and Measure* | **R. M. Dudley** — *Real Analysis and Probability* | **Bernt Øksendal** — *Stochastic Differential Equations*.
-
-</details>
-
-<details>
-<summary><b>Phase 4: Convex, Non-Convex & High-Dimensional Optimization</b></summary>
-
-- [ ] **Convex Analysis:** Convex sets, Supporting Hyperplane Theorem, proper/closed/lower-semicontinuous functions, Fenchel Conjugate, subgradients, and subdifferentials.
-- [ ] **Optimality & Duality:** Karush-Kuhn-Tucker (KKT) conditions, Slater's constraint qualification, Lagrangian duality, strong duality, dual ascent, and primal-dual algorithms.
-- [ ] **First-Order Optimization:** Nesterov Accelerated Gradient Descent, Proximal Gradient Descent (ISTA/FISTA), ADMM, Mirror Descent, and Frank-Wolfe algorithms.
-- [ ] **Stochastic & Non-Convex Optimization:** SGD convergence under smoothness, Polyak-Łojasiewicz inequality, variance reduction (SVRG, SAGA), escaping saddle points via Hessian-free or perturbed SGD, and Adam/RMSProp stability limits.
-- [ ] **Manifold Optimization:** Riemannian Gradient Descent, retractions, vector transport, and optimization on Grassmannian and Stiefel manifolds.
-
-📚 **Primary Reading:** **Stephen Boyd, Lieven Vandenberghe** — *Convex Optimization* | **Yurii Nesterov** — *Lectures on Convex Optimization* | **Nicolas Boumal** — *An Introduction to Optimization on Smooth Manifolds*.
-
-</details>
-
-<details>
-<summary><b>Phase 5: Differential Geometry & Geometric Mechanics</b></summary>
-
-- [ ] **Smooth Manifolds & Tensors:** Smooth maps, immersions, submersions, tangent and cotangent spaces, tangent bundles, vector fields, Lie brackets, and exterior algebra.
-- [ ] **Riemannian Geometry:** Riemannian metrics, Levi-Civita connection, parallel transport, geodesics, exponential maps, Riemann curvature tensor, Ricci curvature, and scalar curvature.
-- [ ] **Lie Groups & Lie Algebras:** SO(3), SE(3), SU(N) groups, exponential mapping from Lie algebras to groups, adjoint representations, and Lie algebra actions on manifolds.
-
-📚 **Primary Reading:** **John M. Lee** — *Introduction to Smooth Manifolds* | **Manfredo P. do Carmo** — *Riemannian Geometry*.
-
-</details>
-</details>
+---
 
 <details>
 <summary><b>02. Mathematical Cryptography, Complexity & Formal Methods</b></summary>
+<br>
 
-<details>
-<summary><b>Phase 1: Computational Complexity & Information Theory</b></summary>
+> ### 🔹 Phase 1: Computational Complexity & Information Theory
 
-- [ ] **Structural Complexity:** Turing machines (Deterministic, Non-deterministic, Oracle), classes P, NP, coNP, Polynomial Hierarchy, PSPACE, Ladner's Theorem, and Baker-Gill-Solovay Relativization barrier.
-- [ ] **Space & Circuit Complexity:** Savitch's Theorem, Immerman-Szelepcsényi Theorem (NL = coNL), NC and AC circuit classes, and Razborov-Smirnov Natural Proofs barrier.
-- [ ] **Interactive Proofs & Zero-Knowledge:** IP = PSPACE Theorem (Shamir), Interactive Proof Systems, Arthur-Merlin games (AM, MA), zero-knowledge definitions (Computational, Statistical, Perfect), PCP Theorem, and Hardness of Approximation.
-- [ ] **Quantum Complexity:** Postulates of Quantum Mechanics, quantum circuits, class BQP, Shor's factoring algorithm, Grover's search, and Quantum Supremacy frontiers.
-- [ ] **Information Theory:** Shannon entropy, joint and conditional entropy, mutual information, KL divergence, Rényi entropy, channel capacity, Fano's Inequality, and Data Processing Inequality.
+*   [ ] **Structural Complexity:** Turing machines (Deterministic, Non-deterministic, Oracle), classes P, NP, coNP, Polynomial Hierarchy, PSPACE, Ladner's Theorem, and Baker-Gill-Solovay Relativization barrier.
+*   [ ] **Space & Circuit Complexity:** Savitch's Theorem, Immerman-Szelepcsényi Theorem (NL = coNL), NC and AC circuit classes, and Razborov-Smirnov Natural Proofs barrier.
+*   [ ] **Interactive Proofs & Zero-Knowledge:** IP = PSPACE Theorem (Shamir), Interactive Proof Systems, Arthur-Merlin games (AM, MA), zero-knowledge definitions (Computational, Statistical, Perfect), PCP Theorem, and Hardness of Approximation.
+*   [ ] **Quantum Complexity:** Postulates of Quantum Mechanics, quantum circuits, class BQP, Shor's factoring algorithm, Grover's search, and Quantum Supremacy frontiers.
+*   [ ] **Information Theory:** Shannon entropy, joint and conditional entropy, mutual information, KL divergence, Rényi entropy, channel capacity, Fano's Inequality, and Data Processing Inequality.
 
-📚 **Primary Reading:** **Sanjeev Arora, Boaz Barak** — *Computational Complexity: A Modern Approach* | **Thomas M. Cover, Joy A. Thomas** — *Elements of Information Theory* | **Michael A. Nielsen, Isaac L. Chuang** — *Quantum Computation and Quantum Information*.
+📚 **Primary Reading:**
+* **Sanjeev Arora, Boaz Barak** — *Computational Complexity: A Modern Approach*
+* **Thomas M. Cover, Joy A. Thomas** — *Elements of Information Theory*
+* **Michael A. Nielsen, Isaac L. Chuang** — *Quantum Computation and Quantum Information*
+
+---
+
+> ### 🔹 Phase 2: Lattice-Based Cryptography, PQC & Cryptanalysis
+
+*   [ ] **Lattice Geometry:** Geometry of numbers, full-rank lattices, determinant, dual lattice, fundamental parallelotope, successive minima, and Minkowski's Theorems.
+*   [ ] **Lattice Reduction Algorithms:** Gram-Schmidt Orthogonalization, LLL reduction algorithm, Hermite factor, BKZ reduction, and Babai's Closest Vector algorithms (Nearest Plane, Rounding).
+*   [ ] **Lattice Hard Problems:** Shortest Vector Problem (SVP), Closest Vector Problem (CVP), Bounded Distance Decoding (BDD), Shortest Independent Vectors Problem (SIVP), and worst-case to average-case reductions.
+*   [ ] **Learning With Errors (LWE) Mechanics:** LWE formulation, Search-LWE to Decision-LWE reduction, Ring-LWE, and Module-LWE.
+*   [ ] **PQC Standards & Implementations:** NIST PQC Standards (ML-KEM/Kyber, ML-DSA/Dilithium), Number Theoretic Transform (NTT) for fast polynomial multiplication, constant-time side-channel mitigations, and power analysis (SPA/DPA) defenses.
+*   [ ] **Zero-Knowledge Proof Construction:** Rank-1 Constraint Systems (R1CS), Algebraic Intermediate Representation (AIR), Polynomial Commitment Schemes (KZG, IPA, FRI), SNARKs (Groth16, PLONK), and STARKs.
+
+📚 **Primary Reading:**
+* **Daniele Micciancio, Oded Regev** — *Lattice-Based Cryptography*
+* **Oded Goldreich** — *Foundations of Cryptography (Volumes 1 & 2)*
+* **Steven Galbraith** — *Mathematics of Public Key Cryptography*
+
+---
+
+> ### 🔹 Phase 3: Type Theory, Formal Semantics & Interactive Theorem Proving
+
+*   [ ] **Lambda Calculus:** Untyped lambda calculus (beta/eta reduction, Church-Rosser theorem, Y-combinator), Simply Typed lambda calculus (Strong Normalization), System F, and System F-omega.
+*   [ ] **Dependent Type Theory:** Calculus of Constructions (CoC), Pure Type Systems, dependent types, Martin-Löf Type Theory (MLTT), and Homotopy Type Theory (HoTT) basics including the Univalence Axiom.
+*   [ ] **Curry-Howard Isomorphism:** Propositions-as-Types, Proofs-as-Programs, classical vs. intuitionistic logic, and constructive mathematics.
+*   [ ] **Formal Program Semantics:** Small-step and Big-step operational semantics, denotational semantics (domain theory, complete partial orders), axiomatic semantics (Hoare logic, invariants, weakest preconditions), and Separation Logic.
+*   [ ] **Verification Toolchains & Solvers:** SMT solving algorithms (DPLL(T), Congruence Closure, Simplex for LIA/LRA, Bit-vector theories), Abstract Interpretation (Galois Connections, Widening/Narrowing), and Theorem Provers (Coq / Lean 4 proof automation).
+
+📚 **Primary Reading:**
+* **Benjamin C. Pierce** — *Types and Programming Languages (TAPL)*
+* **Benjamin C. Pierce et al.** — *Software Foundations (Coq Series)*
+* **Bradley & Manna** — *The Calculus of Computation: Decision Procedures with Applications to Verification*
 
 </details>
 
-<details>
-<summary><b>Phase 2: Lattice-Based Cryptography, PQC & Cryptanalysis</b></summary>
-
-- [ ] **Lattice Geometry:** Geometry of numbers, full-rank lattices, determinant, dual lattice, fundamental parallelotope, successive minima, and Minkowski's Theorems.
-- [ ] **Lattice Reduction Algorithms:** Gram-Schmidt Orthogonalization, LLL reduction algorithm, Hermite factor, BKZ reduction, and Babai's Closest Vector algorithms (Nearest Plane, Rounding).
-- [ ] **Lattice Hard Problems:** Shortest Vector Problem (SVP), Closest Vector Problem (CVP), Bounded Distance Decoding (BDD), Shortest Independent Vectors Problem (SIVP), and worst-case to average-case reductions.
-- [ ] **Learning With Errors (LWE) Mechanics:** LWE formulation, Search-LWE to Decision-LWE reduction, Ring-LWE, and Module-LWE.
-- [ ] **PQC Standards & Implementations:** NIST PQC Standards (ML-KEM/Kyber, ML-DSA/Dilithium), Number Theoretic Transform (NTT) for fast polynomial multiplication, constant-time side-channel mitigations, and power analysis (SPA/DPA) defenses.
-- [ ] **Zero-Knowledge Proof Construction:** Rank-1 Constraint Systems (R1CS), Algebraic Intermediate Representation (AIR), Polynomial Commitment Schemes (KZG, IPA, FRI), SNARKs (Groth16, PLONK), and STARKs.
-
-📚 **Primary Reading:** **Daniele Micciancio, Oded Regev** — *Lattice-Based Cryptography* | **Oded Goldreich** — *Foundations of Cryptography (Volumes 1 & 2)* | **Steven Galbraith** — *Mathematics of Public Key Cryptography*.
-
-</details>
-
-<details>
-<summary><b>Phase 3: Type Theory, Formal Semantics & Interactive Theorem Proving</b></summary>
-
-- [ ] **Lambda Calculus:** Untyped lambda calculus (beta/eta reduction, Church-Rosser theorem, Y-combinator), Simply Typed lambda calculus (Strong Normalization), System F, and System F-omega.
-- [ ] **Dependent Type Theory:** Calculus of Constructions (CoC), Pure Type Systems, dependent types, Martin-Löf Type Theory (MLTT), and Homotopy Type Theory (HoTT) basics including the Univalence Axiom.
-- [ ] **Curry-Howard Isomorphism:** Propositions-as-Types, Proofs-as-Programs, classical vs. intuitionistic logic, and constructive mathematics.
-- [ ] **Formal Program Semantics:** Small-step and Big-step operational semantics, denotational semantics (domain theory, complete partial orders), axiomatic semantics (Hoare logic, invariants, weakest preconditions), and Separation Logic.
-- [ ] **Verification Toolchains & Solvers:** SMT solving algorithms (DPLL(T), Congruence Closure, Simplex for LIA/LRA, Bit-vector theories), Abstract Interpretation (Galois Connections, Widening/Narrowing), and Theorem Provers (Coq / Lean 4 proof automation).
-
-📚 **Primary Reading:** **Benjamin C. Pierce** — *Types and Programming Languages (TAPL)* | **Benjamin C. Pierce et al.** — *Software Foundations (Coq Series)* | **Bradley & Manna** — *The Calculus of Computation: Decision Procedures with Applications to Verification*.
-
-</details>
-</details>
+---
 
 <details>
 <summary><b>03. Deep Learning Theory, Robustness & Agent Safety Mechanics</b></summary>
+<br>
 
-<details>
-<summary><b>Phase 1: Statistical Learning Theory & Infinite-Width Regime</b></summary>
+> ### 🔹 Phase 1: Statistical Learning Theory & Infinite-Width Regime
 
-- [ ] **PAC Learning Framework:** Probably Approximately Correct (PAC) learning, Agnostic PAC learning, Sample Complexity bounds, and Empirical Risk Minimization (ERM).
-- [ ] **Combinatorial & Function Class Complexity:** Growth function, Sauer-Shelah Lemma, VC-Dimension, Vapnik-Chervonenkis bounds, Rademacher and Gaussian complexities, and fat-shattering dimension.
-- [ ] **Concentration of Measure:** Sub-Gaussian and Sub-Exponential random variables, Hoeffding's Lemma/Inequality, Chernoff bounds, McDiarmid's Inequality, Bernstein's Inequality, and Hansen-Wright Inequality.
-- [ ] **Overparameterization Mechanics:** Double Descent curve (interpolation threshold), benign overfitting in high dimensions, Neural Tangent Kernel (NTK) regime (infinite-width limit, ODE dynamics of gradient flow), and lazy training vs. feature learning regimes (muP parametrization).
+*   [ ] **PAC Learning Framework:** Probably Approximately Correct (PAC) learning, Agnostic PAC learning, Sample Complexity bounds, and Empirical Risk Minimization (ERM).
+*   [ ] **Combinatorial & Function Class Complexity:** Growth function, Sauer-Shelah Lemma, VC-Dimension, Vapnik-Chervonenkis bounds, Rademacher and Gaussian complexities, and fat-shattering dimension.
+*   [ ] **Concentration of Measure:** Sub-Gaussian and Sub-Exponential random variables, Hoeffding's Lemma/Inequality, Chernoff bounds, McDiarmid's Inequality, Bernstein's Inequality, and Hansen-Wright Inequality.
+*   [ ] **Overparameterization Mechanics:** Double Descent curve (interpolation threshold), benign overfitting in high dimensions, Neural Tangent Kernel (NTK) regime (infinite-width limit, ODE dynamics of gradient flow), and lazy training vs. feature learning regimes (muP parametrization).
 
-📚 **Primary Reading:** **Shai Shalev-Shwartz, Shai Ben-David** — *Understanding Machine Learning: From Theory to Algorithms* | **Roman Vershynin** — *High-Dimensional Probability* | **Martin J. Wainwright** — *High-Dimensional Statistics: A Non-Asymptotic Viewpoint*.
+📚 **Primary Reading:**
+* **Shai Shalev-Shwartz, Shai Ben-David** — *Understanding Machine Learning: From Theory to Algorithms*
+* **Roman Vershynin** — *High-Dimensional Probability*
+* **Martin J. Wainwright** — *High-Dimensional Statistics: A Non-Asymptotic Viewpoint*
+
+---
+
+> ### 🔹 Phase 2: Geometric Deep Learning & Symmetry
+
+*   [ ] **Symmetry and Equivariance:** Invariance and equivariance principles, Group Equivariant CNNs (G-CNNs), Spherical CNNs, and Gauge Equivariant Mesh CNNs.
+*   [ ] **Graph & Mesh Theory:** Spectral Graph Theory (Graph Laplacian, Normalized Laplacian, Graph Fourier Transform), Message Passing Neural Networks (MPNNs), oversmoothing, and oversquashing phenomena.
+
+📚 **Primary Reading:**
+* **Michael M. Bronstein et al.** — *Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*
+
+---
+
+> ### 🔹 Phase 3: Adversarial Robustness, Certified Bounds & Distributional Drift
+
+*   [ ] **Adversarial Threat Formalization:** L-infinity, L2, and L1 threat models, first-order attacks (FGSM, PGD, C&W, AutoAttack), black-box attacks (query-based, transferability, substitute models), and backdoor/data poisoning attacks.
+*   [ ] **Certified Defense Mechanics:** Randomized smoothing (L2 certified radius via Neyman-Pearson Lemma), Interval Bound Propagation (IBP), bound propagation via abstract interpretation (alpha/beta-CROWN, LiRPA), and exact verification via SMT/MILP solvers (Reluplex, Marabou).
+*   [ ] **Distributional Robustness & Domain Generalization:** Wasserstein Distributionally Robust Optimization (WDRO), Optimal Transport distance (W1), Invariant Risk Minimization (IRM), Domain Adversarial Neural Networks (DANN), and Out-of-Distribution (OOD) detection.
+
+📚 **Primary Reading:**
+* **Pin-Yu Chen, Cho-Jui Hsieh** — *Adversarial Robustness for Machine Learning*
+* **Cédric Villani** — *Optimal Transport: Old and New*
+
+---
+
+> ### 🔹 Phase 4: Alignment Mathematics, Game Theory & Agent Safety
+
+*   [ ] **Preference Learning:** Bradley-Terry and Plackett-Luce preference models, RLHF objective formulation (PPO with KL-penalty), Direct Preference Optimization (DPO), Kahneman-Tversky Optimization (KTO), and Identity-PO.
+*   [ ] **Control-Theoretic Safety:** Control Barrier Functions (CBF), Control Lyapunov Functions (CLF), Safe Reinforcement Learning, and Constrained Markov Decision Processes (CMDPs) with Lagrangian multipliers.
+*   [ ] **AI Agent Security & Red Teaming:** Direct/Indirect prompt injection, Representation Engineering, jailbreak mechanics (GCG algorithm), guardrail system design, automated multi-agent red-teaming, and formal specification drift.
+
+📚 **Primary Reading:**
+* **Dimitri P. Bertsekas** — *Reinforcement Learning and Optimal Control*
+* **NeurIPS / ICML / ICLR / IEEE S&P / USENIX Security** — *Current Safety & Alignment Proceedings*
 
 </details>
 
-<details>
-<summary><b>Phase 2: Geometric Deep Learning & Symmetry</b></summary>
-
-- [ ] **Symmetry and Equivariance:** Invariance and equivariance principles, Group Equivariant CNNs (G-CNNs), Spherical CNNs, and Gauge Equivariant Mesh CNNs.
-- [ ] **Graph & Mesh Theory:** Spectral Graph Theory (Graph Laplacian, Normalized Laplacian, Graph Fourier Transform), Message Passing Neural Networks (MPNNs), oversmoothing, and oversquashing phenomena.
-
-📚 **Primary Reading:** **Michael M. Bronstein et al.** — *Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*.
-
-</details>
-
-<details>
-<summary><b>Phase 3: Adversarial Robustness, Certified Bounds & Distributional Drift</b></summary>
-
-- [ ] **Adversarial Threat Formalization:** L-infinity, L2, and L1 threat models, first-order attacks (FGSM, PGD, C&W, AutoAttack), black-box attacks (query-based, transferability, substitute models), and backdoor/data poisoning attacks.
-- [ ] **Certified Defense Mechanics:** Randomized smoothing (L2 certified radius via Neyman-Pearson Lemma), Interval Bound Propagation (IBP), bound propagation via abstract interpretation (alpha/beta-CROWN, LiRPA), and exact verification via SMT/MILP solvers (Reluplex, Marabou).
-- [ ] **Distributional Robustness & Domain Generalization:** Wasserstein Distributionally Robust Optimization (WDRO), Optimal Transport distance (W1), Invariant Risk Minimization (IRM), Domain Adversarial Neural Networks (DANN), and Out-of-Distribution (OOD) detection.
-
-📚 **Primary Reading:** **Pin-Yu Chen, Cho-Jui Hsieh** — *Adversarial Robustness for Machine Learning* | **Cédric Villani** — *Optimal Transport: Old and New*.
-
-</details>
-
-<details>
-<summary><b>Phase 4: Alignment Mathematics, Game Theory & Agent Safety</b></summary>
-
-- [ ] **Preference Learning:** Bradley-Terry and Plackett-Luce preference models, RLHF objective formulation (PPO with KL-penalty), Direct Preference Optimization (DPO), Kahneman-Tversky Optimization (KTO), and Identity-PO.
-- [ ] **Control-Theoretic Safety:** Control Barrier Functions (CBF), Control Lyapunov Functions (CLF), Safe Reinforcement Learning, and Constrained Markov Decision Processes (CMDPs) with Lagrangian multipliers.
-- [ ] **AI Agent Security & Red Teaming:** Direct/Indirect prompt injection, Representation Engineering, jailbreak mechanics (GCG algorithm), guardrail system design, automated multi-agent red-teaming, and formal specification drift.
-
-📚 **Primary Reading:** **Dimitri P. Bertsekas** — *Reinforcement Learning and Optimal Control* | **NeurIPS / ICML / ICLR / IEEE S&P / USENIX Security** — *Current Safety & Alignment Proceedings*.
-
-</details>
-</details>
+---
 
 <details>
 <summary><b>04. High-Performance Computing, Compilers & Systems</b></summary>
+<br>
 
-<details>
-<summary><b>Phase 1: Silicon Foundations & Digital Microarchitecture</b></summary>
+> ### 🔹 Phase 1: Silicon Foundations & Digital Microarchitecture
 
-- [ ] **Semiconductor Physics & MOSFETs:** P-N junctions, bandgap mechanics, NMOS/PMOS operation, CMOS logic gates, parasitic capacitance, leakage current, and dynamic power consumption.
-- [ ] **Digital Logic & Sequential Circuitry:** Boolean algebra minimization (Karnaugh maps, Quine-McCluskey), setup/hold times, clock jitter/skew, metastability, synchronizers, and Finite State Machines (Mealy & Moore).
-- [ ] **Computer Organization & RTL:** Register-Transfer Level (RTL) design, ALU architectures, carry-lookahead adders, Wallace tree multipliers, pipelining hazards, forwarding, stall units, and branch predictors (Gshare, TAGE).
-- [ ] **Memory Subsystem Microarchitecture:** SRAM topology (6T) vs DRAM cell (1T1C), cache line architecture, direct-mapped vs set-associative caches, MESI/MOESI cache coherence, write-buffers, and store-to-load forwarding.
+*   [ ] **Semiconductor Physics & MOSFETs:** P-N junctions, bandgap mechanics, NMOS/PMOS operation, CMOS logic gates, parasitic capacitance, leakage current, and dynamic power consumption.
+*   [ ] **Digital Logic & Sequential Circuitry:** Boolean algebra minimization (Karnaugh maps, Quine-McCluskey), setup/hold times, clock jitter/skew, metastability, synchronizers, and Finite State Machines (Mealy & Moore).
+*   [ ] **Computer Organization & RTL:** Register-Transfer Level (RTL) design, ALU architectures, carry-lookahead adders, Wallace tree multipliers, pipelining hazards, forwarding, stall units, and branch predictors (Gshare, TAGE).
+*   [ ] **Memory Subsystem Microarchitecture:** SRAM topology (6T) vs DRAM cell (1T1C), cache line architecture, direct-mapped vs set-associative caches, MESI/MOESI cache coherence, write-buffers, and store-to-load forwarding.
 
-📚 **Primary Reading:** **Neil Weste, David Harris** — *CMOS VLSI Design* | **David Harris, Sarah Harris** — *Digital Design and Computer Architecture*.
+📚 **Primary Reading:**
+* **Neil Weste, David Harris** — *CMOS VLSI Design*
+* **David Harris, Sarah Harris** — *Digital Design and Computer Architecture*
+
+---
+
+> ### 🔹 Phase 2: Hardware Microarchitecture & Parallel Compute Engines
+
+*   [ ] **Advanced CPU Microarchitecture:** Out-of-Order execution (OoO), Reorder Buffer (ROB), Reservation Stations, Register Renaming (RAT), Branch Target Buffers (BTB), SIMD vectorization (AVX-512, ARM SVE), and cache bottlenecks (false sharing, NUMA effects).
+*   [ ] **GPU Architecture & Compute Pipelines:** SIMT execution model, Streaming Multiprocessors (SMs), Warps (32 threads), warp divergence, register pressure, shared memory bank conflicts, Tensor Cores (MMA execution paths), and HBM3 vs SRAM bandwidth constraints.
+*   [ ] **Roofline Performance Modeling:** Arithmetic intensity (FLOP/Byte), operational boundaries, memory-bound vs compute-bound classification, and latency hiding via concurrency.
+*   [ ] **Custom Kernel Engineering (CUDA & Triton):** Shared memory tiling, coalesced global memory access, warp shuffle primitives, double buffering, asynchronous data transfers, Triton compiler IR (Triton-GPU MLIR dialect), and PTX/SASS assembly inspection.
+
+📚 **Primary Reading:**
+* **John L. Hennessy, David A. Patterson** — *Computer Architecture: A Quantitative Approach*
+* **David B. Kirk, Wen-mei W. Hwu** — *Programming Massively Parallel Processors: A Hands-on Approach*
+
+---
+
+> ### 🔹 Phase 3: Compiler Architecture, Polyhedral Model & MLIR
+
+*   [ ] **Compiler Frontend & Middle-End:** Abstract Syntax Trees (AST), Control Flow Graphs (CFG), Static Single Assignment (SSA) form construction, dominance frontiers, and dominator trees.
+*   [ ] **Optimization Passes:** Loop Invariant Code Motion (LICM), Dead Code Elimination (DCE), Common Subexpression Elimination (CSE), alias analysis, inline expansion, loop unrolling, and vectorization.
+*   [ ] **Polyhedral Compilation Model:** Polyhedral representation of nested loops, affine transformations, loop tiling, skewing, interchange, fusion, and Pluto Algorithm.
+*   [ ] **MLIR Infrastructure:** Dialect Ecosystem (Linalg, Vector, GPU, Arith, LLVM), Operation Definition Specification (ODS), Declarative Rewrite Rules (DRR), passes, lowering pipeline design, and JIT compilation via LLVM ORC.
+*   [ ] **Advanced Runtimes & Memory Management:** Garbage collection algorithms (tri-color marking, generational collectors), lock-free memory reclamation (Epoch-Based Reclamation, Hazard Pointers, Read-Copy-Update).
+
+📚 **Primary Reading:**
+* **Alfred V. Aho et al.** — *Compilers: Principles, Techniques, and Tools*
+* **Chris Lattner et al.** — *MLIR: Scaling Compiler Infrastructure for Domain Specific Computation*
+
+---
+
+> ### 🔹 Phase 4: OS Kernel Subsystems, Concurrency & Low-Level Systems
+
+*   [ ] **Virtual Memory Subsystem:** Multi-level page tables (4-level / 5-level), page walks, Translation Lookaside Buffer (TLB), TLB shootdowns, HugePages, Memory-Mapped I/O (MMIO), page fault handling, and Kernel Page Table Isolation (KPTI).
+*   [ ] **Kernel Memory Allocation:** Buddy Allocator, Slab/Slub/Slob allocators, memory overcommit mechanics, and Out-Of-Memory (OOM) killer internals.
+*   [ ] **Async I/O Subsystems:** epoll architecture, io_uring ring-buffer design (Submission Queue / Completion Queue), zero-copy networking, and direct I/O (O_DIRECT).
+*   [ ] **eBPF (Extended Berkeley Packet Filter):** Bytecode verification, JIT compilation to native machine code, kprobes, uprobes, tracepoints, and XDP packet processing at the NIC driver level.
+*   [ ] **Microarchitectural Vulnerabilities & Hardware Security:** Transient execution attacks (Spectre, Meltdown, Foreshadow), Rowhammer DRAM bit-flips, fault injection (voltage/clock glitching), and hardware enclaves (Intel SGX, AMD SEV, ARM Realm/CCA).
+
+📚 **Primary Reading:**
+* **Daniel P. Bovet, Marco Cesati** — *Understanding the Linux Kernel*
+* **Brendan Gregg** — *Systems Performance: Enterprise and the Cloud*
 
 </details>
 
-<details>
-<summary><b>Phase 2: Hardware Microarchitecture & Parallel Compute Engines</b></summary>
-
-- [ ] **Advanced CPU Microarchitecture:** Out-of-Order execution (OoO), Reorder Buffer (ROB), Reservation Stations, Register Renaming (RAT), Branch Target Buffers (BTB), SIMD vectorization (AVX-512, ARM SVE), and cache bottlenecks (false sharing, NUMA effects).
-- [ ] **GPU Architecture & Compute Pipelines:** SIMT execution model, Streaming Multiprocessors (SMs), Warps (32 threads), warp divergence, register pressure, shared memory bank conflicts, Tensor Cores (MMA execution paths), and HBM3 vs SRAM bandwidth constraints.
-- [ ] **Roofline Performance Modeling:** Arithmetic intensity (FLOP/Byte), operational boundaries, memory-bound vs compute-bound classification, and latency hiding via concurrency.
-- [ ] **Custom Kernel Engineering (CUDA & Triton):** Shared memory tiling, coalesced global memory access, warp shuffle primitives, double buffering, asynchronous data transfers, Triton compiler IR (Triton-GPU MLIR dialect), and PTX/SASS assembly inspection.
-
-📚 **Primary Reading:** **John L. Hennessy, David A. Patterson** — *Computer Architecture: A Quantitative Approach* | **David B. Kirk, Wen-mei W. Hwu** — *Programming Massively Parallel Processors: A Hands-on Approach*.
-
-</details>
-
-<details>
-<summary><b>Phase 3: Compiler Architecture, Polyhedral Model & MLIR</b></summary>
-
-- [ ] **Compiler Frontend & Middle-End:** Abstract Syntax Trees (AST), Control Flow Graphs (CFG), Static Single Assignment (SSA) form construction, dominance frontiers, and dominator trees.
-- [ ] **Optimization Passes:** Loop Invariant Code Motion (LICM), Dead Code Elimination (DCE), Common Subexpression Elimination (CSE), alias analysis, inline expansion, loop unrolling, and vectorization.
-- [ ] **Polyhedral Compilation Model:** Polyhedral representation of nested loops, affine transformations, loop tiling, skewing, interchange, fusion, and Pluto Algorithm.
-- [ ] **MLIR Infrastructure:** Dialect Ecosystem (Linalg, Vector, GPU, Arith, LLVM), Operation Definition Specification (ODS), Declarative Rewrite Rules (DRR), passes, lowering pipeline design, and JIT compilation via LLVM ORC.
-- [ ] **Advanced Runtimes & Memory Management:** Garbage collection algorithms (tri-color marking, generational collectors), lock-free memory reclamation (Epoch-Based Reclamation, Hazard Pointers, Read-Copy-Update).
-
-📚 **Primary Reading:** **Alfred V. Aho et al.** — *Compilers: Principles, Techniques, and Tools* | **Chris Lattner et al.** — *MLIR: Scaling Compiler Infrastructure for Domain Specific Computation*.
-
-</details>
-
-<details>
-<summary><b>Phase 4: OS Kernel Subsystems, Concurrency & Low-Level Systems</b></summary>
-
-- [ ] **Virtual Memory Subsystem:** Multi-level page tables (4-level / 5-level), page walks, Translation Lookaside Buffer (TLB), TLB shootdowns, HugePages, Memory-Mapped I/O (MMIO), page fault handling, and Kernel Page Table Isolation (KPTI).
-- [ ] **Kernel Memory Allocation:** Buddy Allocator, Slab/Slub/Slob allocators, memory overcommit mechanics, and Out-Of-Memory (OOM) killer internals.
-- [ ] **Async I/O Subsystems:** epoll architecture, io_uring ring-buffer design (Submission Queue / Completion Queue), zero-copy networking, and direct I/O (O_DIRECT).
-- [ ] **eBPF (Extended Berkeley Packet Filter):** Bytecode verification, JIT compilation to native machine code, kprobes, uprobes, tracepoints, and XDP packet processing at the NIC driver level.
-- [ ] **Microarchitectural Vulnerabilities & Hardware Security:** Transient execution attacks (Spectre, Meltdown, Foreshadow), Rowhammer DRAM bit-flips, fault injection (voltage/clock glitching), and hardware enclaves (Intel SGX, AMD SEV, ARM Realm/CCA).
-
-📚 **Primary Reading:** **Daniel P. Bovet, Marco Cesati** — *Understanding the Linux Kernel* | **Brendan Gregg** — *Systems Performance: Enterprise and the Cloud*.
-
-</details>
-</details>
+---
 
 <details>
 <summary><b>05. Distributed Systems, Consensus & Formal Specifications</b></summary>
+<br>
 
-<details>
-<summary><b>Phase 1: Theoretical Distributed Systems & Formal Specifications</b></summary>
+> ### 🔹 Phase 1: Theoretical Distributed Systems & Formal Specifications
 
-- [ ] **Fundamental Theorems:** FLP Impossibility Theorem, CAP Theorem, PACELC Theorem, and synchronous vs. asynchronous network bounds.
-- [ ] **Logical Time & Ordering:** Lamport Timestamps, Vector Clocks, Matrix Clocks, causal consistency, total order broadcast, and Chandy-Lamport distributed snapshot algorithm.
-- [ ] **Formal Specification & Verification:** TLA+ (Temporal Logic of Actions), PlusCal, model checking via TLC, verifying safety invariants and liveness properties, and refinement mapping.
+*   [ ] **Fundamental Theorems:** FLP Impossibility Theorem, CAP Theorem, PACELC Theorem, and synchronous vs. asynchronous network bounds.
+*   [ ] **Logical Time & Ordering:** Lamport Timestamps, Vector Clocks, Matrix Clocks, causal consistency, total order broadcast, and Chandy-Lamport distributed snapshot algorithm.
+*   [ ] **Formal Specification & Verification:** TLA+ (Temporal Logic of Actions), PlusCal, model checking via TLC, verifying safety invariants and liveness properties, and refinement mapping.
 
-📚 **Primary Reading:** **Leslie Lamport** — *Specifying Systems: The TLA+ Language and Tools* | **Nancy A. Lynch** — *Distributed Algorithms*.
+📚 **Primary Reading:**
+* **Leslie Lamport** — *Specifying Systems: The TLA+ Language and Tools*
+* **Nancy A. Lynch** — *Distributed Algorithms*
+
+---
+
+> ### 🔹 Phase 2: Asynchronous Consensus, BFT Mechanics & Distributed Data
+
+*   [ ] **Crash Fault Tolerant (CFT) Consensus:** Paxos (Single-decree, Multi-Paxos), Raft, Viewstamped Replication (VR), and State Machine Replication (SMR).
+*   [ ] **Byzantine Fault Tolerant (BFT) Consensus:** PBFT, HotStuff, Narwhal & Tusk (mempool and consensus separation), Async BFT (HoneyBadgerBFT, Verifiable Secret Sharing), and DAG-based consensus mechanics.
+*   [ ] **Distributed Data Structures & Transactions:** Consistent hashing (Rendezvous, Chord), Distributed Hash Tables (Kademlia), Two-Phase Commit (2PC), Three-Phase Commit (3PC), SAGA Pattern, and Spanner architecture (TrueTime API, external consistency, MVCC).
+
+📚 **Primary Reading:**
+* **Martin Kleppmann** — *Designing Data-Intensive Applications*
+* **Christian Cachin, Rachid Guerraoui, Luís Rodrigues** — *Introduction to Reliable and Secure Distributed Programming*
 
 </details>
+</details>
+
 
 <details>
-<summary><b>Phase 2: Asynchronous Consensus, BFT Mechanics & Distributed Data</b></summary>
+  <summary><b>⋆ Security, CyberSec & DFIR Toolchain ⋆ </b></summary>
+  
+  ---
+  
+  <details style="margin-left: 15px; margin-bottom: 10px;">
+    <summary><b>Purple Teaming & Adversary Operations</b></summary>
+    <br />
+    <table width="100%">
+      <tr>
+        <td width="30%"><b>Adversary Emulation & Red Team</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/metasploit/ffffff" width="32" height="32" alt="Metasploit" /></td></tr>
+              <tr><td align="center"><sub>Metasploit</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/burpsuite" width="32" height="32" alt="Burp Suite" /></td></tr>
+              <tr><td align="center"><sub>Burp Suite</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/neo4j" width="32" height="32" alt="BloodHound" /></td></tr>
+              <tr><td align="center"><sub>BloodHound</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/mitre" width="32" height="32" alt="CALDERA" /></td></tr>
+              <tr><td align="center"><sub>CALDERA</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="Mimikatz" /></td></tr>
+              <tr><td align="center"><sub>Mimikatz</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/nmap" width="32" height="32" alt="Nmap" /></td></tr>
+              <tr><td align="center"><sub>Nmap</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="30%"><b>Blue Team, NIDS/NIPS & Detection</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/suricata" width="32" height="32" alt="Suricata" /></td></tr>
+              <tr><td align="center"><sub>Suricata</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/snort" width="32" height="32" alt="Snort" /></td></tr>
+              <tr><td align="center"><sub>Snort</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/zeek" width="32" height="32" alt="Zeek" /></td></tr>
+              <tr><td align="center"><sub>Zeek</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/wazuh" width="32" height="32" alt="Wazuh" /></td></tr>
+              <tr><td align="center"><sub>Wazuh</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/yara" width="32" height="32" alt="YARA" /></td></tr>
+              <tr><td align="center"><sub>YARA</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/sigma" width="32" height="32" alt="Sigma" /></td></tr>
+              <tr><td align="center"><sub>Sigma</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </details>
 
-- [ ] **Crash Fault Tolerant (CFT) Consensus:** Paxos (Single-decree, Multi-Paxos), Raft, Viewstamped Replication (VR), and State Machine Replication (SMR).
-- [ ] **Byzantine Fault Tolerant (BFT) Consensus:** PBFT, HotStuff, Narwhal & Tusk (mempool and consensus separation), Async BFT (HoneyBadgerBFT, Verifiable Secret Sharing), and DAG-based consensus mechanics.
-- [ ] **Distributed Data Structures & Transactions:** Consistent hashing (Rendezvous, Chord), Distributed Hash Tables (Kademlia), Two-Phase Commit (2PC), Three-Phase Commit (3PC), SAGA Pattern, and Spanner architecture (TrueTime API, external consistency, MVCC).
+  ---
 
-📚 **Primary Reading:** **Martin Kleppmann** — *Designing Data-Intensive Applications* | **Christian Cachin, Rachid Guerraoui, Luís Rodrigues** — *Introduction to Reliable and Secure Distributed Programming*.
+  <details style="margin-left: 15px; margin-bottom: 10px;">
+    <summary><b>Digital Forensics & Incident Response (DFIR)</b></summary>
+    <br />
+    <table width="100%">
+      <tr>
+        <td width="30%"><b>Disk, Storage & Artifact Analysis</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/sleuthkit" width="32" height="32" alt="Autopsy" /></td></tr>
+              <tr><td align="center"><sub>Autopsy</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/sleuthkit" width="32" height="32" alt="TSK" /></td></tr>
+              <tr><td align="center"><sub>SleuthKit</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="FTK Imager" /></td></tr>
+              <tr><td align="center"><sub>FTK Imager</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/perl" width="32" height="32" alt="RegRipper" /></td></tr>
+              <tr><td align="center"><sub>RegRipper</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/microsoftexcel" width="32" height="32" alt="KAPE" /></td></tr>
+              <tr><td align="center"><sub>KAPE</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="30%"><b>Memory Forensics & Triage</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/python" width="32" height="32" alt="Volatility 3" /></td></tr>
+              <tr><td align="center"><sub>Volatility 3</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/velociraptor" width="32" height="32" alt="Velociraptor" /></td></tr>
+              <tr><td align="center"><sub>Velociraptor</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/linux/ffffff" width="32" height="32" alt="LiME" /></td></tr>
+              <tr><td align="center"><sub>LiME</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="WinPmem" /></td></tr>
+              <tr><td align="center"><sub>WinPmem</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="30%"><b>Network Forensics & Packet Capture</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/wireshark" width="32" height="32" alt="Wireshark" /></td></tr>
+              <tr><td align="center"><sub>Wireshark</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/wireshark" width="32" height="32" alt="TShark" /></td></tr>
+              <tr><td align="center"><sub>TShark</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/gnubash/ffffff" width="32" height="32" alt="tcpdump" /></td></tr>
+              <tr><td align="center"><sub>tcpdump</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/networkwired" width="32" height="32" alt="NetworkMiner" /></td></tr>
+              <tr><td align="center"><sub>NetworkMiner</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="30%"><b>Timeline & Log Processing</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/logstash" width="32" height="32" alt="Plaso / log2timeline" /></td></tr>
+              <tr><td align="center"><sub>Plaso</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/gchq" width="32" height="32" alt="CyberChef" /></td></tr>
+              <tr><td align="center"><sub>CyberChef</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/elastic" width="32" height="32" alt="ELK Stack" /></td></tr>
+              <tr><td align="center"><sub>ELK Stack</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </details>
 
+  ---
+
+  <details style="margin-left: 15px; margin-bottom: 10px;">
+    <summary><b> Reverse Engineering & Vulnerability Research</b></summary>
+    <br />
+    <table width="100%">
+      <tr>
+        <td width="30%"><b>Static Analysis & Disassembly</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/ghidra" width="32" height="32" alt="Ghidra" /></td></tr>
+              <tr><td align="center"><sub>Ghidra</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/hexrays" width="32" height="32" alt="IDA Pro" /></td></tr>
+              <tr><td align="center"><sub>IDA Pro</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/binaryninja" width="32" height="32" alt="Binary Ninja" /></td></tr>
+              <tr><td align="center"><sub>BinNinja</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/radare2" width="32" height="32" alt="Radare2 / Cutter" /></td></tr>
+              <tr><td align="center"><sub>Radare2</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="30%"><b>Dynamic Analysis & Instrumentation</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/gnu" width="32" height="32" alt="GDB" /></td></tr>
+              <tr><td align="center"><sub>GDB</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/frida" width="32" height="32" alt="Frida" /></td></tr>
+              <tr><td align="center"><sub>Frida</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="x64dbg" /></td></tr>
+              <tr><td align="center"><sub>x64dbg</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/python" width="32" height="32" alt="angr" /></td></tr>
+              <tr><td align="center"><sub>angr</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="30%"><b>Fuzzing & Vulnerability Scanning</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/americanfuzzylop" width="32" height="32" alt="AFL++" /></td></tr>
+              <tr><td align="center"><sub>AFL++</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/llvm" width="32" height="32" alt="libFuzzer" /></td></tr>
+              <tr><td align="center"><sub>libFuzzer</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/nuclei" width="32" height="32" alt="Nuclei" /></td></tr>
+              <tr><td align="center"><sub>Nuclei</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  ---
+
+  <details style="margin-left: 15px; margin-bottom: 10px;">
+    <summary><b>DevSecOps, SAST/DAST & Cloud Security</b></summary>
+    <br />
+    <table width="100%">
+      <tr>
+        <td width="30%"><b>Code & Dependency Auditing (SAST/SCA)</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/snyk" width="32" height="32" alt="Snyk" /></td></tr>
+              <tr><td align="center"><sub>Snyk</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/semgrep" width="32" height="32" alt="Semgrep" /></td></tr>
+              <tr><td align="center"><sub>Semgrep</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/sonarqube" width="32" height="32" alt="SonarQube" /></td></tr>
+              <tr><td align="center"><sub>SonarQube</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/trivy" width="32" height="32" alt="Trivy" /></td></tr>
+              <tr><td align="center"><sub>Trivy</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="30%"><b>Infrastructure as Code (IaC) & Cloud Sec</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/checkov" width="32" height="32" alt="Checkov" /></td></tr>
+              <tr><td align="center"><sub>Checkov</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/tfsec" width="32" height="32" alt="tfsec" /></td></tr>
+              <tr><td align="center"><sub>tfsec</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/openpolicyagent" width="32" height="32" alt="OPA" /></td></tr>
+              <tr><td align="center"><sub>OPA</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="30%"><b>Container & Runtime Security</b></td>
+        <td>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/falco" width="32" height="32" alt="Falco" /></td></tr>
+              <tr><td align="center"><sub>Falco</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/kubernetes" width="32" height="32" alt="Kube-bench" /></td></tr>
+              <tr><td align="center"><sub>Kube-bench</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none">
+            <table display="inline" align="left">
+              <tr><td align="center"><img src="https://cdn.simpleicons.org/docker" width="32" height="32" alt="Hadolint" /></td></tr>
+              <tr><td align="center"><sub>Hadolint</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </details>
 </details>
 </details>
 
@@ -561,392 +994,6 @@
     </tr>
   </tbody>
 </table>
-
-
-## ⋆ Security, CyberSec & DFIR Toolchain ⋆
-
-  <details style="margin-left: 15px; margin-bottom: 10px;">
-    <summary><b>Purple Teaming & Adversary Operations</b></summary>
-    <br />
-    <table width="100%">
-      <tr>
-        <td width="30%"><b>Adversary Emulation & Red Team</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/metasploit/ffffff" width="32" height="32" alt="Metasploit" /></td></tr>
-              <tr><td align="center"><sub>Metasploit</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/burpsuite" width="32" height="32" alt="Burp Suite" /></td></tr>
-              <tr><td align="center"><sub>Burp Suite</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/neo4j" width="32" height="32" alt="BloodHound" /></td></tr>
-              <tr><td align="center"><sub>BloodHound</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/mitre" width="32" height="32" alt="CALDERA" /></td></tr>
-              <tr><td align="center"><sub>CALDERA</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="Mimikatz" /></td></tr>
-              <tr><td align="center"><sub>Mimikatz</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/nmap" width="32" height="32" alt="Nmap" /></td></tr>
-              <tr><td align="center"><sub>Nmap</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="30%"><b>Blue Team, NIDS/NIPS & Detection</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/suricata" width="32" height="32" alt="Suricata" /></td></tr>
-              <tr><td align="center"><sub>Suricata</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/snort" width="32" height="32" alt="Snort" /></td></tr>
-              <tr><td align="center"><sub>Snort</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/zeek" width="32" height="32" alt="Zeek" /></td></tr>
-              <tr><td align="center"><sub>Zeek</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/wazuh" width="32" height="32" alt="Wazuh" /></td></tr>
-              <tr><td align="center"><sub>Wazuh</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/yara" width="32" height="32" alt="YARA" /></td></tr>
-              <tr><td align="center"><sub>YARA</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/sigma" width="32" height="32" alt="Sigma" /></td></tr>
-              <tr><td align="center"><sub>Sigma</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-    </table>
-  </details>
-
-  <details style="margin-left: 15px; margin-bottom: 10px;">
-    <summary><b>Digital Forensics & Incident Response (DFIR)</b></summary>
-    <br />
-    <table width="100%">
-      <tr>
-        <td width="30%"><b>Disk, Storage & Artifact Analysis</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/sleuthkit" width="32" height="32" alt="Autopsy" /></td></tr>
-              <tr><td align="center"><sub>Autopsy</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/sleuthkit" width="32" height="32" alt="TSK" /></td></tr>
-              <tr><td align="center"><sub>SleuthKit</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="FTK Imager" /></td></tr>
-              <tr><td align="center"><sub>FTK Imager</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/perl" width="32" height="32" alt="RegRipper" /></td></tr>
-              <tr><td align="center"><sub>RegRipper</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/microsoftexcel" width="32" height="32" alt="KAPE" /></td></tr>
-              <tr><td align="center"><sub>KAPE</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="30%"><b>Memory Forensics & Triage</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/python" width="32" height="32" alt="Volatility 3" /></td></tr>
-              <tr><td align="center"><sub>Volatility 3</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/velociraptor" width="32" height="32" alt="Velociraptor" /></td></tr>
-              <tr><td align="center"><sub>Velociraptor</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/linux/ffffff" width="32" height="32" alt="LiME" /></td></tr>
-              <tr><td align="center"><sub>LiME</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="WinPmem" /></td></tr>
-              <tr><td align="center"><sub>WinPmem</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="30%"><b>Network Forensics & Packet Capture</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/wireshark" width="32" height="32" alt="Wireshark" /></td></tr>
-              <tr><td align="center"><sub>Wireshark</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/wireshark" width="32" height="32" alt="TShark" /></td></tr>
-              <tr><td align="center"><sub>TShark</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/gnubash/ffffff" width="32" height="32" alt="tcpdump" /></td></tr>
-              <tr><td align="center"><sub>tcpdump</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/networkwired" width="32" height="32" alt="NetworkMiner" /></td></tr>
-              <tr><td align="center"><sub>NetworkMiner</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="30%"><b>Timeline & Log Processing</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/logstash" width="32" height="32" alt="Plaso / log2timeline" /></td></tr>
-              <tr><td align="center"><sub>Plaso</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/gchq" width="32" height="32" alt="CyberChef" /></td></tr>
-              <tr><td align="center"><sub>CyberChef</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/elastic" width="32" height="32" alt="ELK Stack" /></td></tr>
-              <tr><td align="center"><sub>ELK Stack</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-    </table>
-  </details>
-
-  <details style="margin-left: 15px; margin-bottom: 10px;">
-    <summary><b> Reverse Engineering & Vulnerability Research</b></summary>
-    <br />
-    <table width="100%">
-      <tr>
-        <td width="30%"><b>Static Analysis & Disassembly</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/ghidra" width="32" height="32" alt="Ghidra" /></td></tr>
-              <tr><td align="center"><sub>Ghidra</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/hexrays" width="32" height="32" alt="IDA Pro" /></td></tr>
-              <tr><td align="center"><sub>IDA Pro</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/binaryninja" width="32" height="32" alt="Binary Ninja" /></td></tr>
-              <tr><td align="center"><sub>BinNinja</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/radare2" width="32" height="32" alt="Radare2 / Cutter" /></td></tr>
-              <tr><td align="center"><sub>Radare2</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="30%"><b>Dynamic Analysis & Instrumentation</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/gnu" width="32" height="32" alt="GDB" /></td></tr>
-              <tr><td align="center"><sub>GDB</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/frida" width="32" height="32" alt="Frida" /></td></tr>
-              <tr><td align="center"><sub>Frida</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="x64dbg" /></td></tr>
-              <tr><td align="center"><sub>x64dbg</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/python" width="32" height="32" alt="angr" /></td></tr>
-              <tr><td align="center"><sub>angr</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="30%"><b>Fuzzing & Vulnerability Scanning</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/americanfuzzylop" width="32" height="32" alt="AFL++" /></td></tr>
-              <tr><td align="center"><sub>AFL++</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/llvm" width="32" height="32" alt="libFuzzer" /></td></tr>
-              <tr><td align="center"><sub>libFuzzer</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/nuclei" width="32" height="32" alt="Nuclei" /></td></tr>
-              <tr><td align="center"><sub>Nuclei</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-    </table>
-  </details>
-
-  <details style="margin-left: 15px; margin-bottom: 10px;">
-    <summary><b>DevSecOps, SAST/DAST & Cloud Security</b></summary>
-    <br />
-    <table width="100%">
-      <tr>
-        <td width="30%"><b>Code & Dependency Auditing (SAST/SCA)</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/snyk" width="32" height="32" alt="Snyk" /></td></tr>
-              <tr><td align="center"><sub>Snyk</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/semgrep" width="32" height="32" alt="Semgrep" /></td></tr>
-              <tr><td align="center"><sub>Semgrep</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/sonarqube" width="32" height="32" alt="SonarQube" /></td></tr>
-              <tr><td align="center"><sub>SonarQube</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/trivy" width="32" height="32" alt="Trivy" /></td></tr>
-              <tr><td align="center"><sub>Trivy</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="30%"><b>Infrastructure as Code (IaC) & Cloud Sec</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/checkov" width="32" height="32" alt="Checkov" /></td></tr>
-              <tr><td align="center"><sub>Checkov</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/tfsec" width="32" height="32" alt="tfsec" /></td></tr>
-              <tr><td align="center"><sub>tfsec</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/openpolicyagent" width="32" height="32" alt="OPA" /></td></tr>
-              <tr><td align="center"><sub>OPA</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="30%"><b>Container & Runtime Security</b></td>
-        <td>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/falco" width="32" height="32" alt="Falco" /></td></tr>
-              <tr><td align="center"><sub>Falco</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/kubernetes" width="32" height="32" alt="Kube-bench" /></td></tr>
-              <tr><td align="center"><sub>Kube-bench</sub></td></tr>
-            </table>
-          </a>
-          <a href="#" style="text-decoration:none">
-            <table display="inline" align="left">
-              <tr><td align="center"><img src="https://cdn.simpleicons.org/docker" width="32" height="32" alt="Hadolint" /></td></tr>
-              <tr><td align="center"><sub>Hadolint</sub></td></tr>
-            </table>
-          </a>
-        </td>
-      </tr>
-    </table>
-  </details>
-</details>
 
 ---
 
