@@ -18,7 +18,7 @@ jobs:
       - name: Fetch Badge Image
         run: |
           mkdir -p assets
-          curl -s "https://tryhackme-badges.s3.amazonaws.com/ventie.png" -o assets/thm_propic.png
+          curl -s -L "https://tryhackme-stats.vercel.app/api/badge/ventie" -o assets/thm_propic.png
 
       - name: Commit and Push Badge
         run: |
