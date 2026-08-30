@@ -170,13 +170,29 @@
 </details>
 
 <details>
-<summary><img src="https://private-user-images.githubusercontent.com/153387435/486463461-8bacf7d5-26da-4caa-8803-303b4165e80b.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwNDQwOTQsIm5iZiI6MTc4ODA0Mzc5NCwicGF0aCI6Ii8xNTMzODc0MzUvNDg2NDYzNDYxLThiYWNmN2Q1LTI2ZGEtNGNhYS04ODAzLTMwM2I0MTY1ZTgwYi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MjlUMjI0OTU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2YxMTEwMjIyMDhjNzI5MTM1ZmJkYThlNDhjOGQ5MDAwMDdhNmQxZWVlYzZhM2YzMzQ5M2UxYTU2YTRlMDEwYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.QHTRcy07cQWKeJLBIIQ4aeFJNVtslqFMaKXkL1m9V80" width="24" style="vertical-align: middle;"/><b>⋆ Academic & Research Roadmap ⋆</b></summary>
-  
+<summary><img src="https://private-user-images.githubusercontent.com/153387435/486463461-8bacf7d5-26da-4caa-8803-303b4165e80b.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwNDQwOTQsIm5iZiI6MTc4ODA0Mzc5NCwicGF0aCI6Ii8xNTMzODc0MzUvNDg2NDYzNDYxLThiYWNmN2Q1LTI2ZGEtNGNhYS04ODAzLTMwM2I0MTY1ZTgwYi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MjlUMjI0OTU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2YxMTEwMjIyMDhjNzI5MTM1ZmJkYThlNDhjOGQ5MDAwMDdhNmQxZWVlYzZhM2YzMzQ5M2UxYTU2YTRlMDEwYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9" width="24" style="vertical-align: middle;"/><b>⋆ Academic & Research Roadmap ⋆</b></summary>
+ 
 ---
 
 <details>
 <summary><b>01. Applied Mathematics & Analysis</b></summary>
 <br>
+
+> ### 🔹 Phase 0: Foundations of High School & Elementary Mathematics
+
+*   [ ] **Elementary Algebra & Functions:** Polynomials, factoring, rational expressions, exponential and logarithmic functions, inequalities, absolute value equations, systems of linear and non-linear equations.
+*   [ ] **Trigonometry & Polar Coordinates:** Unit circle, trigonometric identities, inverse trigonometric functions, polar coordinate system, polar form of complex numbers, and De Moivre's formula.
+*   [ ] **Single-Variable Calculus:** Limits, continuity, derivative definitions, differentiation rules, Mean Value Theorem, L'Hôpital's Rule, indefinite/definite integrals, Fundamental Theorem of Calculus, integration techniques (by parts, substitution, partial fractions), and improper integrals.
+*   [ ] **Multivariable & Vector Calculus:** Vectors, dot/cross products, partial derivatives, gradient, directional derivatives, Jacobian matrix, chain rule in multiple variables, multiple integrals, cylindrical and spherical coordinates.
+*   [ ] **Introductory Linear Algebra:** Vector spaces, subspaces, linear independence, span, basis, dimension, matrix operations, determinants, Gaussian elimination, inverse matrices, eigenvalues, and eigenvectors.
+*   [ ] **Elementary Ordinary Differential Equations (ODEs):** First-order separable and linear ODEs, second-order linear ODEs with constant coefficients, method of undetermined coefficients, and variation of parameters.
+
+📚 **Primary Reading:**
+* **James Stewart** — *Calculus: Early Transcendentals*
+* **Gilbert Strang** — *Introduction to Linear Algebra*
+* **Dennis G. Zill** — *A First Course in Differential Equations with Modeling Applications*
+
+---
 
 > ### 🔹 Phase 1: Real, Complex Analysis & Linear Algebra
 
@@ -257,6 +273,20 @@
 <summary><b>02. Mathematical Cryptography, Complexity & Formal Methods</b></summary>
 <br>
 
+> ### 🔹 Phase 0: Foundations of Discrete Mathematics & Logic
+
+*   [ ] **Mathematical Logic & Proofs:** Propositional logic, predicate logic, truth tables, direct proofs, proof by contraposition, proof by contradiction, mathematical induction, and strong induction.
+*   [ ] **Set Theory & Relations:** Sets, subsets, power sets, set operations, Cartesian products, equivalence relations, equivalence classes, partial orderings, and Hasse diagrams.
+*   [ ] **Basic Number Theory:** Divisibility, prime numbers, Greatest Common Divisor (GCD), Euclidean Algorithm, Modular Arithmetic, and Fermat's Little Theorem.
+*   [ ] **Combinatorics & Graph Theory:** Permutations, combinations, Pigeonhole Principle, Inclusion-Exclusion Principle, Eulerian and Hamiltonian paths, trees, and graph colorings.
+*   [ ] **Elementary Automata & Formal Languages:** Deterministic Finite Automata (DFA), Nondeterministic Finite Automata (NFA), regular expressions, and Context-Free Grammars (CFG).
+
+📚 **Primary Reading:**
+* **Kenneth H. Rosen** — *Discrete Mathematics and Its Applications*
+* **Michael Sipser** — *Introduction to the Theory of Computation (Chapters 0–2)*
+
+---
+
 > ### 🔹 Phase 1: Computational Complexity & Information Theory
 
 *   [ ] **Structural Complexity:** Turing machines (Deterministic, Non-deterministic, Oracle), classes P, NP, coNP, Polynomial Hierarchy, PSPACE, Ladner's Theorem, and Baker-Gill-Solovay Relativization barrier.
@@ -308,6 +338,21 @@
 <details>
 <summary><b>03. Deep Learning Theory, Robustness & Agent Safety Mechanics</b></summary>
 <br>
+
+> ### 🔹 Phase 0: Elementary Probability, Statistics & Machine Learning Fundamentals
+
+*   [ ] **Basic Probability:** Sample spaces, events, axioms of probability, conditional probability, Bayes' Theorem, independence, discrete/continuous random variables, expectation, variance, and covariance.
+*   [ ] **Standard Distributions:** Uniform, Binomial, Poisson, Gaussian (Normal), Exponential, Beta, Gamma, and Multivariate Normal distributions.
+*   [ ] **Classical Statistics:** Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP) estimation, confidence intervals, hypothesis testing, p-values, and linear/logistic regression.
+*   [ ] **Foundational Machine Learning:** Supervised vs. unsupervised learning, train/val/test splits, bias-variance tradeoff, overfitting/underfitting, regularization (L1/L2), decision trees, k-NN, and SVMs.
+*   [ ] **Neural Network Basics:** Perceptrons, multilayer perceptrons (MLP), activation functions (ReLU, Sigmoid, Softmax), loss functions (MSE, Cross-Entropy), forward pass, and backpropagation via manual chain rule.
+
+📚 **Primary Reading:**
+* **Sheldon Ross** — *A First Course in Probability*
+* **Gareth James et al.** — *An Introduction to Statistical Learning (ISLR)*
+* **Ian Goodfellow, Yoshua Bengio, Aaron Courville** — *Deep Learning (Part I)*
+
+---
 
 > ### 🔹 Phase 1: Statistical Learning Theory & Infinite-Width Regime
 
@@ -362,6 +407,21 @@
 <details>
 <summary><b>04. High-Performance Computing, Compilers & Systems</b></summary>
 <br>
+
+> ### 🔹 Phase 0: Foundations of Computer Architecture & C/C++ Systems Programming
+
+*   [ ] **Basic Physics & Circuits:** Ohm's Law, Kirchhoff's Laws, RLC circuits, semiconductor physics basics, logic gates (AND, OR, NOT, NAND, NOR, XOR), and truth tables.
+*   [ ] **Number Representations:** Binary, octal, hexadecimal, signed number representations (Two's Complement), IEEE 754 Floating-Point standard, and bitwise operations.
+*   [ ] **Basic Assembly & Machine Code:** RISC vs CISC concepts, register sets, stack frames, calling conventions, basic x86-64 / ARM assembly instructions, and memory layout (Text, Data, BSS, Heap, Stack).
+*   [ ] **C/C++ Systems Programming:** Pointers, pointer arithmetic, manual memory allocation (`malloc`/`free`, `new`/`delete`), RAII, references, struct alignment/padding, and basic file I/O.
+*   [ ] **Basic Data Structures & Algorithms:** Arrays, linked lists, stacks, queues, hash tables, binary search trees, sorting algorithms (QuickSort, MergeSort), and asymptotic analysis (Big-O notation).
+
+📚 **Primary Reading:**
+* **Charles Petzold** — *Code: The Hidden Language of Computer Hardware and Software*
+* **Brian W. Kernighan, Dennis M. Ritchie** — *The C Programming Language*
+* **Bryant & O'Hallaron** — *Computer Systems: A Programmer's Perspective (CS:APP)*
+
+---
 
 > ### 🔹 Phase 1: Silicon Foundations & Digital Microarchitecture
 
@@ -422,6 +482,20 @@
 <details>
 <summary><b>05. Distributed Systems, Consensus & Formal Specifications</b></summary>
 <br>
+
+> ### 🔹 Phase 0: Foundations of Computer Networks & Operating Systems
+
+*   [ ] **Network Stack & Protocols:** OSI Model vs TCP/IP stack, Ethernet, IP addressing/subnetting, ICMP, TCP 3-way handshake and connection teardown, UDP, and DNS basics.
+*   [ ] **Socket Programming:** Client-server architecture, TCP/UDP sockets, blocking vs. non-blocking I/O, select/poll primitives, and basic HTTP protocol structure.
+*   [ ] **Operating System Basics:** Process management, threads, context switching, processes vs. threads, inter-process communication (IPC: pipes, shared memory, sockets).
+*   [ ] **Concurrency Fundamentals:** Race conditions, critical sections, mutual exclusion, locks/mutexes, semaphores, condition variables, deadlocks, and livelocks.
+*   [ ] **Basic Storage Systems:** File system interfaces (POSIX I/O), inodes, directory trees, file descriptors, and disk storage basics (HDD vs SSD access patterns).
+
+📚 **Primary Reading:**
+* **Andrew S. Tanenbaum, David J. Wetherall** — *Computer Networks*
+* **Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau** — *Operating Systems: Three Easy Pieces (OSTEP)*
+
+---
 
 > ### 🔹 Phase 1: Theoretical Distributed Systems & Formal Specifications
 
