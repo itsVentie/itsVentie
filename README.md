@@ -14,15 +14,25 @@
         <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
         <img src="https://img.shields.io/badge/Timezone-UTC%2B2-1a1b26?style=flat-square&logo=clockify&logoColor=7aa2f7" />
         <img src="https://img.shields.io/badge/Status-Available_for_work-73daca?style=flat-square&logo=gitbook&logoColor=1a1b26" />
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fvintiq%2Fstats&query=%24.chess_blitz.last.rating&style=flat-square&logo=chess.com&logoColor=ffffff&label=Chess.com%20Blitz&color=ff9e64" alt="Chess.com Blitz Rating" />
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fvintiq%2Fstats&query=%24.chess_rapid.last.rating&style=flat-square&logo=chess.com&logoColor=ffffff&label=Chess.com%20Rapid&color=e0af68" alt="Chess.com Rapid Rating" />
-        <img src="https://img.shields.io/badge/Shogi-5%20Kyu-73daca?style=flat-square&logo=shogi&logoColor=ffffff" />
         <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
           <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
         </a>
+<img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
     </td>
   </tr>
 </table>
+
+<p align="center" style="white-space: nowrap;">
+  <img src="https://img.shields.io/badge/Environment-Arch%20%7C%20Fedora%20%7C%20Qubes-1a1b26?style=flat-square&logo=archlinux&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Architecture-x86__64%20%7C%20ARM64-1a1b26?style=flat-square&logo=arm&logoColor=73daca" />
+  <img src="https://img.shields.io/badge/AI-PyO3%20%7C%20OnnxRuntime-1a1b26?style=flat-square&logo=python&logoColor=e0af68" />
+</p>
+
+<p align="center" style="white-space: nowrap;">
+  <img src="https://img.shields.io/badge/Crypt-ML--KEM--768%20%7C%20X25519-1a1b26?style=flat-square&logo=letsencrypt&logoColor=bb9af7" />
+  <img src="https://img.shields.io/badge/Kernel-eBPF%20%7C%20WinAPI-1a1b26?style=flat-square&logo=linux&logoColor=f7768e" />
+  <img src="https://img.shields.io/badge/Protocol-QUIC%20%7C%20mDNS%20%7C%20P2P-1a1b26?style=flat-square&logo=udp&logoColor=9ece6a" />
+</p>
 
 ---
 
