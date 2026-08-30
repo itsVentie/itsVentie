@@ -888,26 +888,27 @@
   </summary>
   <br />
 
-  <table align="center" border="0" width="100%">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <a href="https://huggingface.co/ventie" target="_blank" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/Hugging%20Face-itsventie-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF Profile" />
-          <br /><br />
-          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Models&query=$.length&url=https://huggingface.co/api/models?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Models Count" />
-          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Datasets&query=$.length&url=https://huggingface.co/api/datasets?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Datasets Count" />
-        </a>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <a href="https://www.kaggle.com/ventie" target="_blank" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/Kaggle-ventie-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
-          <br /><br />
-          <img src="https://img.shields.io/badge/Competitor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Rank" />
-          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Kaggle Status" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://www.kaggle.com/itsventie" target="_blank" style="text-decoration: none;">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ventieravelle/competition/dark" alt="Kaggle Competitions" />
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ventieravelle/dataset/dark" alt="Kaggle Datasets" />
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ventieravelle/notebook/dark" alt="Kaggle Notebooks" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://huggingface.co/itsventie" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Hugging%20Face-itsventie-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF Profile" />
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Models&query=$.length&url=https://huggingface.co/api/models?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Models" />
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Datasets&query=$.length&url=https://huggingface.co/api/datasets?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Datasets" />
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Spaces&query=$.length&url=https://huggingface.co/api/spaces?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Spaces" />
+      </a>
+    </td>
+  </tr>
+</table>
 </details>
   </div>
 
