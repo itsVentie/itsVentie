@@ -866,8 +866,8 @@
       </summary>
       <br />
       <p align="center">
-        <a href="https://tryhackme.com/p/itsventie" target="_blank">
-          <img src="https://raw.githubusercontent.com/itsventie/ventie/main/assets/thm_propic.png" alt="TryHackMe Badge" />
+        <a href="https://tryhackme.com/p/ventie" target="_blank">
+          <img src="https://raw.githubusercontent.com/itsventie/itsventie/main/assets/thm_propic.png" alt="TryHackMe Badge" />
         </a>
       </p>
       <p align="center">
