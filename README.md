@@ -968,18 +968,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left"><b>Core Systems & Low-Level</b></td>
+      <td align="left"><b>Programming languages</b></td>
       <td align="left">
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/rust/ffffff" width="36" height="36" alt="Rust" /></td></tr>
             <tr><td align="center"><sub>Rust</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/c" width="36" height="36" alt="C" /></td></tr>
-            <tr><td align="center"><sub>C</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
@@ -992,12 +986,6 @@
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/go" width="36" height="36" alt="Go" /></td></tr>
             <tr><td align="center"><sub>Go</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/zig" width="36" height="36" alt="Zig" /></td></tr>
-            <tr><td align="center"><sub>Zig</sub></td></tr>
           </table>
         </a>
       </td>
