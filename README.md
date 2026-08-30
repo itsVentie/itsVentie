@@ -854,7 +854,7 @@
         </tr>
       </table>
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsventie&theme=tokyonight" alt="Profile Details" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsventie&theme=tokyonight" alt="Profile Details" width="75%" />
       </p>
     </details>
   </div>
