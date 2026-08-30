@@ -18,11 +18,11 @@ jobs:
       - name: Fetch Badge Image
         run: |
           mkdir -p assets
-          curl -s -L "https://tryhackme.com/badge/ventie" -o assets/thm_propic.svg
+          curl -s -L "https://tryhackme-badges.s3.amazonaws.com/ventie.png" -o assets/thm_propic.png
 
       - name: Commit and Push Badge
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/thm_propic.svg
+          git add assets/thm_propic.png
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update TryHackMe badge" && git push)
