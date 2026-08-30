@@ -5,13 +5,24 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   tryhackme-badge-update:
     name: Update tryhackme badge image
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          username: "itsventie"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+
+      - name: Fetch Badge Image
+        run: |
+          mkdir -p assets
+          curl -s "https://tryhackme-badges.s3.amazonaws.com/ventie.png" -o assets/thm_propic.png
+
+      - name: Commit and Push Badge
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/thm_propic.png
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update TryHackMe badge" && git push)
