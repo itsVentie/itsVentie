@@ -38,28 +38,28 @@
 
 <details>
   <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b>⋆ About Me ⋆</b></summary>
-  <ul>
-    <li>˗ˏˋ <b>Headline:</b> Security Systems & AI/ML Engineer // Future Computer Scientist</li>
-    <li>˗ˏˋ <b>Age:</b> 18+</li>
-    <li>˗ˏˋ <b>Gender:</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary</li>
-    <li>˗ˏˋ <b>Personality Profiles:</b>
-      <ul>
-        <li><b>MBTI:</b> INFJ-T (Advocate)</li>
-        <li><b>Enneagram:</b> 4w5 (The Individualist / The Bohemian)</li>
-        <li><b>Socionics:</b> EII (Dostoevsky)</li>
-        <li><b>Attitudinal Psyche:</b> ELVF (Andersen)</li>
-      </ul>
-    </li>
-    <li>˗ˏˋ <b>Interests:</b>
-      <ul>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> <b>Chess:</b> 2400-2500 Elo</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> <b>Shogi:</b> 5 Kyu</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> <b>Media:</b> Anime & Manga/Manhwa</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> <b>Gaming:</b> Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)</li>
-      </ul>
-    </li>
-    <li>˗ˏˋ <b>Languages:</b> <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English • <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian • <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German • <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French • <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish</li>
-  </ul>
+  <br />
+  <div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; line-height: 1.6; color: #c9d1d9; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+    <div><span style="color: #58a6ff;">╭─</span> <b>[ IDENTITY ]</b></div>
+    <div><span style="color: #58a6ff;">│</span> ˗ˏˋ <b>Headline:</b> Security Systems & AI/ML Engineer // Future Computer Scientist</div>
+    <div><span style="color: #58a6ff;">│</span> ˗ˏˋ <b>Age:</b> 18+</div>
+    <div><span style="color: #58a6ff;">│</span> ˗ˏˋ <b>Gender:</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary</div>
+    <div><span style="color: #58a6ff;">├─────────────────────────────────────────────────────────────</span></div>
+    <div><span style="color: #bc8cff;">│</span> <b>[ PERSONALITY PROFILES ]</b></div>
+    <div><span style="color: #bc8cff;">│</span>  ├─ <b>MBTI:</b> INFJ-T (Advocate)</div>
+    <div><span style="color: #bc8cff;">│</span>  ├─ <b>Enneagram:</b> 4w5 (The Individualist / The Bohemian)</div>
+    <div><span style="color: #bc8cff;">│</span>  ├─ <b>Socionics:</b> EII (Dostoevsky)</div>
+    <div><span style="color: #bc8cff;">│</span>  └─ <b>Attitudinal Psyche:</b> ELVF (Andersen)</div>
+    <div><span style="color: #bc8cff;">├─────────────────────────────────────────────────────────────</span></div>
+    <div><span style="color: #3fb950;">│</span> <b>[ INTERESTS ]</b></div>
+    <div><span style="color: #3fb950;">│</span>  ├─ <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> <b>Chess:</b> 2400-2500 Elo</div>
+    <div><span style="color: #3fb950;">│</span>  ├─ <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> <b>Shogi:</b> 5 Kyu</div>
+    <div><span style="color: #3fb950;">│</span>  ├─ <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> <b>Media:</b> Anime & Manga/Manhwa</div>
+    <div><span style="color: #3fb950;">│</span>  └─ <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> <b>Gaming:</b> Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)</div>
+    <div><span style="color: #3fb950;">├─────────────────────────────────────────────────────────────</span></div>
+    <div><span style="color: #d29922;">│</span> <b>[ LANGUAGES ]</b></div>
+    <div><span style="color: #d29922;">╰─</span> <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English • <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian • <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German • <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French • <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish</div>
+  </div>
 </details>
 
 <details>
