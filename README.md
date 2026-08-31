@@ -180,12 +180,12 @@
 
 > ### 🔹 Phase 0: Foundations of High School & Elementary Mathematics
 
-*   [ ] **Elementary Algebra & Functions:** Polynomials, factoring, rational expressions, exponential and logarithmic functions, inequalities, absolute value equations, systems of linear and non-linear equations.
-*   [ ] **Trigonometry & Polar Coordinates:** Unit circle, trigonometric identities, inverse trigonometric functions, polar coordinate system, polar form of complex numbers, and De Moivre's formula.
-*   [ ] **Single-Variable Calculus:** Limits, continuity, derivative definitions, differentiation rules, Mean Value Theorem, L'Hôpital's Rule, indefinite/definite integrals, Fundamental Theorem of Calculus, integration techniques (by parts, substitution, partial fractions), and improper integrals.
+*   [x] **Elementary Algebra & Functions:** Polynomials, factoring, rational expressions, exponential and logarithmic functions, inequalities, absolute value equations, systems of linear and non-linear equations.
+*   [/] **Trigonometry & Polar Coordinates:** Unit circle, trigonometric identities, inverse trigonometric functions, polar coordinate system, polar form of complex numbers, and De Moivre's formula.
+*   [/] **Single-Variable Calculus:** Limits, continuity, derivative definitions, differentiation rules, Mean Value Theorem, L'Hôpital's Rule, indefinite/definite integrals, Fundamental Theorem of Calculus, integration techniques (by parts, substitution, partial fractions), and improper integrals.
 *   [ ] **Multivariable & Vector Calculus:** Vectors, dot/cross products, partial derivatives, gradient, directional derivatives, Jacobian matrix, chain rule in multiple variables, multiple integrals, cylindrical and spherical coordinates.
 *   [ ] **Introductory Linear Algebra:** Vector spaces, subspaces, linear independence, span, basis, dimension, matrix operations, determinants, Gaussian elimination, inverse matrices, eigenvalues, and eigenvectors.
-*   [ ] **Elementary Ordinary Differential Equations (ODEs):** First-order separable and linear ODEs, second-order linear ODEs with constant coefficients, method of undetermined coefficients, and variation of parameters.
+*   [/] **Elementary Ordinary Differential Equations (ODEs):** First-order separable and linear ODEs, second-order linear ODEs with constant coefficients, method of undetermined coefficients, and variation of parameters.
 
 📚 **Primary Reading:**
 * **James Stewart** — *Calculus: Early Transcendentals*
