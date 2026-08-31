@@ -63,107 +63,108 @@
 </details>
 
 <details>
-  <summary><img src="https://private-user-images.githubusercontent.com/153387435/486514678-dfe0d835-441a-4596-a593-ab9fb10e3e5e.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwNDQwOTQsIm5iZiI6MTc4ODA0Mzc5NCwicGF0aCI6Ii8xNTMzODc0MzUvNDg2NTE0Njc4LWRmZTBkODM1LTQ0MWEtNDU5Ni1hNTkzLWFiOWZiMTBlM2U1ZS53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MjlUMjI0OTU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTYyMzMyNjIzNzAzYzBkMGFiNmVlMDVhZWZiYmMwMTg2MzQzNWU5NWFiODI4YWFiYzIwMWI3MDc2YzhkZDg3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.NiKauk0QUgf01TNfhvWyQtJIpYPfKXmeqtbr-X_Z1fw" width=24"/><b>⋆ Focus & Targets ⋆</b></summary>
+  <summary><img src="https://private-user-images.githubusercontent.com/153387435/486514678-dfe0d835-441a-4596-a593-ab9fb10e3e5e.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwNDQwOTQsIm5iZiI6MTc4ODA0Mzc5NCwicGF0aCI6Ii8xNTMzODc0MzUvNDg2NTE0Njc4LWRmZTBkODM1LTQ0MWEtNDU5Ni1hNTkzLWFiOWZiMTBlM2U1ZS53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MjlUMjI0OTU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTYyMzMyNjIzNzAzYzBkMGFiNmVlMDVhZWZiYmMwMTg2MzQzNWU5NWFiODI4YWFiYzIwMWI3MDc2YzhkZDg3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.NiKauk0QUgf01TNfhvWyQtJIpYPfKXmeqtbr-X_Z1fw" width="24"/> <b>⋆ Focus & Targets ⋆</b></summary>
   <br />
-  <table width="100%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; background-color: #0d1117; border-radius: 6px; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+
+  <table style="width: 100%; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9d1d9; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; overflow: hidden;">
     <thead>
-      <tr style="background-color: #161b22;">
-        <th width="50%" align="left" style="padding: 12px 16px; border-bottom: 1px solid #30363d;">
-          <span style="font-size: 14px; font-weight: 600; color: #58a6ff;">Currently Learning & Focus</span>
-        </th>
-        <th width="50%" align="left" style="padding: 12px 16px; border-left: 1px solid #30363d; border-bottom: 1px solid #30363d;">
-          <span style="font-size: 14px; font-weight: 600; color: #3fb950;">Target Career & Research Paths</span>
-        </th>
+      <tr style="background-color: #161b22; border-bottom: 1px solid #30363d; text-align: left;">
+        <th style="padding: 12px 16px; width: 22%; color: #f0f6fc; font-weight: 600;">Domain</th>
+        <th style="padding: 12px 16px; width: 48%; color: #f0f6fc; font-weight: 600;">Focus Areas & Sub-fields</th>
+        <th style="padding: 12px 16px; width: 15%; color: #f0f6fc; font-weight: 600;">Status</th>
+        <th style="padding: 12px 16px; width: 15%; color: #f0f6fc; font-weight: 600;">Target Role</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
-          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75z"/></svg>
-            Mathematics & AI Safety
-          </div>
-          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-            — Machine Learning & Neural Networks<br />
-            — Calculus, Linear Algebra & Probability
-          </div>
+      <tr style="border-bottom: 1px solid #21262d;">
+        <td style="padding: 12px 16px; font-weight: 600; color: #58a6ff;">
+          Mathematics & AI Safety
         </td>
-        <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
-          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 1a7 7 0 100 14A7 7 0 008 1zM2 8a6 6 0 1112 0A6 6 0 012 8z"/><path d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-            Academic & R&D Path
-          </div>
-          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-            — Become a Computer Science Researcher<br />
-            — Conduct Academic Research on AI Security
-          </div>
+        <td style="padding: 12px 16px;">
+          • Calculus, Linear Algebra & Probability<br>
+          • Machine Learning Foundations & NN Theory<br>
+          • LLM Guardrails & Robustness Verification<br>
+          • Mechanistic Interpretability
         </td>
+        <td style="padding: 12px 16px;">
+          <span style="background: #1f6feb22; color: #58a6ff; border: 1px solid #1f6feb44; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">In Progress</span>
+        </td>
+        <td style="padding: 12px 16px; color: #8b949e;">AI Safety Researcher</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #21262d;">
+        <td style="padding: 12px 16px; font-weight: 600; color: #bc8cff;">
+          Systems & Low-Level Security
+        </td>
+        <td style="padding: 12px 16px;">
+          • Linux Kernel Internals & eBPF Telemetry<br>
+          • Reverse Engineering & Memory Safety<br>
+          • Binary Exploitation & Vulnerability Research<br>
+          • Polyhedral Optimization & Custom Compilers
+        </td>
+        <td style="padding: 12px 16px;">
+          <span style="background: #8957e522; color: #bc8cff; border: 1px solid #8957e544; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Core Focus</span>
+        </td>
+        <td style="padding: 12px 16px; color: #8b949e;">Systems & Security Engineer</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #21262d;">
+        <td style="padding: 12px 16px; font-weight: 600; color: #3fb950;">
+          Cryptography & Networks
+        </td>
+        <td style="padding: 12px 16px;">
+          • Symmetric Protocols & Zero-Knowledge Primitives<br>
+          • Post-Quantum Transit Proxies (ML-KEM)<br>
+          • Lattice-Based Cryptography Standards<br>
+          • Formal Verification of Cryptographic Code
+        </td>
+        <td style="padding: 12px 16px;">
+          <span style="background: #23863622; color: #3fb950; border: 1px solid #23863644; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Active R&D</span>
+        </td>
+        <td style="padding: 12px 16px; color: #8b949e;">Applied Cryptographer</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #21262d;">
+        <td style="padding: 12px 16px; font-weight: 600; color: #d29922;">
+          DFIR & Digital Forensics
+        </td>
+        <td style="padding: 12px 16px;">
+          • NTFS/EXT4 Artifact Carving & Memory Analysis<br>
+          • Financial Cybercrime & On-Chain Investigation<br>
+          • High-Performance Security Tooling (Rust/Go)<br>
+          • Academic Research & Special Units Collaboration
+        </td>
+        <td style="padding: 12px 16px;">
+          <span style="background: #9e6a0322; color: #d29922; border: 1px solid #9e6a0344; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Career Target</span>
+        </td>
+        <td style="padding: 12px 16px; color: #8b949e;">DFIR / Cybercrime Analyst</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #21262d;">
+        <td style="padding: 12px 16px; font-weight: 600; color: #f778ba;">
+          Cloud Native Security & DevSecOps
+        </td>
+        <td style="padding: 12px 16px;">
+          • Container Runtime Isolation & Namespace Security<br>
+          • Kubernetes Threat Modeling & Policy Enforcement<br>
+          • CI/CD Pipeline Hardening & Supply Chain Security<br>
+          • Immutable Infrastructure & Runtime Protection
+        </td>
+        <td style="padding: 12px 16px;">
+          <span style="background: #bf398922; color: #f778ba; border: 1px solid #bf398944; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Expanding</span>
+        </td>
+        <td style="padding: 12px 16px; color: #8b949e;">DevSecOps Architect</td>
       </tr>
       <tr>
-        <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
-          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8z"/></svg>
-            Cyber Forensics & Investigation
-          </div>
-          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-            — Digital Forensics & Incident Response (DFIR)<br />
-            — Financial Cybercrime & Data Analysis
-          </div>
+        <td style="padding: 12px 16px; font-weight: 600; color: #79c0ff;">
+          Hardware & Embedded Security
         </td>
-        <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
-          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M4 4a4 4 0 018 0v2h.25c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0112.25 15H3.75A1.75 1.75 0 012 13.25v-5.5C2 6.784 2.784 6 3.75 6H4V4zm1.5 2h5V4a2.5 2.5 0 00-5 0v2z"/></svg>
-            Law Enforcement & Govt Sector
-          </div>
-          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-            — Transition to Special Cybercrime Units (CyberPol)<br />
-            — Investigate Complex Financial & Cyber Threats
-          </div>
+        <td style="padding: 12px 16px;">
+          • ESP32/RISC-V Firmware Security & Secure Boot<br>
+          • Side-Channel Analysis & Fault Injection Techniques<br>
+          • Hardware Root of Trust & TPM/TEE Integrations<br>
+          • IoT Protocol Audit & Bare-Metal Exploitation
         </td>
-      </tr>
-      <tr>
-        <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d; border-bottom: 1px solid #21262d;">
-          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zm1.75-.25a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25H1.75z"/></svg>
-            Low-Level Systems Architecture
-          </div>
-          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-            — Reverse Engineering & Exploit Analysis<br />
-            — Operating System Internals & Memory Safety
-          </div>
+        <td style="padding: 12px 16px;">
+          <span style="background: #388bfd22; color: #79c0ff; border: 1px solid #388bfd44; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Exploratory</span>
         </td>
-        <td valign="top" style="padding: 14px 16px; border-bottom: 1px solid #21262d;">
-          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 010-1.5h1.75v-11h-8a1 1 0 00-1 1v11h1.75a.75.75 0 010 1.5H2.5A.75.75 0 011.75 14V3.5A1 1 0 012 2.5z"/></svg>
-            Vulnerability Research
-          </div>
-          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-            — Discover Zero-Day Vulnerabilities (CVE)<br />
-            — Systems Vulnerability Assessment
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top" style="padding: 14px 16px; border-right: 1px solid #30363d;">
-          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
-            Cryptography & Networking
-          </div>
-          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-            — Mathematical Cryptography & Encryption<br />
-            — Secure Network Protocols & Proxies
-          </div>
-        </td>
-        <td valign="top" style="padding: 14px 16px;">
-          <div style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #c9d1d9; margin-bottom: 8px;">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v5.256a2.25 2.25 0 101.5 0V5.372zM4.25 12a.75.75 0 110 1.5.75.75 0 010-1.5z"/></svg>
-            Open Source Development
-          </div>
-          <div style="color: #8b949e; font-size: 13px; line-height: 1.6; padding-left: 24px;">
-            — Build High-Performance Security Utilities<br />
-            — Contribute to Core Cryptography Ecosystems
-          </div>
-        </td>
+        <td style="padding: 12px 16px; color: #8b949e;">Embedded Security Engineer</td>
       </tr>
     </tbody>
   </table>
