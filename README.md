@@ -941,6 +941,17 @@
         <a href="https://tryhackme.com/p/ventie" target="_blank">
           <img src="https://tryhackme-badges.s3.amazonaws.com/ventie.png" alt="TryHackMe Badge" />
         </a>
+        <a href="https://app.hackthebox.com/users/2519629">
+  <img src="https://www.hackthebox.eu/badge/image/2519629" alt="Hack The Box Badge" />
+</a>
+      </p>
+      <p align="center">
+        <a href="https://cyberdefenders.org/p/ventie" target="_blank">
+        <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/ventie.png" width="300" />
+        </a>
+        <a href="https://app.letsdefend.io/user/Ventie" target="_blank">
+    <img src="https://letsdefend-badge.vercel.app/api?username=Ventie" width="300" alt="LetsDefend Profile" />
+  </a>
       </p>
       <p align="center">
         <a href="https://app.hackthebox.com/profile/itsventie" target="_blank">
