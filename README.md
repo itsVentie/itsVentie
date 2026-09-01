@@ -1021,7 +1021,9 @@
 
 ---
 
-## ⋆ Tech Stack & Toolbox ⋆
+<details open>
+<summary><b> ⋆ Primary Stack & Core Focus ⋆</b></summary>
+<br>
 
 <table>
   <thead>
@@ -1089,6 +1091,22 @@
         </a>
       </td>
     </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><b> ⋆ Extended Toolchain & Infrastructure ⋆</b></summary>
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td align="left"><b>Frameworks, Libraries & Runtime</b></td>
       <td align="left">
@@ -1173,6 +1191,7 @@
     </tr>
   </tbody>
 </table>
+</details>
 
 ---
 
