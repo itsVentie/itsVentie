@@ -51,108 +51,84 @@
 </details>
 
 <details>
-  <summary><img src="https://private-user-images.githubusercontent.com/153387435/486514678-dfe0d835-441a-4596-a593-ab9fb10e3e5e.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwNDQwOTQsIm5iZiI6MTc4ODA0Mzc5NCwicGF0aCI6Ii8xNTMzODc0MzUvNDg2NTE0Njc4LWRmZTBkODM1LTQ0MWEtNDU5Ni1hNTkzLWFiOWZiMTBlM2U1ZS53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MjlUMjI0OTU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTYyMzMyNjIzNzAzYzBkMGFiNmVlMDVhZWZiYmMwMTg2MzQzNWU5NWFiODI4YWFiYzIwMWI3MDc2YzhkZDg3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.NiKauk0QUgf01TNfhvWyQtJIpYPfKXmeqtbr-X_Z1fw" width="24"/> <b>⋆ Focus & Targets ⋆</b></summary>
+  <summary><img src="https://cdn.simpleicons.org/target/ffffff" width="20" height="20" style="vertical-align: middle;"/><b> ⋆ Focus Areas & Career Targets ⋆</b></summary>
   <br />
 
-  <table style="width: 100%; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9d1d9; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; overflow: hidden;">
+  <table width="100%">
     <thead>
-      <tr style="background-color: #161b22; border-bottom: 1px solid #30363d; text-align: left;">
-        <th style="padding: 12px 16px; width: 22%; color: #f0f6fc; font-weight: 600;">Domain</th>
-        <th style="padding: 12px 16px; width: 48%; color: #f0f6fc; font-weight: 600;">Focus Areas & Sub-fields</th>
-        <th style="padding: 12px 16px; width: 15%; color: #f0f6fc; font-weight: 600;">Status</th>
-        <th style="padding: 12px 16px; width: 15%; color: #f0f6fc; font-weight: 600;">Target Role</th>
+      <tr style="background-color: #161b22; color: #f0f6fc;">
+        <th width="22%" align="left">Domain</th>
+        <th width="48%" align="left">Focus Areas & Technologies</th>
+        <th width="15%" align="center">Status</th>
+        <th width="15%" align="left">Target Role</th>
       </tr>
     </thead>
     <tbody>
-      <tr style="border-bottom: 1px solid #21262d;">
-        <td style="padding: 12px 16px; font-weight: 600; color: #58a6ff;">
-          Mathematics & AI Safety
+      <tr>
+        <td style="color: #58a6ff; font-weight: bold;">Mathematics & AI Safety</td>
+        <td>
+          <code>Calc / LinAlg / Prob</code> <code>NN Theory</code> <code>Mechanistic Interpretability</code><br />
+          <code>LLM Guardrails & Robustness</code> <code>Adversarial Attacks</code> <code>Agent Safety</code>
         </td>
-        <td style="padding: 12px 16px;">
-          • Calculus, Linear Algebra & Probability<br>
-          • Machine Learning Foundations & NN Theory<br>
-          • LLM Guardrails & Robustness Verification<br>
-          • Mechanistic Interpretability
+        <td align="center">
+          <span style="background: #1f6feb22; color: #58a6ff; border: 1px solid #1f6feb44; border-radius: 6px; padding: 2px 6px; font-size: 11px;">In Progress</span>
         </td>
-        <td style="padding: 12px 16px;">
-          <span style="background: #1f6feb22; color: #58a6ff; border: 1px solid #1f6feb44; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">In Progress</span>
-        </td>
-        <td style="padding: 12px 16px; color: #8b949e;">AI Safety Researcher</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #21262d;">
-        <td style="padding: 12px 16px; font-weight: 600; color: #bc8cff;">
-          Systems & Low-Level Security
-        </td>
-        <td style="padding: 12px 16px;">
-          • Linux Kernel Internals & eBPF Telemetry<br>
-          • Reverse Engineering & Memory Safety<br>
-          • Binary Exploitation & Vulnerability Research<br>
-          • Polyhedral Optimization & Custom Compilers
-        </td>
-        <td style="padding: 12px 16px;">
-          <span style="background: #8957e522; color: #bc8cff; border: 1px solid #8957e544; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Core Focus</span>
-        </td>
-        <td style="padding: 12px 16px; color: #8b949e;">Systems & Security Engineer</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #21262d;">
-        <td style="padding: 12px 16px; font-weight: 600; color: #3fb950;">
-          Cryptography & Networks
-        </td>
-        <td style="padding: 12px 16px;">
-          • Symmetric Protocols & Zero-Knowledge Primitives<br>
-          • Post-Quantum Transit Proxies (ML-KEM)<br>
-          • Lattice-Based Cryptography Standards<br>
-          • Formal Verification of Cryptographic Code
-        </td>
-        <td style="padding: 12px 16px;">
-          <span style="background: #23863622; color: #3fb950; border: 1px solid #23863644; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Active R&D</span>
-        </td>
-        <td style="padding: 12px 16px; color: #8b949e;">Applied Cryptographer</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #21262d;">
-        <td style="padding: 12px 16px; font-weight: 600; color: #d29922;">
-          DFIR & Digital Forensics
-        </td>
-        <td style="padding: 12px 16px;">
-          • NTFS/EXT4 Artifact Carving & Memory Analysis<br>
-          • Financial Cybercrime & On-Chain Investigation<br>
-          • High-Performance Security Tooling (Rust/Go)<br>
-          • Academic Research & Special Units Collaboration
-        </td>
-        <td style="padding: 12px 16px;">
-          <span style="background: #9e6a0322; color: #d29922; border: 1px solid #9e6a0344; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Career Target</span>
-        </td>
-        <td style="padding: 12px 16px; color: #8b949e;">DFIR / Cybercrime Analyst</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #21262d;">
-        <td style="padding: 12px 16px; font-weight: 600; color: #f778ba;">
-          Cloud Native Security & DevSecOps
-        </td>
-        <td style="padding: 12px 16px;">
-          • Container Runtime Isolation & Namespace Security<br>
-          • Kubernetes Threat Modeling & Policy Enforcement<br>
-          • CI/CD Pipeline Hardening & Supply Chain Security<br>
-          • Immutable Infrastructure & Runtime Protection
-        </td>
-        <td style="padding: 12px 16px;">
-          <span style="background: #bf398922; color: #f778ba; border: 1px solid #bf398944; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Expanding</span>
-        </td>
-        <td style="padding: 12px 16px; color: #8b949e;">DevSecOps Architect</td>
+        <td style="color: #8b949e;">AI Safety Researcher</td>
       </tr>
       <tr>
-        <td style="padding: 12px 16px; font-weight: 600; color: #79c0ff;">
-          Hardware & Embedded Security
+        <td style="color: #bc8cff; font-weight: bold;">Systems & Low-Level Sec</td>
+        <td>
+          <code>Linux Kernel & eBPF</code> <code>Reverse Engineering</code> <code>Binary Exploitation</code><br />
+          <code>Memory Safety (Rust)</code> <code>Polyhedral Compilers</code> <code>Bare-Metal OS</code>
         </td>
-        <td style="padding: 12px 16px;">
-          • ESP32/RISC-V Firmware Security & Secure Boot<br>
-          • Side-Channel Analysis & Fault Injection Techniques<br>
-          • Hardware Root of Trust & TPM/TEE Integrations<br>
-          • IoT Protocol Audit & Bare-Metal Exploitation
+        <td align="center">
+          <span style="background: #8957e522; color: #bc8cff; border: 1px solid #8957e544; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Core Focus</span>
         </td>
-        <td style="padding: 12px 16px;">
-          <span style="background: #388bfd22; color: #79c0ff; border: 1px solid #388bfd44; border-radius: 12px; padding: 2px 8px; font-size: 11px; font-weight: 500;">Exploratory</span>
+        <td style="color: #8b949e;">Systems Engineer</td>
+      </tr>
+      <tr>
+        <td style="color: #3fb950; font-weight: bold;">Applied Cryptography</td>
+        <td>
+          <code>Post-Quantum (ML-KEM/Kyber)</code> <code>Zero-Knowledge (ZK-SNARKs)</code><br />
+          <code>Lattice-Based Standards</code> <code>E2EE / QUIC Protocols</code> <code>Formal Verification</code>
         </td>
-        <td style="padding: 12px 16px; color: #8b949e;">Embedded Security Engineer</td>
+        <td align="center">
+          <span style="background: #23863622; color: #3fb950; border: 1px solid #23863644; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Active R&D</span>
+        </td>
+        <td style="color: #8b949e;">Applied Cryptographer</td>
+      </tr>
+      <tr>
+        <td style="color: #d29922; font-weight: bold;">DFIR & Digital Forensics</td>
+        <td>
+          <code>Memory Forensics (Volatility 3)</code> <code>NTFS/EXT4 Artifact Carving</code><br />
+          <code>High-Perf Security Tooling (Rust/Go)</code> <code>Log Triage & Timelines</code>
+        </td>
+        <td align="center">
+          <span style="background: #9e6a0322; color: #d29922; border: 1px solid #9e6a0344; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Career Target</span>
+        </td>
+        <td style="color: #8b949e;">DFIR / Cybercrime Analyst</td>
+      </tr>
+      <tr>
+        <td style="color: #f778ba; font-weight: bold;">Cloud Native & DevSecOps</td>
+        <td>
+          <code>Container Runtime Security</code> <code>K8s Policy Enforcement</code><br />
+          <code>CI/CD Hardening & SCA</code> <code>eBPF Runtime Audit (Falco)</code>
+        </td>
+        <td align="center">
+          <span style="background: #bf398922; color: #f778ba; border: 1px solid #bf398944; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Expanding</span>
+        </td>
+        <td style="color: #8b949e;">DevSecOps Engineer</td>
+      </tr>
+      <tr>
+        <td style="color: #79c0ff; font-weight: bold;">Embedded & Hardware Sec</td>
+        <td>
+          <code>ESP32 / RISC-V Firmware</code> <code>Secure Boot & TEE</code><br />
+          <code>Side-Channel Analysis</code> <code>Bare-Metal Exploitation</code>
+        </td>
+        <td align="center">
+          <span style="background: #388bfd22; color: #79c0ff; border: 1px solid #388bfd44; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Exploratory</span>
+        </td>
+        <td style="color: #8b949e;">Embedded Security Engineer</td>
       </tr>
     </tbody>
   </table>
