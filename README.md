@@ -1,24 +1,28 @@
-<table border="0" width="100%">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="left" valign="middle" width="50%">
+    <td align="center" valign="middle" width="45%">
       <a href="https://ventie.dev">
-        <img src="https://i.pinimg.com/originals/0c/45/11/0c451140422f77f4fbfc7e2987bd86af.gif" alt="prana system error optimized webp loop" width="100%" />
+        <img src="https://i.pinimg.com/originals/0c/45/11/0c451140422f77f4fbfc7e2987bd86af.gif" alt="prana system error optimized webp loop" width="100%" style="border-radius: 8px;" />
       </a>
     </td>
+    <td width="5%"></td>
     <td align="left" valign="middle" width="50%">
       <a href="https://api.lanyard.rest/v1/users/939851605111631903/spotify/redirect" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/939851605111631903?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=8px" width="100%" />
-</a>
-        <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
-        <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
-        <img src="https://img.shields.io/badge/Status-Available_for_work-73daca?style=flat-square&logo=gitbook&logoColor=1a1b26" />
-        <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
-          <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
-        </a>
-<img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
+        <img src="https://lanyard.cnrad.dev/api/939851605111631903?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=8px" width="100%" />
+      </a>
+       <img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
+  <img src="https://img.shields.io/github/followers/itsventie?style=flat-square&color=bb9af7&label=Followers&logo=github" />
+  <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
+    <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
+  </a>
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
+</p>
 
 ---
 
