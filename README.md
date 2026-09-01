@@ -22,18 +22,6 @@
   </tr>
 </table>
 
-<p align="center" style="white-space: nowrap;">
-  <img src="https://img.shields.io/badge/Environment-Arch%20%7C%20Fedora%20%7C%20Qubes-1a1b26?style=flat-square&logo=archlinux&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Architecture-x86__64%20%7C%20ARM64-1a1b26?style=flat-square&logo=arm&logoColor=73daca" />
-  <img src="https://img.shields.io/badge/AI-PyO3%20%7C%20OnnxRuntime-1a1b26?style=flat-square&logo=python&logoColor=e0af68" />
-</p>
-
-<p align="center" style="white-space: nowrap;">
-  <img src="https://img.shields.io/badge/Crypt-ML--KEM--768%20%7C%20X25519-1a1b26?style=flat-square&logo=letsencrypt&logoColor=bb9af7" />
-  <img src="https://img.shields.io/badge/Kernel-eBPF%20%7C%20WinAPI-1a1b26?style=flat-square&logo=linux&logoColor=f7768e" />
-  <img src="https://img.shields.io/badge/Protocol-QUIC%20%7C%20mDNS%20%7C%20P2P-1a1b26?style=flat-square&logo=udp&logoColor=9ece6a" />
-</p>
-
 ---
 
 <details>
@@ -928,6 +916,9 @@
       <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsventie&theme=tokyonight" alt="Profile Details" width="75%" />
       </p>
+      <p align="center">
+<img src="https://github-trophies.vercel.app/?username=itsventie&theme=radical&no-frame=true&column=7" alt="GitHub Profile Trophy" />
+</p>
     </details>
   </div>
 
@@ -1289,10 +1280,6 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://github-trophies.vercel.app/?username=itsventie&theme=radical&no-frame=true&column=7" alt="GitHub Profile Trophy" />
-</p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdxMWluZWEybTRycHl2YW54cnlnaGhqempjbTE1Y3A2MHQyMmx6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO9TEHqEGzWiQ/giphy.gif" width="160" alt="meow gif" />
