@@ -16,12 +16,11 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
-  <img src="https://img.shields.io/github/followers/itsventie?style=flat-square&color=bb9af7&label=Followers&logo=github" />
+   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
     <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
   </a>
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
+  <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
 </p>
 
 ---
