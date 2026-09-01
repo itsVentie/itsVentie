@@ -11,6 +11,7 @@
         <img src="https://lanyard.cnrad.dev/api/939851605111631903?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=8px" width="100%" />
       </a>
        <img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
+      <img src="https://img.shields.io/badge/Years_of_Experience-5%2B-58a6ff?style=flat-square&logo=calendar"/>
     </td>
   </tr>
 </table>
