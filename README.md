@@ -365,93 +365,63 @@
 
 
 <details>
-  <summary><img src="https://cdn.simpleicons.org/securityscorecard/ffffff" width="24" height="24" style="vertical-align: middle;" /> <b>⋆ Security, CyberSec & DFIR Toolchain ⋆</b></summary>
+  <summary><img src="https://cdn.simpleicons.org/securityscorecard/ffffff" width="24" height="24" style="vertical-align: middle;" /> <b>⋆ CyberSecurity Toolchain ⋆</b></summary>
   <br />
 
   <table width="100%">
     <tr>
-      <td colspan="2" style="background-color: #161b22; color: #bc8cff; padding: 8px; font-weight: bold; border-bottom: 1px solid #30363d;">
-        Purple Teaming & Adversary Operations
+      <td colspan="2" style="background-color: #161b22; color: #f28020; padding: 8px; font-weight: bold; border-bottom: 1px solid #30363d;">
+        Active Directory, Identity & Infrastructure Forensics
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Adversary Emulation & Red Team</b></td>
+      <td width="30%"><b>AD Auditing, Hardening & Forensics</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/metasploit/ffffff" width="32" height="32" alt="Metasploit" /></td></tr>
-            <tr><td align="center"><sub>Metasploit</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/microsoft/ffffff" width="32" height="32" alt="PingCastle" /></td></tr>
+            <tr><td align="center"><sub>PingCastle</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/burpsuite" width="32" height="32" alt="Burp Suite" /></td></tr>
-            <tr><td align="center"><sub>Burp Suite</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/microsoftazure" width="32" height="32" alt="Purple Knight" /></td></tr>
+            <tr><td align="center"><sub>PurpleKnight</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/neo4j" width="32" height="32" alt="BloodHound" /></td></tr>
-            <tr><td align="center"><sub>BloodHound</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/powershell" width="32" height="32" alt="ADTimeline" /></td></tr>
+            <tr><td align="center"><sub>ADTimeline</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/mitre" width="32" height="32" alt="CALDERA" /></td></tr>
-            <tr><td align="center"><sub>CALDERA</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/windows11" width="32" height="32" alt="Mimikatz" /></td></tr>
-            <tr><td align="center"><sub>Mimikatz</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/nmap" width="32" height="32" alt="Nmap" /></td></tr>
-            <tr><td align="center"><sub>Nmap</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/microsoft" width="32" height="32" alt="Trimarc ORAD" /></td></tr>
+            <tr><td align="center"><sub>ORAD</sub></td></tr>
           </table>
         </a>
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Blue Team, NIDS/NIPS & Detection</b></td>
+      <td width="30%"><b>Kerberos & NTDS Database Analysis</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/suricata" width="32" height="32" alt="Suricata" /></td></tr>
-            <tr><td align="center"><sub>Suricata</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/python" width="32" height="32" alt="NTDSXtract" /></td></tr>
+            <tr><td align="center"><sub>NTDSXtract</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/snort" width="32" height="32" alt="Snort" /></td></tr>
-            <tr><td align="center"><sub>Snort</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/sqlite" width="32" height="32" alt="ESEDBExport" /></td></tr>
+            <tr><td align="center"><sub>esedbtools</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/zeek" width="32" height="32" alt="Zeek" /></td></tr>
-            <tr><td align="center"><sub>Zeek</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/wazuh" width="32" height="32" alt="Wazuh" /></td></tr>
-            <tr><td align="center"><sub>Wazuh</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/yara" width="32" height="32" alt="YARA" /></td></tr>
-            <tr><td align="center"><sub>YARA</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/sigma" width="32" height="32" alt="Sigma" /></td></tr>
-            <tr><td align="center"><sub>Sigma</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/powershell" width="32" height="32" alt="DSInternals" /></td></tr>
+            <tr><td align="center"><sub>DSInternals</sub></td></tr>
           </table>
         </a>
       </td>
@@ -497,7 +467,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Memory Forensics & Triage</b></td>
+      <td width="30%"><b>Memory Forensics & Acquisition</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -526,7 +496,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Network Forensics & Packet Capture</b></td>
+      <td width="30%"><b>Network Forensics & Packet Analysis</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -555,7 +525,35 @@
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Timeline & Log Processing</b></td>
+      <td width="30%"><b>Email, Cloud & O365 Incident Response</b></td>
+      <td>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/powershell" width="32" height="32" alt="HAWK" /></td></tr>
+            <tr><td align="center"><sub>HAWK</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/microsoft/ffffff" width="32" height="32" alt="CrowdStrike CRT" /></td></tr>
+            <tr><td align="center"><sub>CRT</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/python" width="32" height="32" alt="MailSniper (Defender view)" /></td></tr>
+            <tr><td align="center"><sub>MsgExtractor</sub></td></tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="background-color: #161b22; color: #bc8cff; padding: 8px; font-weight: bold; border-bottom: 1px solid #30363d;">
+        SIEM, Log Management & Threat Intelligence
+      </td>
+    </tr>
+    <tr>
+      <td width="30%"><b>Log Processing & Super-Timelines</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -575,11 +573,40 @@
             <tr><td align="center"><sub>ELK Stack</sub></td></tr>
           </table>
         </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/splunk" width="32" height="32" alt="Splunk Free / DB" /></td></tr>
+            <tr><td align="center"><sub>Splunk</sub></td></tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%"><b>Threat Intelligence & CTI Platforms</b></td>
+      <td>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/misp" width="32" height="32" alt="MISP" /></td></tr>
+            <tr><td align="center"><sub>MISP</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/virustotal" width="32" height="32" alt="OpenCTI" /></td></tr>
+            <tr><td align="center"><sub>OpenCTI</sub></td></tr>
+          </table>
+        </a>
+        <a href="#" style="text-decoration:none">
+          <table display="inline" align="left">
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/virustotal" width="32" height="32" alt="VirusTotal API" /></td></tr>
+            <tr><td align="center"><sub>VirusTotal</sub></td></tr>
+          </table>
+        </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" style="background-color: #161b22; color: #3fb950; padding: 8px; font-weight: bold; border-bottom: 1px solid #30363d;">
-        Reverse Engineering & Vulnerability Research
+        Reverse Engineering & Malware Analysis
       </td>
     </tr>
     <tr>
@@ -605,14 +632,14 @@
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/radare2" width="32" height="32" alt="Radare2 / Cutter" /></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/radare2" width="32" height="32" alt="Radare2" /></td></tr>
             <tr><td align="center"><sub>Radare2</sub></td></tr>
           </table>
         </a>
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Dynamic Analysis & Instrumentation</b></td>
+      <td width="30%"><b>Dynamic Analysis, Debugging & Hooking</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -641,31 +668,31 @@
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Fuzzing & Vulnerability Scanning</b></td>
+      <td width="30%"><b>Sandboxing & Automated Analysis</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/americanfuzzylop" width="32" height="32" alt="AFL++" /></td></tr>
-            <tr><td align="center"><sub>AFL++</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/cuckoo" width="32" height="32" alt="Cuckoo Sandbox" /></td></tr>
+            <tr><td align="center"><sub>Cuckoo</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/llvm" width="32" height="32" alt="libFuzzer" /></td></tr>
-            <tr><td align="center"><sub>libFuzzer</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/python" width="32" height="32" alt="CAPE Sandbox" /></td></tr>
+            <tr><td align="center"><sub>CAPE</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/nuclei" width="32" height="32" alt="Nuclei" /></td></tr>
-            <tr><td align="center"><sub>Nuclei</sub></td></tr>
+            <tr><td align="center"><img src="https://cdn.simpleicons.org/remnux" width="32" height="32" alt="REMnux Toolkit" /></td></tr>
+            <tr><td align="center"><sub>REMnux</sub></td></tr>
           </table>
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" style="background-color: #161b22; color: #d29922; padding: 8px; font-weight: bold; border-bottom: 1px solid #30363d;">
-        DevSecOps, SAST/DAST & Cloud Security
+        DevSecOps, SAST/SCA & Cloud Hardening
       </td>
     </tr>
     <tr>
@@ -698,7 +725,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Infrastructure as Code (IaC) & Cloud Sec</b></td>
+      <td width="30%"><b>Infrastructure as Code & Cloud Compliance</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
@@ -721,7 +748,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%"><b>Container & Runtime Security</b></td>
+      <td width="30%"><b>Container & Runtime Monitoring</b></td>
       <td>
         <a href="#" style="text-decoration:none">
           <table display="inline" align="left">
