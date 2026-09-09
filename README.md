@@ -17,7 +17,7 @@
 </table>
 
 <p align="center">
-   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23cba6f7" alt="Visitors Counter" />
+   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23f5c2e7" alt="Visitors Counter" />
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
     <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
   </a>
