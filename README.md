@@ -7,8 +7,8 @@
     </td>
     <td width="5%"></td>
     <td align="left" valign="middle" width="50%">
-      <a href="https://www.last.fm/user/ventieravelle" target="_blank">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=ventieravelle&theme=dark&width=480" alt="Last.fm Now Playing" />
+     <a href="https://www.last.fm/user/ventieravelle" target="_blank">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=ventieravelle&theme=dark&width=480&count=4" alt="Last.fm Now Playing" />
 </a>
     </td>
   </tr>
