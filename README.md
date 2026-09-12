@@ -10,8 +10,6 @@
       <a href="https://www.last.fm/user/ventieravelle" target="_blank">
   <img src="https://lastfm-recently-played.vercel.app/api?user=ventieravelle&theme=dark&width=400" alt="Last.fm Now Playing" />
 </a>
-       <img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
-      <img src="https://img.shields.io/badge/Years_of_Experience-5%2B-58a6ff?style=flat-square&logo=calendar"/>
     </td>
   </tr>
 </table>
@@ -21,6 +19,8 @@
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
     <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
   </a>
+       <img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
+      <img src="https://img.shields.io/badge/Years_of_Experience-5%2B-58a6ff?style=flat-square&logo=calendar"/>
   <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
 </p>
 
