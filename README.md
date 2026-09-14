@@ -15,13 +15,20 @@
 </table>
 
 <p align="center">
+   <img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
+</p>
+
+<p align="center">
    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23f5c2e7" alt="Visitors Counter" />
   <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
     <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
   </a>
-       <img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
       <img src="https://img.shields.io/badge/Years_of_Experience-5%2B-58a6ff?style=flat-square&logo=calendar"/>
-  <img src="https://img.shields.io/github/stars/itsventie?style=flat-square&color=bb9af7&label=Stars&logo=github" />
+</p>
+<p align="center">  
+  <img src="https://img.shields.io/github/followers/itsventie?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/itsventie?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>    
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/itsventie&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white" alt="Public Repos"/>
 </p>
 
 ---
