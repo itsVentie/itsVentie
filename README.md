@@ -904,10 +904,6 @@
 
 ---
 
-<details open>
-<summary><b> ⋆ Primary Stack & Core Focus ⋆</b></summary>
-<br>
-
 <table>
   <thead>
     <tr>
@@ -947,7 +943,6 @@
     </tr>
   </tbody>
 </table>
-</details>
 
 <details>
 <summary><b> ⋆ Extended Toolchain & Infrastructure ⋆</b></summary>
