@@ -1117,5 +1117,3 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdxMWluZWEybTRycHl2YW54cnlnaGhqempjbTE1Y3A2MHQyMmx6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO9TEHqEGzWiQ/giphy.gif" width="160" alt="meow gif" />
 </p>
-
-<p align="center">⋆˚࿔ meow ࿔˚⋆</p>
