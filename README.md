@@ -63,31 +63,51 @@
 
 ---
 
-  <details style="margin-bottom: 12px;">
-    <summary style="cursor: pointer; color: #bc8cff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;"><b>
-      02. Personality Profiles</b>
-    </summary>
-    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px;">
-      <tbody>
-        <tr>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; width: 40%; color: #8b949e; font-weight: bold;">MBTI</td>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">INFJ-T (Advocate)</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">Enneagram</td>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">4w5 (The Individualist / The Bohemian)</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">Socionics</td>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">EII (Dostoevsky)</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px 14px; color: #8b949e; font-weight: bold;">Attitudinal Psyche</td>
-          <td style="padding: 8px 14px; color: #c9d1d9;">ELVF (Andersen)</td>
-        </tr>
-      </tbody>
-    </table>
-  </details>
+<details style="margin-bottom: 12px;">
+  <summary style="cursor: pointer; color: #bc8cff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
+    <b>02. Personality Profiles</b>
+  </summary>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 8px; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; margin-top: 8px;">
+    <tbody>
+      <tr>
+        <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
+          <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>MBTI</b></div>
+          <div style="margin-bottom: 8px;">
+            <span style="background-color: #332354; color: #d2a8ff; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #6e40c9;">INFJ-T</span>
+            <strong style="margin-left: 4px;">Advocate</strong>
+          </div>
+          <img src="https://modernhadassah.com/wp-content/uploads/2018/10/img_1349.jpg?w=640" alt="INFJ Advocate" style="width: 100%; height: 110px; object-fit: contain; border-radius: 6px; border: 1px solid #30363d; display: block;" />
+        </td>
+        <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
+          <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Enneagram</b></div>
+          <div style="margin-bottom: 8px;">
+            <span style="background-color: #1f3543; color: #79c0ff; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #1f6beb;">4w5</span>
+            <strong style="margin-left: 4px;">The Individualist</strong>
+          </div>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQariveQqw6zfYGS92D3mm4E7BuMoZPZ0pyrDle0Oc9Mg&s=10" alt="Enneagram 4w5" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
+          <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Socionics</b></div>
+          <div style="margin-bottom: 8px;">
+            <span style="background-color: #1a3a2a; color: #56d364; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #238636;">EII</span>
+            <strong style="margin-left: 4px;">Dostoevsky</strong>
+          </div>
+          <img src="https://hitostat.com/assets/diagnoses/socionics/types/en/eii/horizontal-d80af4ea5342e009a17aa22cb942249e8ff15b3c89e352b4e31e9b5269e00fee.png" alt="Socionics EII" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
+        </td>
+        <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
+          <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Attitudinal Psyche</b></div>
+          <div style="margin-bottom: 8px;">
+            <span style="background-color: #3d2c1d; color: #e3b341; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #9e6a03;">ELVF</span>
+            <strong style="margin-left: 4px;">Andersen</strong>
+          </div>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENtwze_VnJT_kaUeRnpIOCH9SsH2LtAZaVLHymvxzhw6RW4-6V-OVOvk&s=10" alt="Attitudinal Psyche ELVF" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 ---
 
