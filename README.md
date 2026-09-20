@@ -33,27 +33,117 @@
 <details>
   <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b>⋆ About Me ⋆</b></summary>
   <br />
-  <div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; line-height: 1.6; color: #c9d1d9; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
-    <div><span style="color: #58a6ff;">╭─</span> <b>[ IDENTITY ]</b></div>
-    <div><span style="color: #58a6ff;">│</span> ˗ˏˋ <b>Headline:</b> Security Systems & AI/ML Engineer // Future Computer Scientist</div>
-    <div><span style="color: #58a6ff;">│</span> ˗ˏˋ <b>Age:</b> 18+</div>
-    <div><span style="color: #58a6ff;">│</span> ˗ˏˋ <b>Gender:</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary</div>
-    <div><span style="color: #58a6ff;">├─────────────────────────────────────────────────────────────</span></div>
-    <div><span style="color: #bc8cff;">│</span> <b>[ PERSONALITY PROFILES ]</b></div>
-    <div><span style="color: #bc8cff;">│</span>  ├─ <b>MBTI:</b> INFJ-T (Advocate)</div>
-    <div><span style="color: #bc8cff;">│</span>  ├─ <b>Enneagram:</b> 4w5 (The Individualist / The Bohemian)</div>
-    <div><span style="color: #bc8cff;">│</span>  ├─ <b>Socionics:</b> EII (Dostoevsky)</div>
-    <div><span style="color: #bc8cff;">│</span>  └─ <b>Attitudinal Psyche:</b> ELVF (Andersen)</div>
-    <div><span style="color: #bc8cff;">├─────────────────────────────────────────────────────────────</span></div>
-    <div><span style="color: #3fb950;">│</span> <b>[ INTERESTS ]</b></div>
-    <div><span style="color: #3fb950;">│</span>  ├─ <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> <b>Chess:</b> 2400-2500 Elo</div>
-    <div><span style="color: #3fb950;">│</span>  ├─ <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> <b>Shogi:</b> 5 Kyu</div>
-    <div><span style="color: #3fb950;">│</span>  ├─ <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> <b>Media:</b> Anime & Manga/Manhwa</div>
-    <div><span style="color: #3fb950;">│</span>  └─ <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> <b>Gaming:</b> Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)</div>
-    <div><span style="color: #3fb950;">├─────────────────────────────────────────────────────────────</span></div>
-    <div><span style="color: #d29922;">│</span> <b>[ LANGUAGES ]</b></div>
-    <div><span style="color: #d29922;">╰─</span> <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English • <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian • <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German • <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French • <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish</div>
-  </div>
+
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 12px;">
+    <thead>
+      <tr style="background-color: #161b22; text-align: left;">
+        <th colspan="2" style="padding: 10px 14px; border-bottom: 1px solid #30363d; color: #58a6ff; font-weight: bold;"><b>
+          01. Identity</b>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 30%; color: #8b949e; font-weight: bold;">Headline</td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">Security Systems & AI/ML Engineer // Future Computer Scientist</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">Age</td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">18+</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">Gender</td>
+        <td style="padding: 10px 14px; color: #c9d1d9;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+---
+
+  <details style="margin-bottom: 12px;">
+    <summary style="cursor: pointer; color: #bc8cff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;"><b>
+      02. Personality Profiles</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px;">
+      <tbody>
+        <tr>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; width: 40%; color: #8b949e; font-weight: bold;">MBTI</td>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">INFJ-T (Advocate)</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">Enneagram</td>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">4w5 (The Individualist / The Bohemian)</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">Socionics</td>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">EII (Dostoevsky)</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 14px; color: #8b949e; font-weight: bold;">Attitudinal Psyche</td>
+          <td style="padding: 8px 14px; color: #c9d1d9;">ELVF (Andersen)</td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
+---
+
+  <details style="margin-bottom: 12px;">
+    <summary style="cursor: pointer; color: #3fb950; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
+      <b> 03. Interests & Gaming</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px;">
+      <tbody>
+        <tr>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; width: 30%; color: #8b949e; font-weight: bold;">
+            <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> Chess
+          </td>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">2400-2500 Elo</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
+            <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> Shogi
+          </td>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">5 Kyu</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
+            <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> Media
+          </td>
+          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">Anime & Manga/Manhwa</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 14px; color: #8b949e; font-weight: bold;">
+            <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> Gaming
+          </td>
+          <td style="padding: 8px 14px; color: #c9d1d9;">Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)</td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
+---
+
+  <details>
+    <summary style="cursor: pointer; color: #d29922; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
+      <b>04. Languages</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px;">
+      <tbody>
+        <tr>
+          <td style="padding: 12px 14px; text-align: center; line-height: 1.8;">
+            <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English &nbsp;•&nbsp;
+            <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian &nbsp;•&nbsp;
+            <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German &nbsp;•&nbsp;
+            <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French &nbsp;•&nbsp;
+            <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
 </details>
 
 <details>
@@ -1039,12 +1129,6 @@
           <table display="inline" align="left">
             <tr><td align="center"><img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" /></td></tr>
             <tr><td align="center"><sub>PostgreSQL</sub></td></tr>
-          </table>
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/mysql" width="36" height="36" alt="MySQL" /></td></tr>
-            <tr><td align="center"><sub>MySQL</sub></td></tr>
           </table>
         </a>
         <a href="#" style="text-decoration:none">
