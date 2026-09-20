@@ -1191,8 +1191,6 @@
 
 ---
 
-## ⋆ Connect & Socials ⋆
-
 <p align="center">
   <a href="https://ventie.dev" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="22" height="22" alt="Website" /></a>
   &nbsp;•&nbsp;
