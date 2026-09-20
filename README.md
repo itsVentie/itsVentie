@@ -34,12 +34,12 @@
   <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b>⋆ About Me ⋆</b></summary>
   <br />
 
+<details open>
+  <summary><b>
+          01. Identity</b></summary>
   <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 12px;">
     <thead>
       <tr style="background-color: #161b22; text-align: left;">
-        <th colspan="2" style="padding: 10px 14px; border-bottom: 1px solid #30363d; color: #58a6ff; font-weight: bold;"><b>
-          01. Identity</b>
-        </th>
       </tr>
     </thead>
     <tbody>
@@ -59,6 +59,7 @@
       </tr>
     </tbody>
   </table>
+</details>
 
 ---
 
