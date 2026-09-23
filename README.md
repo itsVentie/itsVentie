@@ -151,84 +151,140 @@
     </details>
   </div>
   <div style="flex: 1; min-width: 320px;">
-    <details>
-      <summary><img src="https://cdn.simpleicons.org/target/ffffff" width="20" height="20" style="vertical-align: middle;"/><b> Focus & Career</b></summary>
-      <br />
-      <table style="width: 100%; border-collapse: collapse; font-size: 12px; table-layout: fixed; word-wrap: break-word;">
-        <thead>
-          <tr style="background-color: #161b22; color: #f0f6fc;">
-            <th width="25%" align="left" style="padding: 6px;">Domain</th>
-            <th width="45%" align="left" style="padding: 6px;">Focus Areas</th>
-            <th width="15%" align="center" style="padding: 6px;">Status</th>
-            <th width="15%" align="left" style="padding: 6px;">Role</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="color: #58a6ff; font-weight: bold; padding: 6px;">Mathematics & AI Safety</td>
-            <td style="padding: 6px;">
-              <code>Calc/LinAlg</code> <code>NN Theory</code> <code>MechInterp</code> <code>LLM Guardrails</code>
-            </td>
-            <td align="center" style="padding: 6px;">
-              <span style="background: #1f6feb22; color: #58a6ff; border: 1px solid #1f6feb44; border-radius: 6px; padding: 2px 4px; font-size: 10px;">In Progress</span>
-            </td>
-            <td style="color: #8b949e; padding: 6px;">AI Safety Researcher</td>
-          </tr>
-          <tr>
-            <td style="color: #bc8cff; font-weight: bold; padding: 6px;">Systems & Low-Level Sec</td>
-            <td style="padding: 6px;">
-              <code>Linux/eBPF</code> <code>RevEng</code> <code>BinExp</code> <code>Rust Safety</code>
-            </td>
-            <td align="center" style="padding: 6px;">
-              <span style="background: #8957e522; color: #bc8cff; border: 1px solid #8957e544; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Core Focus</span>
-            </td>
-            <td style="color: #8b949e; padding: 6px;">Systems Engineer</td>
-          </tr>
-          <tr>
-            <td style="color: #3fb950; font-weight: bold; padding: 6px;">Applied Cryptography</td>
-            <td style="padding: 6px;">
-              <code>PQC (ML-KEM)</code> <code>ZKP (SNARKs)</code> <code>E2EE / QUIC</code>
-            </td>
-            <td align="center" style="padding: 6px;">
-              <span style="background: #23863622; color: #3fb950; border: 1px solid #23863644; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Active R&D</span>
-            </td>
-            <td style="color: #8b949e; padding: 6px;">Applied Cryptographer</td>
-          </tr>
-          <tr>
-            <td style="color: #d29922; font-weight: bold; padding: 6px;">DFIR & Digital Forensics</td>
-            <td style="padding: 6px;">
-              <code>Volatility 3</code> <code>NTFS/EXT4</code> <code>Rust/Go Tools</code>
-            </td>
-            <td align="center" style="padding: 6px;">
-              <span style="background: #9e6a0322; color: #d29922; border: 1px solid #9e6a0344; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Target</span>
-            </td>
-            <td style="color: #8b949e; padding: 6px;">DFIR Analyst</td>
-          </tr>
-          <tr>
-            <td style="color: #f778ba; font-weight: bold; padding: 6px;">Cloud Native & DevSecOps</td>
-            <td style="padding: 6px;">
-              <code>Container Sec</code> <code>K8s Policies</code> <code>Falco eBPF</code>
-            </td>
-            <td align="center" style="padding: 6px;">
-              <span style="background: #bf398922; color: #f778ba; border: 1px solid #bf398944; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Expanding</span>
-            </td>
-            <td style="color: #8b949e; padding: 6px;">DevSecOps Engineer</td>
-          </tr>
-          <tr>
-            <td style="color: #79c0ff; font-weight: bold; padding: 6px;">Embedded & Hardware Sec</td>
-            <td style="padding: 6px;">
-              <code>ESP32 / RISC-V</code> <code>Secure Boot</code> <code>Side-Channel</code>
-            </td>
-            <td align="center" style="padding: 6px;">
-              <span style="background: #388bfd22; color: #79c0ff; border: 1px solid #388bfd44; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Exploratory</span>
-            </td>
-            <td style="color: #8b949e; padding: 6px;">Embedded Sec Engineer</td>
-          </tr>
-        </tbody>
-      </table>
-    </details>
-  </div>
-</div>
+
+<details>
+  <summary><img src="https://cdn.simpleicons.org/target/ffffff" width="18" height="18" style="vertical-align: middle; margin-right: 6px;"/> <b>Life Goals</b></summary>
+  <br />
+
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; table-layout: fixed;">
+    <thead>
+      <tr style="background-color: #161b22; color: #8b949e; text-transform: uppercase; font-size: 10px; letter-spacing: 0.5px; border-bottom: 1px solid #30363d;">
+        <th width="30%" align="left" style="padding: 10px 12px; border-bottom: 1px solid #30363d;">Life Milestone / Track</th>
+        <th width="54%" align="left" style="padding: 10px 12px; border-bottom: 1px solid #30363d;">Key Objectives & Milestones</th>
+        <th width="16%" align="center" style="padding: 10px 12px; border-bottom: 1px solid #30363d;">Priority</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #bc8cff; font-weight: 700; font-size: 13px;">Academic & Institutional</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Education & Public Service</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Gain admission to a top-tier CS / Cybersecurity university program<br />
+          ☐ Join state cyber defense / Cyberpol digital investigation units<br />
+          ☐ Obtain foundational industry certifications (OSCP / CISSP)
+        </td>
+        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <span style="background: rgba(137, 87, 229, 0.15); color: #d2a8ff; border: 1px solid rgba(137, 87, 229, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGHEST</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #3fb950; font-weight: 700; font-size: 13px;">Offensive Research & Security</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Vulnerability Discovery</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Discover and publish first official CVE identifier<br />
+          ☑ Receive first Bug Bounty payout on a major platform<br />
+          ☐ Reverse-engineer target binaries & write custom zero-day exploits<br />
+          ☑ Author and publish an original security research whitepaper
+        </td>
+        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <span style="background: rgba(35, 134, 54, 0.15); color: #56d364; border: 1px solid rgba(35, 134, 54, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGHEST</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #58a6ff; font-weight: 700; font-size: 13px;">Systems Engineering & Math</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Technical Foundation</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Master Linux kernel mechanics & memory page tables<br />
+          ☐ Build custom high-performance eBPF tracing tools<br />
+          ☐ Develop a production-grade system application in Rust<br />
+          ☐ Implement Post-Quantum Cryptography & ZKP algorithms from scratch
+        </td>
+        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <span style="background: rgba(31, 111, 235, 0.15); color: #79c0ff; border: 1px solid rgba(31, 111, 235, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGH</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #79c0ff; font-weight: 700; font-size: 13px;">AI / ML Engineering</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Models & Research</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Train an LLM / neural network from scratch in C++ / PyTorch<br />
+          ☐ Master Mechanistic Interpretability & circuit analysis<br />
+          ☐ Develop custom CUDA / Triton kernels for fast inference<br />
+          ☐ Build autonomous AI agents with execution guardrails
+        </td>
+        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <span style="background: rgba(31, 111, 235, 0.15); color: #79c0ff; border: 1px solid rgba(31, 111, 235, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGH</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #238636; font-weight: 700; font-size: 13px;">Web3 & Decentralized Systems</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Smart Contracts & Security</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Audit smart contracts & discover critical protocol vulnerabilities<br />
+          ☐ Implement custom EVM / Solana smart contracts<br />
+          ☐ Master ZK-Rollups, SNARKs & Layer-2 scaling architecture<br />
+          ☐ Build a decentralized dApp / protocol from scratch
+        </td>
+        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <span style="background: rgba(35, 134, 54, 0.15); color: #56d364; border: 1px solid rgba(35, 134, 54, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGH</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #d29922; font-weight: 700; font-size: 13px;">Financial Autonomy</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Trading & Independence</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Earn first paycheck through engineering / security work<br />
+          ☐ Start active algorithmic / quantitative trading<br />
+          ☐ Build a profitable automated trading system / bot<br />
+          ☑ Achieve full personal financial independence
+        </td>
+        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <span style="background: rgba(158, 106, 3, 0.15); color: #e3b341; border: 1px solid rgba(158, 106, 3, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGH</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #f778ba; font-weight: 700; font-size: 13px;">Competitive Gaming & Strategy</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Mindset & Mastery</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Reach Level 10 on FACEIT (CS2)<br />
+          ☐ Achieve 2500+ ELO rating in Chess (Chess.com / Lichess)<br />
+          ☐ Win or place in top teams at major competitive CTF events
+        </td>
+        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <span style="background: rgba(191, 57, 137, 0.15); color: #f778ba; border: 1px solid rgba(191, 57, 137, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">MEDIUM</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; vertical-align: top;">
+          <div style="color: #a5d6ff; font-weight: 700; font-size: 13px;">Personal Mastery</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Life Balance & Hardware</div>
+        </td>
+        <td style="padding: 12px; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Build a high-performance custom workstation setup<br />
+          ☐ Build an open-source tool with 1,000+ GitHub stars<br />
+          ☐ Maintain peak physical health & disciplined daily routine
+        </td>
+        <td align="center" style="padding: 12px; vertical-align: top;">
+          <span style="background: rgba(56, 139, 253, 0.15); color: #79c0ff; border: 1px solid rgba(56, 139, 253, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">MEDIUM</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <details>
   <summary><img src="https://cdn.simpleicons.org/gitbook/ffffff" width="20" height="20" style="vertical-align: middle;"/> <b> Research Roadmap</b></summary>
