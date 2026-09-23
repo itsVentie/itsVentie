@@ -25,28 +25,47 @@
     <details>
       <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b> About Me</b></summary>
       <br />
-      <details open>
-        <summary><b>01. Identity</b></summary>
-        <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 12px; table-layout: fixed;">
-          <tbody>
-            <tr>
-              <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 30%; color: #8b949e; font-weight: bold;">Headline</td>
-              <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">Security Systems & AI/ML Engineer // Future Computer Scientist</td>
-            </tr>
-            <tr>
-              <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">Age</td>
-              <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">18+</td>
-            </tr>
-            <tr>
-              <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">Gender</td>
-              <td style="padding: 10px 14px; color: #c9d1d9;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </details>
-      <hr />
+   <details open style="margin-bottom: 12px;">
+  <summary style="cursor: pointer; color: #58a6ff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0; outline: none;">
+    <b>01. Identity</b>
+  </summary>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+    <tbody>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 35%; color: #8b949e; font-weight: bold;">
+          <img src="https://cdn.simpleicons.org/target/8b949e" height="14" style="vertical-align: middle; margin-right: 6px;" /> Headline
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #58a6ff; font-weight: bold;">
+          Security Systems Engineer <span style="color: #8b949e; font-weight: normal;">// Future Computer Scientist</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
+          Age
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+          18+
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
+         Gender / Pronouns
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle; border-radius: 2px; margin-right: 4px;" /> Non-binary <span style="color: #8b949e; font-size: 11px;">(He/Him/She/Her)</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">
+          Timezone
+        </td>
+        <td style="padding: 10px 14px; color: #bc8cff;">
+          UTC+2
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
       <details style="margin-bottom: 12px;">
         <summary style="cursor: pointer; color: #bc8cff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
           <b>02. Personality Profiles</b>
@@ -92,59 +111,160 @@
           </tbody>
         </table>
       </details>
-      <hr />
+<details style="margin-bottom: 12px;">
+  <summary style="cursor: pointer; color: #3fb950; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0; outline: none;">
+    <b>03. Interests & Gaming</b>
+  </summary>
+  <div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; margin: 12px 0 6px 2px; font-weight: bold;">
+    <img src="https://media.giphy.com/media/l41K3o5TzMantyQFq/giphy.gif" height="18" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> Mind & Board Games
+  </div>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 12px;">
+    <tbody>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 40%; color: #c9d1d9; font-weight: bold;">
+          <img src="https://cdn.simpleicons.org/chessdotcom/3fb950" height="15" style="vertical-align: middle; margin-right: 6px;" /> Chess
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #58a6ff; font-weight: bold;">
+          2400–2500 Elo 
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; color: #c9d1d9; font-weight: bold;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJ61lMSSHDjnfHrQ6PpP_bO2v4Wwrd7ZEhVKcY2CQ1A&s=10" height="15" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> Shogi
+        </td>
+        <td style="padding: 10px 14px; color: #bc8cff; font-weight: bold;">
+          5 Kyu
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; margin: 12px 0 6px 2px; font-weight: bold;">
+    <img src="https://media1.giphy.com/media/piBzjS5DoTcyr2AMRa/giphy.webp" height="20" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> Competitive Esports
+  </div>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 12px;">
+    <tbody>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 40%; color: #c9d1d9; font-weight: bold;">
+          <img src="https://cdn.simpleicons.org/counterstrike/ff7b72" height="20" style="vertical-align: middle; margin-right: 6px;" /> CS2
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #ff7b72; font-weight: bold;">
+          0
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; color: #c9d1d9; font-weight: bold;">
+          <img src="https://cdn.simpleicons.org/leagueoflegends/d29922" height="20" style="vertical-align: middle; margin-right: 6px;" /> League of Legends
+        </td>
+        <td style="padding: 10px 14px; color: #d29922; font-weight: bold;">
+          Diamond <span style="color: #8b949e; font-size: 10px; font-weight: normal;">(Ranked Solo/Duo)</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; margin: 12px 0 6px 2px; font-weight: bold;">
+    <img src="https://media.tenor.com/wgl1nHR-XDoAAAA1/sparkle-hsr-sparkle.webp" height="20" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> Gacha & Action RPGs
+  </div>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 12px;">
+    <tbody>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 40%; color: #c9d1d9; font-weight: bold;">
+          <img src="https://static.wikia.nocookie.net/logopedia/images/3/3a/Genshin_Impact_Icon_Version_1.0.png/revision/latest/scale-to-width-down/250?cb=20250902081559" height="20" style="vertical-align: middle; margin-right: 6px;" /> Genshin Impact
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+          AR 60 <span style="color: #3fb950; font-weight: bold; font-size: 11px;">[Endgame / 36★ Abyss]</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-weight: bold;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUu3mOvySleViZceymyIDF5FINMbp_-mjiSBAzKWwqGSsiRzWwRFhrnQVO&s=10" height="20" style="vertical-align: middle; margin-right: 6px;" /> Honkai: Star Rail
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+          TL 59 <span style="color: #f778ba; font-weight: bold; font-size: 11px;">[Full MoC / PF Clear]</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; color: #c9d1d9; font-weight: bold;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWSb2EcTcQh23xgWvAyZ1gxEtn0U5mXq73MnjLzYlxg&s=10" height="20" style="vertical-align: middle; margin-right: 6px;" /> Wuthering Waves
+        </td>
+        <td style="padding: 10px 14px; color: #c9d1d9;">
+          UL 68
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; margin: 12px 0 6px 2px; font-weight: bold;">
+    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" height="18" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> Media & Hobbies
+  </div>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden;">
+    <tbody>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 40%; color: #c9d1d9; font-weight: bold;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYIUCEEO8r2bbdewurRZ0GFGfhkepoT_aUlVh0jQy6-g&s=10" height="20" style="vertical-align: middle; margin-right: 6px;" /> Anime 
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+          300+ watched
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; color: #c9d1d9; font-weight: bold;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjcF0kLAEWugfN3NPdRSEx07L7i-5cyHsgdTWZTYaYiw&s=10" height="16" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> Manga & Novels
+        </td>
+        <td style="padding: 10px 14px; color: #c9d1d9;">
+          400+ manga/manhwa, 10+ Novels
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
       <details style="margin-bottom: 12px;">
-        <summary style="cursor: pointer; color: #3fb950; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
-          <b>03. Interests & Gaming</b>
-        </summary>
-        <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
-          <tbody>
-            <tr>
-              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; width: 35%; color: #8b949e; font-weight: bold;">
-                <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> Chess
-              </td>
-              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">2400-2500 Elo</td>
-            </tr>
-            <tr>
-              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
-                <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> Shogi
-              </td>
-              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">5 Kyu</td>
-            </tr>
-            <tr>
-              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
-                <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> Media
-              </td>
-              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">Anime & Manga/Manhwa</td>
-            </tr>
-            <tr>
-              <td style="padding: 8px 14px; color: #8b949e; font-weight: bold;">
-                <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> Gaming
-              </td>
-              <td style="padding: 8px 14px; color: #c9d1d9;">Competitive (CS2, LoL) & Gacha (Hoyoverse, Wuwa)</td>
-            </tr>
-          </tbody>
-        </table>
-      </details>
-      <hr />
-      <details>
-        <summary style="cursor: pointer; color: #d29922; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
-          <b>04. Languages</b>
-        </summary>
-        <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px;">
-          <tbody>
-            <tr>
-              <td style="padding: 12px 14px; text-align: center; line-height: 1.8;">
-                <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English &nbsp;•&nbsp;
-                <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian &nbsp;•&nbsp;
-                <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German &nbsp;•&nbsp;
-                <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French &nbsp;•&nbsp;
-                <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </details>
+  <summary style="cursor: pointer; color: #d29922; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0; outline: none;">
+    <b>04. Languages</b>
+  </summary>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+    <tbody>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 40%; color: #c9d1d9; font-weight: bold;">
+          <img src="https://flagcdn.com/24x18/ru.png" height="13" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> Russian
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #3fb950; font-weight: bold;">
+          Native
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-weight: bold;">
+          <img src="https://flagcdn.com/24x18/gb.png" height="13" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> English
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #58a6ff; font-weight: bold;">
+          C1 
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-weight: bold;">
+          <img src="https://flagcdn.com/24x18/de.png" height="13" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> German
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #d29922; font-weight: bold;">
+          A2
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-weight: bold;">
+          <img src="https://flagcdn.com/24x18/fr.png" height="13" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> French
+        </td>
+        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #bc8cff; font-weight: bold;">
+          B1+ 
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 14px; color: #c9d1d9; font-weight: bold;">
+          <img src="https://flagcdn.com/24x18/es.png" height="13" style="vertical-align: middle; margin-right: 6px; border-radius: 2px;" /> Spanish
+        </td>
+        <td style="padding: 10px 14px; color: #ff7b72; font-weight: bold;">
+          A2 
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
     </details>
   </div>
   <div style="flex: 1; min-width: 320px;">
