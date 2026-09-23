@@ -231,232 +231,356 @@
 </div>
 
 <details>
-<summary><img src="https://cdn.simpleicons.org/gitbook/ffffff" width="20" height="20" style="vertical-align: middle;"/> <b>Research Roadmap</b></summary>
-<br>
+  <summary><img src="https://cdn.simpleicons.org/gitbook/ffffff" width="20" height="20" style="vertical-align: middle;"/> <b> Research Roadmap</b></summary>
+  <br />
 
-<details>
-<summary><b>01. Applied Mathematics & Analysis</b></summary>
-<br>
+  <details style="margin-bottom: 12px;">
+    <summary style="cursor: pointer; color: #58a6ff; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: bold; padding: 6px 0;">
+      <b>Tier 1: Core Systems, Math Foundations & Low-Level Mechanics</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+      <tbody>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">01. Discrete Math & Logic</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Propositional Logic & Truth Tables<br />
+            ☐ First-Order Predicate Calculus & Quantifiers<br />
+            ☐ Proof by Direct Induction & Strong Induction<br />
+            ☐ Structural Induction on Algebraic Data Types<br />
+            ☐ Proof by Contradiction & Contraposition<br />
+            ☐ Set Theory, Power Sets & Cartesian Products<br />
+            ☐ Equivalence Relations & Partial Orderings (Posets)<br />
+            ☐ Combinatorics: Permutations & Combinations<br />
+            ☐ Pigeonhole Principle & Inclusion-Exclusion<br />
+            ☐ Graph Theory: Trees, Cycles & Eulerian/Hamiltonian Paths<br />
+            ☐ Planar Graphs, Graph Coloring & Isomorphisms
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">02. Computer Architecture</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Two's Complement & Bitwise Operations<br />
+            ☐ IEEE 754 Floating-Point Mechanics (NaN, Subnormals)<br />
+            ☐ x86-64 Assembly Primitives & Instruction Encoding<br />
+            ☐ ARM64 Assembly Primitives & RISC Mechanics<br />
+            ☐ CPU Register Sets & Flags (EFLAGS / RFLAGS)<br />
+            ☐ Stack Frame Layouts & Frame Pointers (`RBP`/`RSP`)<br />
+            ☐ Calling Conventions (System V AMD64 ABI vs Microsoft x64)<br />
+            ☐ Memory Architecture: Segmentation vs Flat Paging
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">03. Systems Programming</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Manual Memory: `malloc`, `free`, `realloc`, `calloc`<br />
+            ☐ Pointer Arithmetic, Void Pointers & Type Casting<br />
+            ☐ Struct Alignment, Packing & Padding Rules<br />
+            ☐ C++ Systems Foundations: RAII & Smart Pointers<br />
+            ☐ C++ Custom Memory Allocators & Arena Allocation<br />
+            ☐ Rust Ownership, Borrow Checker & Move Semantics<br />
+            ☐ Rust Explicit Lifetimes & Lifetime Elision Rules<br />
+            ☐ Rust Interior Mutability (`RefCell`, `Cell`, `Mutex`)<br />
+            ☐ Unsafe Rust Boundaries, Raw Pointers & FFI
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">04. OS & Networking Primitives</td>
+          <td style="padding: 10px 14px; color: #c9d1d9;">
+            ☐ Process Management (`fork`, `execve`, `waitpid`, `exit`)<br />
+            ☐ POSIX Threads (`pthread_create`, `pthread_join`)<br />
+            ☐ Concurrency Hazards: Race Conditions & Data Races<br />
+            ☐ Deadlock Conditions, Avoidance & Livelocks<br />
+            ☐ Mutexes, Spinlocks & Read-Write Locks<br />
+            ☐ Counting Semaphores & Condition Variables<br />
+            ☐ POSIX System Calls & File Descriptor Tables<br />
+            ☐ OSI 7-Layer & TCP/IP Protocol Stacks<br />
+            ☐ Berkeley Sockets: TCP vs UDP Implementation<br />
+            ☐ Non-blocking I/O & Socket Multiplexing Primitives
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
 
-**Phase 0: Foundations of High School & Elementary Mathematics**
-* [x] **Elementary Algebra & Functions:** Polynomials • Factoring • Rational expressions • Exponential and logarithmic functions • Inequalities • Absolute value equations • Systems of linear/non-linear equations.
-* [/] **Trigonometry & Polar Coordinates:** Unit circle • Trigonometric identities • Inverse functions • Polar coordinate system • Polar form of complex numbers • De Moivre's formula.
-* [/] **Single-Variable Calculus:** Limits • Continuity • Derivative definitions • Differentiation rules • Mean Value Theorem • L'Hôpital's Rule • Indefinite/definite integrals • Fundamental Theorem of Calculus • Integration techniques • Improper integrals.
-* [ ] **Multivariable & Vector Calculus:** Vectors • Dot/cross products • Partial derivatives • Gradient • Directional derivatives • Jacobian matrix • Chain rule in multiple variables • Multiple integrals • Cylindrical and spherical coordinates.
-* [ ] **Introductory Linear Algebra:** Vector spaces • Subspaces • Linear independence • Span • Basis • Dimension • Matrix operations • Determinants • Gaussian elimination • Inverse matrices • Eigenvalues and eigenvectors.
-* [/] **Elementary Ordinary Differential Equations (ODEs):** First-order separable and linear ODEs • Second-order linear ODEs with constant coefficients • Method of undetermined coefficients • Variation of parameters.
+  <details style="margin-bottom: 12px;">
+    <summary style="cursor: pointer; color: #bc8cff; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: bold; padding: 6px 0;">
+      <b>Tier 2: Linux Kernel, Binary Security & Deep Linear Algebra</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+      <tbody>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">01. Applied Linear Algebra & Calculus</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Vector Spaces, Subspaces, Span & Basis<br />
+            ☐ Matrix Transformations, Determinants & Trace<br />
+            ☐ Vector & Matrix Norms ($L_1$, $L_2$, $L_\infty$, Frobenius)<br />
+            ☐ Eigenvalues, Eigenvectors & Characteristic Polynomials<br />
+            ☐ Spectral Theorem for Symmetric/Hermitian Matrices<br />
+            ☐ Singular Value Decomposition (SVD) Mechanics<br />
+            ☐ Low-Rank Approximations & Principal Component Analysis<br />
+            ☐ Partial Derivatives & Directional Gradients<br />
+            ☐ Jacobian Matrices & Multivariable Chain Rule<br />
+            ☐ Hessian Matrices & Second-Order Optimality Conditions
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">02. Linux Kernel Subsystems</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Virtual Memory Architecture & Multi-Level Page Tables<br />
+            ☐ Hardware Page Walk & Translation Lookaside Buffer (TLB)<br />
+            ☐ HugePages & Transparent HugePages (THP)<br />
+            ☐ Kernel Memory Allocators: Buddy Allocator Mechanics<br />
+            ☐ Kernel Slab Allocator: SLAB, SLUB & SLOB Internals<br />
+            ☐ Async I/O Subsystems: `epoll` Architecture & Triggers<br />
+            ☐ High-Performance `io_uring` Ring-Buffer Architecture<br />
+            ☐ eBPF Bytecode Instruction Set & In-Kernel Verifier<br />
+            ☐ eBPF JIT Compilation & Kernel Map Data Structures<br />
+            ☐ XDP (eXpress Data Path) Packet Processing at NIC
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">03. Binary Exploitation & Reverse Eng</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ ELF Binary Format Headers, Sections & Segments<br />
+            ☐ Dynamic Linking, PLT (Procedure Linkage) & GOT Tables<br />
+            ☐ Dynamic Analysis using GDB, GEF & Pwndbg<br />
+            ☐ Static Analysis & Decompilation (Ghidra, IDA Pro)<br />
+            ☐ Stack Buffer Overflows & Return Address Overwriting<br />
+            ☐ Format String Vulnerabilities & Arbitrary Memory Write<br />
+            ☐ Heap Exploitation: Glibc Heap Allocator Architecture<br />
+            ☐ Heap Attacks: Tcache Poisoning, Fastbin Dup, Unsorted Bin<br />
+            ☐ Mitigations: ASLR, NX/DEP, Stack Canaries & PIE<br />
+            ☐ Mitigation Bypasses: ROP (Return-Oriented Programming) Chains<br />
+            ☐ Coverage-Guided Fuzzing: AFL++ & LibFuzzer Engineering
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">04. Probability & Statistics</td>
+          <td style="padding: 10px 14px; color: #c9d1d9;">
+            ☐ Kolmogorov Probability Axioms & Sample Spaces<br />
+            ☐ Discrete Distributions: Bernoulli, Binomial, Poisson<br />
+            ☐ Continuous Distributions: Uniform, Exponential, Gaussian<br />
+            ☐ Multivariate Distributions, Joint PMF/PDF & Marginalization<br />
+            ☐ Covariance, Correlation Coefficients & Independence<br />
+            ☐ Maximum Likelihood Estimation (MLE) Derivations<br />
+            ☐ Maximum A Posteriori (MAP) & Bayesian Inference<br />
+            ☐ Bayes' Theorem & Conditional Expectation<br />
+            ☐ Hypothesis Testing, $p$-values & Confidence Intervals
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
 
----
+  <details style="margin-bottom: 12px;">
+    <summary style="cursor: pointer; color: #3fb950; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: bold; padding: 6px 0;">
+      <b>Tier 3: Distributed Systems, Web3 Consensus & Classic Cryptography</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+      <tbody>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">01. Mathematical Cryptography</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Modular Arithmetic, Congruences & Rings $\mathbb{Z}_n$<br />
+            ☐ Great Common Divisor & Extended Euclidean Algorithm<br />
+            ☐ Chinese Remainder Theorem (CRT) Construction<br />
+            ☐ Primality Testing: Fermat & Miller-Rabin Algorithms<br />
+            ☐ RSA Cryptosystem Mechanics & Attack Vectors<br />
+            ☐ Discrete Logarithm Problem (DLP) & Diffie-Hellman<br />
+            ☐ Elliptic Curve Mathematics over Finite Fields $\mathbb{F}_p$<br />
+            ☐ Elliptic Curve Digital Signature Algorithm (ECDSA)<br />
+            ☐ Edwards-curve Digital Signature Algorithm (Ed25519)<br />
+            ☐ Symmetric Primitives: AES-GCM Authenticated Encryption<br />
+            ☐ ChaCha20-Poly1305 Stream Cipher Architecture
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">02. Distributed Systems Theory</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ FLP Impossibility Theorem & Asynchronous Bound<br />
+            ☐ CAP Theorem & PACELC Trade-off Model<br />
+            ☐ Logical Clocks: Lamport Timestamps & Total Order<br />
+            ☐ Vector Clocks & Causal Dependency Tracking<br />
+            ☐ Single-Decree Paxos & Multi-Paxos Consensus<br />
+            ☐ Raft Consensus: Leader Election, Log Replication, Safety<br />
+            ☐ State Machine Replication (SMR) Principles<br />
+            ☐ Consistent Hashing & Distributed Hash Tables (Kademlia)
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">03. Web3, BFT & Runtimes</td>
+          <td style="padding: 10px 14px; color: #c9d1d9;">
+            ☐ Practical Byzantine Fault Tolerance (PBFT) Protocol<br />
+            ☐ Tendermint Core & HotStuff BFT Architectures<br />
+            ☐ Asynchronous BFT & DAG Consensus (Narwhal & Tusk)<br />
+            ☐ EVM Architecture: Opcodes, Gas Metering, Memory, Stack<br />
+            ☐ WebAssembly (Wasm) Execution Runtime Mechanics<br />
+            ☐ Merkle Patricia Tries & State Root Verification<br />
+            ☐ Verkle Trees & Vector Commitments for Statelessness<br />
+            ☐ Optimistic Rollups: Fraud Proof Mechanics<br />
+            ☐ Zero-Knowledge Rollups: Validity Proof Integration
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
 
-**Phase 1: Real, Complex Analysis & Linear Algebra**
-* [ ] **Topology of Metric Spaces:** Continuity definitions • Open and closed sets • Compactness (Heine-Borel, sequential) • Connectedness • Completeness • Cauchy sequences • Baire Category Theorem.
-* [ ] **Real Analysis:** Uniform vs. pointwise convergence • Arzelà-Ascoli theorem • Stone-Weierstrass theorem • Riemann-Stieltjes integration • Power series • Radius of convergence.
-* [ ] **Complex Analysis:** Cauchy-Riemann equations • Cauchy's Integral Theorem and Formula • Laurent series • Residue Theorem • Conformal mappings • Analytic continuation.
-* [ ] **Linear Operators & Canonical Forms:** Spectral Theorem for normal operators • Jordan Normal Form • Schur Decomposition • Singular Value Decomposition (SVD) • Low-rank approximations.
-* [ ] **Matrix Analysis:** Matrix norms (operator, Schatten, Lp,q) • Courant-Fischer Min-Max Theorem • Gershgorin Circle Theorem • Perron-Frobenius Theorem • Condition numbers • Matrix stability.
-* [ ] **Differential Forms & Vector Calculus:** Exterior algebra • Wedge product • Exterior derivative • Differential k-forms • Pullbacks • Generalized Stokes' Theorem on Manifolds.
+  <details style="margin-bottom: 12px;">
+    <summary style="cursor: pointer; color: #d29922; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: bold; padding: 6px 0;">
+      <b>Tier 4: Deep Learning Foundations, Compilers & GPU High Performance</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+      <tbody>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">01. Deep Learning Architecture Theory</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Multilayer Perceptrons & Forward Pass Computation<br />
+            ☐ Automatic Differentiation: Reverse-Mode Autodiff Graphs<br />
+            ☐ Backpropagation Engine Derivation via Chain Rule<br />
+            ☐ Optimization: Stochastic Gradient Descent (SGD) & Momentum<br />
+            ☐ Adaptive Optimizers: Adam, AdamW, RMSProp Dynamics<br />
+            ☐ Scaled Dot-Product Attention Mechanics<br />
+            ☐ Multi-Head Attention & Transformer Architecture<br />
+            ☐ FlashAttention: Tiling & IO-Aware Attention Kernels<br />
+            ☐ Positional Encodings: Absolute, Relative & RoPE (Rotary)
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">02. Compiler Construction & MLIR</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Abstract Syntax Trees (AST) & Lexing/Parsing<br />
+            ☐ Control Flow Graphs (CFG) & Dominator Trees<br />
+            ☐ Static Single Assignment (SSA) Form Conversion<br />
+            ☐ Optimization Passes: Dead Code Elimination & Inlining<br />
+            ☐ Loop Optimizations: Loop Invariant Code Motion (LICM)<br />
+            ☐ Auto-Vectorization & SIMD Instruction Lowering<br />
+            ☐ MLIR Infrastructure: Dialects, Operations & Attributes<br />
+            ☐ MLIR Lowering Pipelines & Declarative Rewrite Rules<br />
+            ☐ LLVM IR Code Generation & ORC JIT Engine Architecture
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">03. GPU Compute & Custom Kernels</td>
+          <td style="padding: 10px 14px; color: #c9d1d9;">
+            ☐ SIMT Architecture: Streaming Multiprocessors & Warps<br />
+            ☐ CUDA Thread Hierarchy: Grid, Block, Thread Indexing<br />
+            ☐ GPU Memory Hierarchy: Global, Shared, Local, Registers<br />
+            ☐ Global Memory Coalescing & Unaligned Access Penalties<br />
+            ☐ Shared Memory Bank Conflict Identification & Avoidance<br />
+            ☐ Custom Kernel Development in CUDA C++<br />
+            ☐ Kernel Engineering via OpenAI Triton Language<br />
+            ☐ Roofline Model Analysis: Operational Intensity Metrics<br />
+            ☐ Compute-Bound vs Memory-Bound Kernel Optimization
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
 
----
+  <details style="margin-bottom: 12px;">
+    <summary style="cursor: pointer; color: #f778ba; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: bold; padding: 6px 0;">
+      <b>Tier 5: Post-Quantum Cryptography & Lattice Mathematics</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+      <tbody>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">01. Lattice Geometry & Hard Problems</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Full-Rank Lattices $\mathcal{L} \subset \mathbb{R}^n$ & Generator Matrix<br />
+            ☐ Lattice Basis Transformations & Unimodular Matrices<br />
+            ☐ Fundamental Parallelotope & Determinant $\det(\mathcal{L})$<br />
+            ☐ Dual Lattices & Orthogonal Subspaces<br />
+            ☐ Shortest Vector Problem (SVP) Formulation<br />
+            ☐ Closest Vector Problem (CVP) Formulation<br />
+            ☐ Bounded Distance Decoding (BDD) Problem<br />
+            ☐ Successive Minima $\lambda_i(\mathcal{L})$ & Minkowski's First Theorem<br />
+            ☐ Minkowski's Second Theorem on Convex Bodies
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">02. Lattice Reduction Algorithms</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Gram-Schmidt Orthogonalization Process<br />
+            ☐ LLL (Lenstra–Lenstra–Lovász) Reduced Basis Conditions<br />
+            ☐ LLL Algorithm Steps & Polynomial Time Complexity<br />
+            ☐ Hermite Factor & Root-Hermite Factor Metrics<br />
+            ☐ BKZ (Block Korkine-Zolotarev) Reduction Mechanics<br />
+            ☐ Babai's Nearest Plane Algorithm for CVP<br />
+            ☐ Babai's Rounding Technique Mechanics
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">03. PQC Schemes & Security</td>
+          <td style="padding: 10px 14px; color: #c9d1d9;">
+            ☐ Learning With Errors (LWE) Average-Case Hardness<br />
+            ☐ Search-LWE to Decision-LWE Reductions<br />
+            ☐ Ring-LWE & Module-LWE Algebraic Formulations<br />
+            ☐ NIST PQC Standard: ML-KEM (Kyber) Construction<br />
+            ☐ NIST PQC Standard: ML-DSA (Dilithium) Construction<br />
+            ☐ NIST PQC Standard: SLH-DSA (Sphincs+) Hash-Based Signatures<br />
+            ☐ Number Theoretic Transform (NTT) Polynomial Multiplication<br />
+            ☐ Constant-Time Execution Primitives for PQC<br />
+            ☐ Side-Channel Attack Mitigation (SPA/DPA Countermeasures)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
 
-**Phase 2: Abstract Algebra, Galois Theory & Number Theory**
-* [ ] **Group Theory:** Normal subgroups • Quotient groups • Isomorphism Theorems • Group actions • Sylow Theorems • Solvable groups • Symmetric or alternating groups.
-* [ ] **Ring & Ideal Theory:** Commutative rings • Prime and maximal ideals • Principal Ideal Domains (PID) • Unique Factorization Domains (UFD) • Euclidean domains • Quotient rings.
-* [ ] **Field Extensions & Galois Theory:** Algebraic vs. transcendental extensions • Splitting fields • Finite fields (Galois Fields) • Fundamental Theorem of Galois Theory • Cyclotomic polynomials.
-* [ ] **Computational Number Theory:** Extended Euclidean Algorithm • Chinese Remainder Theorem • Euler's Totient function • Discrete Logarithm Problem • Quadratic Reciprocity • Miller-Rabin primality testing • Pollard's rho algorithm.
-
----
-
-**Phase 3: Measure-Theoretic Probability & Stochastic Analysis**
-* [ ] **Measure Theory:** Sigma-algebras • Borel sets • Outer measures • Carathéodory Extension Theorem • Lebesgue measure construction • Vitali non-measurable sets.
-* [ ] **Lebesgue Integration:** Measurable and simple functions • Monotone Convergence Theorem • Fatou's Lemma • Dominated Convergence Theorem • Lp spaces • Riesz-Fischer Theorem.
-* [ ] **Product Measures & Absolute Continuity:** Product sigma-algebras • Fubini-Tonelli Theorems • Radon-Nikodym Theorem and derivatives • Lebesgue Decomposition Theorem.
-* [ ] **Probability Foundations:** Probability spaces • Random variables as measurable mappings • Independence • Borel-Cantelli Lemmas • Kolmogorov's 0-1 Law.
-* [ ] **Martingale Theory:** Filtrations • Conditional expectation as L2 projection • Super/sub-martingales • Stopping times • Doob's Optional Stopping Theorem • Doob's Convergence Theorem • Azuma-Hoeffding inequality.
-* [ ] **Stochastic Calculus:** Brownian motion (Wiener process) • Itô integral • Itô's Lemma • Stochastic Differential Equations (SDEs) • Fokker-Planck equation • Ornstein-Uhlenbeck processes.
-
----
-
-**Phase 4: Convex, Non-Convex & High-Dimensional Optimization**
-* [ ] **Convex Analysis:** Convex sets • Supporting Hyperplane Theorem • Proper/closed/lower-semicontinuous functions • Fenchel Conjugate • Subgradients and subdifferentials.
-* [ ] **Optimality & Duality:** Karush-Kuhn-Tucker (KKT) conditions • Slater's constraint qualification • Lagrangian duality • Strong duality • Dual ascent • Primal-dual algorithms.
-* [ ] **First-Order Optimization:** Nesterov Accelerated Gradient Descent • Proximal Gradient Descent (ISTA/FISTA) • ADMM • Mirror Descent • Frank-Wolfe algorithms.
-* [ ] **Stochastic & Non-Convex Optimization:** SGD convergence under smoothness • Polyak-Łojasiewicz inequality • Variance reduction (SVRG, SAGA) • Escaping saddle points • Adam/RMSProp stability limits.
-* [ ] **Manifold Optimization:** Riemannian Gradient Descent • Retractions • Vector transport • Optimization on Grassmannian and Stiefel manifolds.
-
----
-
-**Phase 5: Differential Geometry & Geometric Mechanics**
-* [ ] **Smooth Manifolds & Tensors:** Smooth maps • Immersions • Submersions • Tangent and cotangent spaces • Tangent bundles • Vector fields • Lie brackets • Exterior algebra.
-* [ ] **Riemannian Geometry:** Riemannian metrics • Levi-Civita connection • Parallel transport • Geodesics • Exponential maps • Riemann curvature tensor • Ricci and scalar curvature.
-* [ ] **Lie Groups & Lie Algebras:** SO(3), SE(3), SU(N) groups • Exponential mapping from Lie algebras to groups • Adjoint representations • Lie algebra actions on manifolds.
-
+  <details style="margin-bottom: 12px;">
+    <summary style="cursor: pointer; color: #79c0ff; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: bold; padding: 6px 0;">
+      <b>Tier 6: Research Frontiers (Zero-Knowledge, AI Safety & Formal Verification)</b>
+    </summary>
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+      <tbody>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">01. Zero-Knowledge Proofs (ZKP)</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ Arithmetization: Rank-1 Constraint Systems (R1CS)<br />
+            ☐ Plonkish Arithmetization & Custom Gates<br />
+            ☐ Polynomial Commitment Schemes: KZG Commitments<br />
+            ☐ Polynomial Commitments: Inner Product Arguments (IPA)<br />
+            ☐ Polynomial Commitments: FRI Protocol (STARKs)<br />
+            ☐ SNARK Systems: Groth16 Setup & Verification<br />
+            ☐ SNARK Systems: Plonk Universal Setup Mechanics<br />
+            ☐ STARK Systems: Transparent & Post-Quantum Proofs<br />
+            ☐ Sumcheck Protocol & Interactive Proof Systems<br />
+            ☐ Recursive Proof Composition & Aggregation (Nova/Halo2)
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">02. AI Safety, Interpretability & Robustness</td>
+          <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
+            ☐ First-Order Attacks: FGSM & PGD Adversarial Attacks<br />
+            ☐ Discrete Optimization Attacks: GCG Prompt Injections<br />
+            ☐ Certified Defenses via Randomized Smoothing<br />
+            ☐ Bound Propagation Verification ($\alpha/\beta$-CROWN)<br />
+            ☐ Mechanistic Interpretability: Circuit & Feature Analysis<br />
+            ☐ Representation Engineering & Activation Addition<br />
+            ☐ Alignment Objectives: RLHF with PPO & KL Penalty<br />
+            ☐ Direct Preference Optimization (DPO) Derivation<br />
+            ☐ Kahneman-Tversky Optimization (KTO) Objectives
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">03. Formal Methods & Verification</td>
+          <td style="padding: 10px 14px; color: #c9d1d9;">
+            ☐ Untyped $\lambda$-Calculus: $\beta$-reduction & Normal Forms<br />
+            ☐ Simply Typed $\lambda$-Calculus & System F<br />
+            ☐ Dependent Type Theory & Calculus of Constructions<br />
+            ☐ Martin-Löf Type Theory (MLTT) Axioms<br />
+            ☐ Curry-Howard Isomorphism (Propositions-as-Types)<br />
+            ☐ Operational Semantics: Small-Step vs Big-Step<br />
+            ☐ Axiomatic Semantics: Hoare Logic & Invariants<br />
+            ☐ Separation Logic for Pointer-Heavy Memory Reasoning<br />
+            ☐ Interactive Theorem Proving in Lean 4 / Coq<br />
+            ☐ SMT Solver Integration (Z3 / CVC5 Theory Solvers)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
 </details>
-
----
-
-<details>
-<summary><b>02. Mathematical Cryptography, Complexity & Formal Methods</b></summary>
-<br>
-
-**Phase 0: Foundations of Discrete Mathematics & Logic**
-* [ ] **Mathematical Logic & Proofs:** Propositional/predicate logic • Truth tables • Direct proofs • Contraposition • Proof by contradiction • Mathematical and strong induction.
-* [ ] **Set Theory & Relations:** Sets • Subsets • Power sets • Cartesian products • Equivalence relations and classes • Partial orderings • Hasse diagrams.
-* [ ] **Basic Number Theory:** Divisibility • Prime numbers • Greatest Common Divisor (GCD) • Euclidean Algorithm • Modular Arithmetic • Fermat's Little Theorem.
-* [ ] **Combinatorics & Graph Theory:** Permutations • Combinations • Pigeonhole Principle • Inclusion-Exclusion Principle • Eulerian and Hamiltonian paths • Trees • Graph colorings.
-* [ ] **Elementary Automata & Formal Languages:** Deterministic Finite Automata (DFA) • Nondeterministic Finite Automata (NFA) • Regular expressions • Context-Free Grammars (CFG).
-
----
-
-**Phase 1: Computational Complexity & Information Theory**
-* [ ] **Structural Complexity:** Turing machines • Classes P, NP, coNP • Polynomial Hierarchy • PSPACE • Ladner's Theorem • Baker-Gill-Solovay Relativization barrier.
-* [ ] **Space & Circuit Complexity:** Savitch's Theorem • Immerman-Szelepcsényi Theorem (NL = coNL) • NC and AC circuit classes • Razborov-Smirnov Natural Proofs barrier.
-* [ ] **Interactive Proofs & Zero-Knowledge:** IP = PSPACE Theorem • Interactive Proof Systems • Arthur-Merlin games • Zero-knowledge definitions • PCP Theorem • Hardness of Approximation.
-* [ ] **Quantum Complexity:** Postulates of Quantum Mechanics • Quantum circuits • Class BQP • Shor's factoring algorithm • Grover's search • Quantum Supremacy frontiers.
-* [ ] **Information Theory:** Shannon entropy • Joint and conditional entropy • Mutual information • KL divergence • Rényi entropy • Channel capacity • Fano's Inequality • Data Processing Inequality.
-
----
-
-**Phase 2: Lattice-Based Cryptography, PQC & Cryptanalysis**
-* [ ] **Lattice Geometry:** Geometry of numbers • Full-rank lattices • Determinant • Dual lattice • Fundamental parallelotope • Successive minima • Minkowski's Theorems.
-* [ ] **Lattice Reduction Algorithms:** Gram-Schmidt Orthogonalization • LLL reduction algorithm • Hermite factor • BKZ reduction • Babai's Closest Vector algorithms.
-* [ ] **Lattice Hard Problems:** Shortest Vector Problem (SVP) • Closest Vector Problem (CVP) • Bounded Distance Decoding (BDD) • SIVP • Worst-case to average-case reductions.
-* [ ] **Learning With Errors (LWE) Mechanics:** LWE formulation • Search-LWE to Decision-LWE reduction • Ring-LWE • Module-LWE.
-* [ ] **PQC Standards & Implementations:** NIST PQC Standards (ML-KEM/Kyber, ML-DSA/Dilithium) • Number Theoretic Transform (NTT) • Constant-time side-channel mitigations • SPA/DPA defenses.
-* [ ] **Zero-Knowledge Proof Construction:** Rank-1 Constraint Systems (R1CS) • Algebraic Intermediate Representation (AIR) • Polynomial Commitment Schemes (KZG, IPA, FRI) • SNARKs • STARKs.
-
----
-
-**Phase 3: Type Theory, Formal Semantics & Interactive Theorem Proving**
-* [ ] **Lambda Calculus:** Untyped lambda calculus • Simply Typed lambda calculus • System F • System F-omega.
-* [ ] **Dependent Type Theory:** Calculus of Constructions (CoC) • Pure Type Systems • Dependent types • Martin-Löf Type Theory (MLTT) • Homotopy Type Theory (HoTT) & Univalence Axiom.
-* [ ] **Curry-Howard Isomorphism:** Propositions-as-Types • Proofs-as-Programs • Classical vs. intuitionistic logic • Constructive mathematics.
-* [ ] **Formal Program Semantics:** Operational semantics • Denotational semantics • Axiomatic semantics (Hoare logic, invariants, weakest preconditions) • Separation Logic.
-* [ ] **Verification Toolchains & Solvers:** SMT solving algorithms • Abstract Interpretation • Theorem Provers (Coq / Lean 4 proof automation).
-
-</details>
-
----
-
-<details>
-<summary><b>03. Deep Learning Theory, Robustness & Agent Safety Mechanics</b></summary>
-<br>
-
-**Phase 0: Elementary Probability, Statistics & Machine Learning Fundamentals**
-* [ ] **Basic Probability:** Sample spaces • Axioms of probability • Conditional probability • Bayes' Theorem • Discrete/continuous random variables • Expectation, variance, covariance.
-* [ ] **Standard Distributions:** Uniform • Binomial • Poisson • Gaussian • Exponential • Beta • Gamma • Multivariate Normal.
-* [ ] **Classical Statistics:** Maximum Likelihood Estimation (MLE) • Maximum A Posteriori (MAP) • Confidence intervals • Hypothesis testing • Linear/logistic regression.
-* [ ] **Foundational Machine Learning:** Supervised/unsupervised learning • Train/val/test splits • Bias-variance tradeoff • Overfitting/underfitting • L1/L2 Regularization • Decision trees • k-NN • SVMs.
-* [ ] **Neural Network Basics:** Perceptrons • Multilayer perceptrons (MLP) • Activation functions • Loss functions • Forward pass • Backpropagation via chain rule.
-
----
-
-**Phase 1: Statistical Learning Theory & Infinite-Width Regime**
-* [ ] **PAC Learning Framework:** PAC learning • Agnostic PAC learning • Sample Complexity bounds • Empirical Risk Minimization (ERM).
-* [ ] **Combinatorial & Function Class Complexity:** Growth function • Sauer-Shelah Lemma • VC-Dimension • Vapnik-Chervonenkis bounds • Rademacher and Gaussian complexities • Fat-shattering dimension.
-* [ ] **Concentration of Measure:** Sub-Gaussian/Sub-Exponential random variables • Hoeffding's Lemma • Chernoff bounds • McDiarmid's Inequality • Bernstein's Inequality • Hansen-Wright Inequality.
-* [ ] **Overparameterization Mechanics:** Double Descent curve • Benign overfitting • Neural Tangent Kernel (NTK) regime • Lazy training vs. feature learning (muP parametrization).
-
----
-
-**Phase 2: Geometric Deep Learning & Symmetry**
-* [ ] **Symmetry and Equivariance:** Invariance and equivariance principles • Group Equivariant CNNs (G-CNNs) • Spherical CNNs • Gauge Equivariant Mesh CNNs.
-* [ ] **Graph & Mesh Theory:** Spectral Graph Theory • Message Passing Neural Networks (MPNNs) • Oversmoothing and oversquashing.
-
----
-
-**Phase 3: Adversarial Robustness, Certified Bounds & Distributional Drift**
-* [ ] **Adversarial Threat Formalization:** L-infinity, L2, L1 threat models • First-order attacks (FGSM, PGD, C&W, AutoAttack) • Black-box attacks • Backdoor/data poisoning.
-* [ ] **Certified Defense Mechanics:** Randomized smoothing • Interval Bound Propagation (IBP) • Bound propagation via abstract interpretation (alpha/beta-CROWN, LiRPA) • SMT/MILP verification.
-* [ ] **Distributional Robustness & Domain Generalization:** Wasserstein DRO • Optimal Transport distance • Invariant Risk Minimization (IRM) • Domain Adversarial Neural Networks • OOD detection.
-
----
-
-**Phase 4: Alignment Mathematics, Game Theory & Agent Safety**
-* [ ] **Preference Learning:** Bradley-Terry & Plackett-Luce models • RLHF objective formulation (PPO with KL-penalty) • Direct Preference Optimization (DPO) • KTO • Identity-PO.
-* [ ] **Control-Theoretic Safety:** Control Barrier Functions (CBF) • Control Lyapunov Functions (CLF) • Safe Reinforcement Learning • Constrained MDPs.
-* [ ] **AI Agent Security & Red Teaming:** Direct/Indirect prompt injection • Representation Engineering • Jailbreak mechanics (GCG) • Guardrail system design • Multi-agent red-teaming.
-
-</details>
-
----
-
-<details>
-<summary><b>04. High-Performance Computing, Compilers & Systems</b></summary>
-<br>
-
-**Phase 0: Foundations of Computer Architecture & C/C++ Systems Programming**
-* [ ] **Basic Physics & Circuits:** Ohm's & Kirchhoff's Laws • RLC circuits • Semiconductor basics • Logic gates • Truth tables.
-* [ ] **Number Representations:** Binary, octal, hex • Two's Complement • IEEE 754 Floating-Point • Bitwise operations.
-* [ ] **Basic Assembly & Machine Code:** RISC vs CISC • Register sets • Stack frames • Calling conventions • x86-64 / ARM assembly • Memory layout (Text, Data, BSS, Heap, Stack).
-* [ ] **C/C++ Systems Programming:** Pointers & arithmetic • Manual memory allocation (`malloc`/`free`, `new`/`delete`) • RAII • References • Struct alignment/padding • File I/O.
-* [ ] **Basic Data Structures & Algorithms:** Arrays, linked lists, stacks, queues, hash tables, BSTs • Sorting (QuickSort, MergeSort) • Big-O notation.
-
----
-
-**Phase 1: Silicon Foundations & Digital Microarchitecture**
-* [ ] **Semiconductor Physics & MOSFETs:** P-N junctions • Bandgap mechanics • NMOS/PMOS operation • CMOS logic gates • Parasitic capacitance • Leakage current • Dynamic power.
-* [ ] **Digital Logic & Sequential Circuitry:** Boolean minimization (Karnaugh maps) • Setup/hold times • Clock jitter/skew • Metastability • Synchronizers • Finite State Machines.
-* [ ] **Computer Organization & RTL:** RTL design • ALU architectures • Carry-lookahead adders • Wallace tree multipliers • Pipelining hazards • Forwarding • Stall units • Branch predictors.
-* [ ] **Memory Subsystem Microarchitecture:** SRAM topology vs DRAM cell • Cache line architecture • Direct-mapped vs set-associative • MESI/MOESI cache coherence • Write-buffers.
-
----
-
-**Phase 2: Hardware Microarchitecture & Parallel Compute Engines**
-* [ ] **Advanced CPU Microarchitecture:** Out-of-Order execution • Reorder Buffer • Reservation Stations • Register Renaming • Branch Target Buffers • SIMD vectorization • Cache bottlenecks.
-* [ ] **GPU Architecture & Compute Pipelines:** SIMT execution model • Streaming Multiprocessors • Warps • Warp divergence • Register pressure • Shared memory bank conflicts • Tensor Cores.
-* [ ] **Roofline Performance Modeling:** Arithmetic intensity • Operational boundaries • Memory-bound vs compute-bound classification • Latency hiding via concurrency.
-* [ ] **Custom Kernel Engineering (CUDA & Triton):** Shared memory tiling • Coalesced global memory access • Warp shuffle primitives • Double buffering • Triton compiler IR • PTX/SASS inspection.
-
----
-
-**Phase 3: Compiler Architecture, Polyhedral Model & MLIR**
-* [ ] **Compiler Frontend & Middle-End:** Abstract Syntax Trees (AST) • Control Flow Graphs (CFG) • Static Single Assignment (SSA) • Dominance frontiers • Dominator trees.
-* [ ] **Optimization Passes:** Loop Invariant Code Motion (LICM) • Dead Code Elimination (DCE) • Common Subexpression Elimination (CSE) • Alias analysis • Inlining • Vectorization.
-* [ ] **Polyhedral Compilation Model:** Polyhedral representation of nested loops • Affine transformations • Loop tiling, skewing, interchange, fusion • Pluto Algorithm.
-* [ ] **MLIR Infrastructure:** Dialect Ecosystem • Operation Definition Specification (ODS) • Declarative Rewrite Rules (DRR) • Passes & lowering pipelines • JIT compilation via LLVM ORC.
-* [ ] **Advanced Runtimes & Memory Management:** Garbage collection algorithms • Lock-free memory reclamation (Epoch-Based Reclamation, Hazard Pointers, RCU).
-
----
-
-**Phase 4: OS Kernel Subsystems, Concurrency & Low-Level Systems**
-* [ ] **Virtual Memory Subsystem:** Multi-level page tables • Page walks • Translation Lookaside Buffer (TLB) • TLB shootdowns • HugePages • Memory-Mapped I/O • Page fault handling • KPTI.
-* [ ] **Kernel Memory Allocation:** Buddy Allocator • Slab/Slub/Slob allocators • Memory overcommit • OOM killer internals.
-* [ ] **Async I/O Subsystems:** epoll architecture • io_uring ring-buffer design • Zero-copy networking • Direct I/O (`O_DIRECT`).
-* [ ] **eBPF:** Bytecode verification • JIT compilation to native machine code • kprobes, uprobes, tracepoints • XDP packet processing at NIC driver level.
-* [ ] **Microarchitectural Vulnerabilities & Hardware Security:** Transient execution attacks (Spectre, Meltdown) • Rowhammer DRAM bit-flips • Fault injection • Hardware enclaves (SGX, SEV, CCA).
-
-</details>
-
----
-
-<details>
-<summary><b>05. Distributed Systems, Consensus & Formal Specifications</b></summary>
-<br>
-
-**Phase 0: Foundations of Computer Networks & Operating Systems**
-* [ ] **Network Stack & Protocols:** OSI Model vs TCP/IP stack • Ethernet • IP addressing/subnetting • ICMP • TCP 3-way handshake • UDP • DNS basics.
-* [ ] **Socket Programming:** Client-server architecture • TCP/UDP sockets • Blocking vs. non-blocking I/O • Select/poll primitives • HTTP protocol structure.
-* [ ] **Operating System Basics:** Process management • Threads • Context switching • Processes vs. threads • IPC (pipes, shared memory, sockets).
-* [ ] **Concurrency Fundamentals:** Race conditions • Critical sections • Mutual exclusion • Locks/mutexes • Semaphores • Condition variables • Deadlocks/livelocks.
-* [ ] **Basic Storage Systems:** POSIX I/O • Inodes • Directory trees • File descriptors • HDD vs SSD access patterns.
-
----
-
-**Phase 1: Theoretical Distributed Systems & Formal Specifications**
-* [ ] **Fundamental Theorems:** FLP Impossibility Theorem • CAP Theorem • PACELC Theorem • Synchronous vs. asynchronous network bounds.
-* [ ] **Logical Time & Ordering:** Lamport Timestamps • Vector Clocks • Matrix Clocks • Causal consistency • Total order broadcast • Chandy-Lamport snapshot algorithm.
-* [ ] **Formal Specification & Verification:** TLA+ (Temporal Logic of Actions) • PlusCal • Model checking via TLC • Verifying safety invariants and liveness properties • Refinement mapping.
-
----
-
-**Phase 2: Asynchronous Consensus, BFT Mechanics & Distributed Data**
-* [ ] **Crash Fault Tolerant (CFT) Consensus:** Paxos (Single-decree, Multi-Paxos) • Raft • Viewstamped Replication (VR) • State Machine Replication (SMR).
-* [ ] **Byzantine Fault Tolerant (BFT) Consensus:** PBFT • HotStuff • Narwhal & Tusk • Async BFT (HoneyBadgerBFT) • DAG-based consensus mechanics.
-* [ ] **Distributed Data Structures & Transactions:** Consistent hashing • Distributed Hash Tables (Kademlia) • Two-Phase Commit (2PC) • Three-Phase Commit (3PC) • SAGA Pattern • Spanner architecture.
-
-</details>
-</details>
-
 
 <details>
   <summary><img src="https://cdn.simpleicons.org/securityscorecard/ffffff" width="24" height="24" style="vertical-align: middle;" /> <b>Toolchain</b></summary>
