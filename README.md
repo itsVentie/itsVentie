@@ -177,6 +177,29 @@
       </tr>
       <tr>
         <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #ff7b72; font-weight: 700; font-size: 13px;">Platform Rankings & Coding</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Competitive Platforms</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Reach Top 1% rank on TryHackMe<br />
+          ☐ Achieve Omniscient / Pro Hacker status on Hack The Box<br />
+          ☐ Reach Knight / Guardian rank (2000+ rating) on LeetCode<br />
+          ☐ Achieve Candidate Master / Master title on Codeforces
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
+          <div style="color: #d2a8ff; font-weight: 700; font-size: 13px;">Academic & Research Excellence</div>
+          <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Publications & Science</div>
+        </td>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; line-height: 1.8;">
+          ☐ Publish a research paper in a top-tier peer-reviewed venue (IEEE / USENIX / ACM)<br />
+          ☐ Speak at a major security conference (DEF CON, Black Hat, CCC)<br />
+          ☐ Win a national or international Olympiad / Academic fellowship
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
           <div style="color: #3fb950; font-weight: 700; font-size: 13px;">Offensive Research & Security</div>
           <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Vulnerability Discovery</div>
         </td>
