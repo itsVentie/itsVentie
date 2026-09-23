@@ -15,244 +15,223 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Systems_Security_%7C_AI%2FML_Engineer-1a1b26?style=flat-square&logo=rust&logoColor=bb9af7" />
-  <img src="https://img.shields.io/badge/Years_of_Experience-5%2B-58a6ff?style=flat-square&logo=calendar" />
 <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
     <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
   </a>
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23f5c2e7" alt="Visitors Counter" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/itsventie?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/itsventie?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/itsventie&query=$.public_repos&label=Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white" alt="Public Repos"/>
-</p>
 
 ---
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin-bottom: 16px;">
+  <div style="flex: 1; min-width: 320px;">
+    <details>
+      <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b> About Me</b></summary>
+      <br />
+      <details open>
+        <summary><b>01. Identity</b></summary>
+        <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 12px; table-layout: fixed;">
+          <tbody>
+            <tr>
+              <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 30%; color: #8b949e; font-weight: bold;">Headline</td>
+              <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">Security Systems & AI/ML Engineer // Future Computer Scientist</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">Age</td>
+              <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">18+</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">Gender</td>
+              <td style="padding: 10px 14px; color: #c9d1d9;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+      <hr />
+      <details style="margin-bottom: 12px;">
+        <summary style="cursor: pointer; color: #bc8cff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
+          <b>02. Personality Profiles</b>
+        </summary>
+        <table style="width: 100%; border-collapse: separate; border-spacing: 8px; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; margin-top: 8px; table-layout: fixed;">
+          <tbody>
+            <tr>
+              <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
+                <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>MBTI</b></div>
+                <div style="margin-bottom: 8px;">
+                  <span style="background-color: #332354; color: #d2a8ff; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #6e40c9;">INFJ-T</span>
+                  <strong style="margin-left: 4px;">Advocate</strong>
+                </div>
+                <img src="https://modernhadassah.com/wp-content/uploads/2018/10/img_1349.jpg?w=640" alt="INFJ Advocate" style="width: 100%; height: 110px; object-fit: contain; border-radius: 6px; border: 1px solid #30363d; display: block;" />
+              </td>
+              <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
+                <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Enneagram</b></div>
+                <div style="margin-bottom: 8px;">
+                  <span style="background-color: #1f3543; color: #79c0ff; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #1f6beb;">4w5</span>
+                  <strong style="margin-left: 4px;">The Individualist</strong>
+                </div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQariveQqw6zfYGS92D3mm4E7BuMoZPZ0pyrDle0Oc9Mg&s=10" alt="Enneagram 4w5" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
+                <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Socionics</b></div>
+                <div style="margin-bottom: 8px;">
+                  <span style="background-color: #1a3a2a; color: #56d364; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #238636;">EII</span>
+                  <strong style="margin-left: 4px;">Dostoevsky</strong>
+                </div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENtwze_VnJT_kaUeRnpIOCH9SsH2LtAZaVLHymvxzhw6RW4-6V-OVOvk&s=10" alt="Socionics EII" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
+              </td>
+              <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
+                <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Attitudinal Psyche</b></div>
+                <div style="margin-bottom: 8px;">
+                  <span style="background-color: #3d2c1d; color: #e3b341; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #9e6a03;">ELVF</span>
+                  <strong style="margin-left: 4px;">Andersen</strong>
+                </div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENtwze_VnJT_kaUeRnpIOCH9SsH2LtAZaVLHymvxzhw6RW4-6V-OVOvk&s=10" alt="Attitudinal Psyche ELVF" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+      <hr />
+      <details style="margin-bottom: 12px;">
+        <summary style="cursor: pointer; color: #3fb950; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
+          <b>03. Interests & Gaming</b>
+        </summary>
+        <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px; table-layout: fixed;">
+          <tbody>
+            <tr>
+              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; width: 35%; color: #8b949e; font-weight: bold;">
+                <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> Chess
+              </td>
+              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">2400-2500 Elo</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
+                <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> Shogi
+              </td>
+              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">5 Kyu</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
+                <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> Media
+              </td>
+              <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">Anime & Manga/Manhwa</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px 14px; color: #8b949e; font-weight: bold;">
+                <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> Gaming
+              </td>
+              <td style="padding: 8px 14px; color: #c9d1d9;">Competitive (CS2, LoL) & Gacha (Hoyoverse, Wuwa)</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+      <hr />
+      <details>
+        <summary style="cursor: pointer; color: #d29922; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
+          <b>04. Languages</b>
+        </summary>
+        <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px;">
+          <tbody>
+            <tr>
+              <td style="padding: 12px 14px; text-align: center; line-height: 1.8;">
+                <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English &nbsp;•&nbsp;
+                <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian &nbsp;•&nbsp;
+                <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German &nbsp;•&nbsp;
+                <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French &nbsp;•&nbsp;
+                <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </details>
+  </div>
+  <div style="flex: 1; min-width: 320px;">
+    <details>
+      <summary><img src="https://cdn.simpleicons.org/target/ffffff" width="20" height="20" style="vertical-align: middle;"/><b> Focus & Career</b></summary>
+      <br />
+      <table style="width: 100%; border-collapse: collapse; font-size: 12px; table-layout: fixed; word-wrap: break-word;">
+        <thead>
+          <tr style="background-color: #161b22; color: #f0f6fc;">
+            <th width="25%" align="left" style="padding: 6px;">Domain</th>
+            <th width="45%" align="left" style="padding: 6px;">Focus Areas</th>
+            <th width="15%" align="center" style="padding: 6px;">Status</th>
+            <th width="15%" align="left" style="padding: 6px;">Role</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="color: #58a6ff; font-weight: bold; padding: 6px;">Mathematics & AI Safety</td>
+            <td style="padding: 6px;">
+              <code>Calc/LinAlg</code> <code>NN Theory</code> <code>MechInterp</code> <code>LLM Guardrails</code>
+            </td>
+            <td align="center" style="padding: 6px;">
+              <span style="background: #1f6feb22; color: #58a6ff; border: 1px solid #1f6feb44; border-radius: 6px; padding: 2px 4px; font-size: 10px;">In Progress</span>
+            </td>
+            <td style="color: #8b949e; padding: 6px;">AI Safety Researcher</td>
+          </tr>
+          <tr>
+            <td style="color: #bc8cff; font-weight: bold; padding: 6px;">Systems & Low-Level Sec</td>
+            <td style="padding: 6px;">
+              <code>Linux/eBPF</code> <code>RevEng</code> <code>BinExp</code> <code>Rust Safety</code>
+            </td>
+            <td align="center" style="padding: 6px;">
+              <span style="background: #8957e522; color: #bc8cff; border: 1px solid #8957e544; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Core Focus</span>
+            </td>
+            <td style="color: #8b949e; padding: 6px;">Systems Engineer</td>
+          </tr>
+          <tr>
+            <td style="color: #3fb950; font-weight: bold; padding: 6px;">Applied Cryptography</td>
+            <td style="padding: 6px;">
+              <code>PQC (ML-KEM)</code> <code>ZKP (SNARKs)</code> <code>E2EE / QUIC</code>
+            </td>
+            <td align="center" style="padding: 6px;">
+              <span style="background: #23863622; color: #3fb950; border: 1px solid #23863644; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Active R&D</span>
+            </td>
+            <td style="color: #8b949e; padding: 6px;">Applied Cryptographer</td>
+          </tr>
+          <tr>
+            <td style="color: #d29922; font-weight: bold; padding: 6px;">DFIR & Digital Forensics</td>
+            <td style="padding: 6px;">
+              <code>Volatility 3</code> <code>NTFS/EXT4</code> <code>Rust/Go Tools</code>
+            </td>
+            <td align="center" style="padding: 6px;">
+              <span style="background: #9e6a0322; color: #d29922; border: 1px solid #9e6a0344; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Target</span>
+            </td>
+            <td style="color: #8b949e; padding: 6px;">DFIR Analyst</td>
+          </tr>
+          <tr>
+            <td style="color: #f778ba; font-weight: bold; padding: 6px;">Cloud Native & DevSecOps</td>
+            <td style="padding: 6px;">
+              <code>Container Sec</code> <code>K8s Policies</code> <code>Falco eBPF</code>
+            </td>
+            <td align="center" style="padding: 6px;">
+              <span style="background: #bf398922; color: #f778ba; border: 1px solid #bf398944; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Expanding</span>
+            </td>
+            <td style="color: #8b949e; padding: 6px;">DevSecOps Engineer</td>
+          </tr>
+          <tr>
+            <td style="color: #79c0ff; font-weight: bold; padding: 6px;">Embedded & Hardware Sec</td>
+            <td style="padding: 6px;">
+              <code>ESP32 / RISC-V</code> <code>Secure Boot</code> <code>Side-Channel</code>
+            </td>
+            <td align="center" style="padding: 6px;">
+              <span style="background: #388bfd22; color: #79c0ff; border: 1px solid #388bfd44; border-radius: 6px; padding: 2px 4px; font-size: 10px;">Exploratory</span>
+            </td>
+            <td style="color: #8b949e; padding: 6px;">Embedded Sec Engineer</td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
+  </div>
+</div>
 
 <details>
-  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b>⋆ About Me ⋆</b></summary>
-  <br />
-
-<details open>
-  <summary><b>
-          01. Identity</b></summary>
-  <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 12px;">
-    <thead>
-      <tr style="background-color: #161b22; text-align: left;">
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 30%; color: #8b949e; font-weight: bold;">Headline</td>
-        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">Security Systems & AI/ML Engineer // Future Computer Scientist</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">Age</td>
-        <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">18+</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px 14px; color: #8b949e; font-weight: bold;">Gender</td>
-        <td style="padding: 10px 14px; color: #c9d1d9;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1280px-Nonbinary_flag.svg.png" alt="Non-binary" height="12" style="vertical-align: middle;" /> Non-binary
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
----
-
-<details style="margin-bottom: 12px;">
-  <summary style="cursor: pointer; color: #bc8cff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
-    <b>02. Personality Profiles</b>
-  </summary>
-  <table style="width: 100%; border-collapse: separate; border-spacing: 8px; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; margin-top: 8px;">
-    <tbody>
-      <tr>
-        <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
-          <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>MBTI</b></div>
-          <div style="margin-bottom: 8px;">
-            <span style="background-color: #332354; color: #d2a8ff; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #6e40c9;">INFJ-T</span>
-            <strong style="margin-left: 4px;">Advocate</strong>
-          </div>
-          <img src="https://modernhadassah.com/wp-content/uploads/2018/10/img_1349.jpg?w=640" alt="INFJ Advocate" style="width: 100%; height: 110px; object-fit: contain; border-radius: 6px; border: 1px solid #30363d; display: block;" />
-        </td>
-        <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
-          <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Enneagram</b></div>
-          <div style="margin-bottom: 8px;">
-            <span style="background-color: #1f3543; color: #79c0ff; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #1f6beb;">4w5</span>
-            <strong style="margin-left: 4px;">The Individualist</strong>
-          </div>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQariveQqw6zfYGS92D3mm4E7BuMoZPZ0pyrDle0Oc9Mg&s=10" alt="Enneagram 4w5" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
-          <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Socionics</b></div>
-          <div style="margin-bottom: 8px;">
-            <span style="background-color: #1a3a2a; color: #56d364; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #238636;">EII</span>
-            <strong style="margin-left: 4px;">Dostoevsky</strong>
-          </div>
-          <img src="https://hitostat.com/assets/diagnoses/socionics/types/en/eii/horizontal-d80af4ea5342e009a17aa22cb942249e8ff15b3c89e352b4e31e9b5269e00fee.png" alt="Socionics EII" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
-        </td>
-        <td style="width: 50%; padding: 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; vertical-align: top;">
-          <div style="color: #8b949e; font-weight: bold; margin-bottom: 6px;"><b>Attitudinal Psyche</b></div>
-          <div style="margin-bottom: 8px;">
-            <span style="background-color: #3d2c1d; color: #e3b341; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; border: 1px solid #9e6a03;">ELVF</span>
-            <strong style="margin-left: 4px;">Andersen</strong>
-          </div>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENtwze_VnJT_kaUeRnpIOCH9SsH2LtAZaVLHymvxzhw6RW4-6V-OVOvk&s=10" alt="Attitudinal Psyche ELVF" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d; display: block;" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
----
-
-  <details style="margin-bottom: 12px;">
-    <summary style="cursor: pointer; color: #3fb950; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
-      <b> 03. Interests & Gaming</b>
-    </summary>
-    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px;">
-      <tbody>
-        <tr>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; width: 30%; color: #8b949e; font-weight: bold;">
-            <img src="https://cdn-icons-png.flaticon.com/128/3637/3637390.png" height="14" style="vertical-align: middle;" /> Chess
-          </td>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">2400-2500 Elo</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
-            <img src="https://cdn-icons-png.flaticon.com/128/18975/18975206.png" height="14" style="vertical-align: middle;" /> Shogi
-          </td>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">5 Kyu</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #8b949e; font-weight: bold;">
-            <img src="https://cdn-icons-png.flaticon.com/128/15427/15427945.png" height="14" style="vertical-align: middle;" /> Media
-          </td>
-          <td style="padding: 8px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">Anime & Manga/Manhwa</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px 14px; color: #8b949e; font-weight: bold;">
-            <img src="https://cdn-icons-png.flaticon.com/128/706/706023.png" height="14" style="vertical-align: middle;" /> Gaming
-          </td>
-          <td style="padding: 8px 14px; color: #c9d1d9;">Competitive (CS2, LoL etc.) & Gacha (Hoyoverse, Wuwa etc.)</td>
-        </tr>
-      </tbody>
-    </table>
-  </details>
-
----
-
-  <details>
-    <summary style="cursor: pointer; color: #d29922; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0;">
-      <b>04. Languages</b>
-    </summary>
-    <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-top: 8px;">
-      <tbody>
-        <tr>
-          <td style="padding: 12px 14px; text-align: center; line-height: 1.8;">
-            <img src="https://flagcdn.com/20x15/gb.png" height="12" style="vertical-align: middle;" /> English &nbsp;•&nbsp;
-            <img src="https://flagcdn.com/20x15/ru.png" height="12" style="vertical-align: middle;" /> Russian &nbsp;•&nbsp;
-            <img src="https://flagcdn.com/20x15/de.png" height="12" style="vertical-align: middle;" /> German &nbsp;•&nbsp;
-            <img src="https://flagcdn.com/20x15/fr.png" height="12" style="vertical-align: middle;" /> French &nbsp;•&nbsp;
-            <img src="https://flagcdn.com/20x15/es.png" height="12" style="vertical-align: middle;" /> Spanish
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </details>
-</details>
-
-<details>
-  <summary><img src="https://cdn.simpleicons.org/target/ffffff" width="20" height="20" style="vertical-align: middle;"/><b> ⋆ Focus Areas & Career Targets ⋆</b></summary>
-  <br />
-
-  <table width="100%">
-    <thead>
-      <tr style="background-color: #161b22; color: #f0f6fc;">
-        <th width="22%" align="left">Domain</th>
-        <th width="48%" align="left">Focus Areas & Technologies</th>
-        <th width="15%" align="center">Status</th>
-        <th width="15%" align="left">Target Role</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="color: #58a6ff; font-weight: bold;">Mathematics & AI Safety</td>
-        <td>
-          <code>Calc / LinAlg / Prob</code> <code>NN Theory</code> <code>Mechanistic Interpretability</code><br />
-          <code>LLM Guardrails & Robustness</code> <code>Adversarial Attacks</code> <code>Agent Safety</code>
-        </td>
-        <td align="center">
-          <span style="background: #1f6feb22; color: #58a6ff; border: 1px solid #1f6feb44; border-radius: 6px; padding: 2px 6px; font-size: 11px;">In Progress</span>
-        </td>
-        <td style="color: #8b949e;">AI Safety Researcher</td>
-      </tr>
-      <tr>
-        <td style="color: #bc8cff; font-weight: bold;">Systems & Low-Level Sec</td>
-        <td>
-          <code>Linux Kernel & eBPF</code> <code>Reverse Engineering</code> <code>Binary Exploitation</code><br />
-          <code>Memory Safety (Rust)</code> <code>Polyhedral Compilers</code> <code>Bare-Metal OS</code>
-        </td>
-        <td align="center">
-          <span style="background: #8957e522; color: #bc8cff; border: 1px solid #8957e544; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Core Focus</span>
-        </td>
-        <td style="color: #8b949e;">Systems Engineer</td>
-      </tr>
-      <tr>
-        <td style="color: #3fb950; font-weight: bold;">Applied Cryptography</td>
-        <td>
-          <code>Post-Quantum (ML-KEM/Kyber)</code> <code>Zero-Knowledge (ZK-SNARKs)</code><br />
-          <code>Lattice-Based Standards</code> <code>E2EE / QUIC Protocols</code> <code>Formal Verification</code>
-        </td>
-        <td align="center">
-          <span style="background: #23863622; color: #3fb950; border: 1px solid #23863644; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Active R&D</span>
-        </td>
-        <td style="color: #8b949e;">Applied Cryptographer</td>
-      </tr>
-      <tr>
-        <td style="color: #d29922; font-weight: bold;">DFIR & Digital Forensics</td>
-        <td>
-          <code>Memory Forensics (Volatility 3)</code> <code>NTFS/EXT4 Artifact Carving</code><br />
-          <code>High-Perf Security Tooling (Rust/Go)</code> <code>Log Triage & Timelines</code>
-        </td>
-        <td align="center">
-          <span style="background: #9e6a0322; color: #d29922; border: 1px solid #9e6a0344; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Career Target</span>
-        </td>
-        <td style="color: #8b949e;">DFIR / Cybercrime Analyst</td>
-      </tr>
-      <tr>
-        <td style="color: #f778ba; font-weight: bold;">Cloud Native & DevSecOps</td>
-        <td>
-          <code>Container Runtime Security</code> <code>K8s Policy Enforcement</code><br />
-          <code>CI/CD Hardening & SCA</code> <code>eBPF Runtime Audit (Falco)</code>
-        </td>
-        <td align="center">
-          <span style="background: #bf398922; color: #f778ba; border: 1px solid #bf398944; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Expanding</span>
-        </td>
-        <td style="color: #8b949e;">DevSecOps Engineer</td>
-      </tr>
-      <tr>
-        <td style="color: #79c0ff; font-weight: bold;">Embedded & Hardware Sec</td>
-        <td>
-          <code>ESP32 / RISC-V Firmware</code> <code>Secure Boot & TEE</code><br />
-          <code>Side-Channel Analysis</code> <code>Bare-Metal Exploitation</code>
-        </td>
-        <td align="center">
-          <span style="background: #388bfd22; color: #79c0ff; border: 1px solid #388bfd44; border-radius: 6px; padding: 2px 6px; font-size: 11px;">Exploratory</span>
-        </td>
-        <td style="color: #8b949e;">Embedded Security Engineer</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<details>
-<summary><img src="https://cdn.simpleicons.org/gitbook/ffffff" width="20" height="20" style="vertical-align: middle;"/> <b>⋆ Academic & Research Roadmap ⋆</b></summary>
+<summary><img src="https://cdn.simpleicons.org/gitbook/ffffff" width="20" height="20" style="vertical-align: middle;"/> <b>Research Roadmap</b></summary>
 <br>
 
 <details>
@@ -480,7 +459,7 @@
 
 
 <details>
-  <summary><img src="https://cdn.simpleicons.org/securityscorecard/ffffff" width="24" height="24" style="vertical-align: middle;" /> <b>⋆ CyberSecurity Toolchain ⋆</b></summary>
+  <summary><img src="https://cdn.simpleicons.org/securityscorecard/ffffff" width="24" height="24" style="vertical-align: middle;" /> <b>Toolchain</b></summary>
   <br />
 
   <table width="100%">
@@ -889,10 +868,10 @@
 </details>
 
 <details>
-  <summary><img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="24" style="vertical-align: middle;" /> <b>⋆ Activity & Telemetry ⋆</b></summary>
+  <summary><img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="24" style="vertical-align: middle;" /> <b>Telemetry</b></summary>
   <br />
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin-bottom: 12px;">
-    <details>
+   <details>
       <summary>
         <img src="https://cdn.simpleicons.org/github/ffffff" width="16" height="16" valign="middle" alt="GitHub" /> <b>GitHub & Code Activity</b>
       </summary>
@@ -906,13 +885,21 @@
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsventie&theme=tokyonight&utcOffset=5" alt="Productive Time" width="100%" />
           </td>
         </tr>
+        <tr>
+          <td align="center" width="50%" valign="top">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsventie&theme=github_dark" alt="Repos Per Language" width="100%" />
+          </td>
+          <td align="center" width="50%" valign="top">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsventie&theme=github_dark" alt="Most Commit Language" width="100%" />
+          </td>
+        </tr>
       </table>
       <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsventie&theme=tokyonight" alt="Profile Details" width="75%" />
       </p>
       <p align="center">
-<img src="https://github-trophies.vercel.app/?username=itsventie&theme=radical&no-frame=true&column=7" alt="GitHub Profile Trophy" />
-</p>
+        <img src="https://github-trophies.vercel.app/?username=itsventie&theme=radical&no-frame=true&column=7" alt="GitHub Profile Trophy" />
+      </p>
     </details>
   </div>
 
@@ -1015,48 +1002,57 @@
 
 ---
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Category</th>
-      <th align="left">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left"><b>Programming languages</b></td>
-      <td align="left">
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/rust/ffffff" width="36" height="36" alt="Rust" /></td></tr>
-            <tr><td align="center"><sub>Rust</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/cplusplus" width="36" height="36" alt="C++" /></td></tr>
-            <tr><td align="center"><sub>C++</sub></td></tr>
-          </table>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://cdn.simpleicons.org/go" width="36" height="36" alt="Go" /></td></tr>
-            <tr><td align="center"><sub>Go</sub></td></tr>
-          </table>
-        </a>
-         <a href="#" style="text-decoration:none">
-          <table display="inline" align="left">
-            <tr><td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
-            <tr><td align="center"><sub>Python</sub></td></tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-  </tbody>
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" width="80%">
+      <table>
+        <thead>
+          <tr>
+            <th align="left">Category</th>
+            <th align="left">Technologies</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left"><b>Programming languages</b></td>
+            <td align="left">
+              <a href="#" style="text-decoration:none">
+                <table align="left">
+                  <tr><td align="center"><img src="https://cdn.simpleicons.org/rust/ffffff" width="36" height="36" alt="Rust" /></td></tr>
+                  <tr><td align="center"><sub>Rust</sub></td></tr>
+                </table>
+              </a>
+              <a href="#" style="text-decoration:none">
+                <table align="left">
+                  <tr><td align="center"><img src="https://cdn.simpleicons.org/cplusplus" width="36" height="36" alt="C++" /></td></tr>
+                  <tr><td align="center"><sub>C++</sub></td></tr>
+                </table>
+              </a>
+              <a href="#" style="text-decoration:none">
+                <table align="left">
+                  <tr><td align="center"><img src="https://cdn.simpleicons.org/go" width="36" height="36" alt="Go" /></td></tr>
+                  <tr><td align="center"><sub>Go</sub></td></tr>
+                </table>
+              </a>
+              <a href="#" style="text-decoration:none">
+                <table align="left">
+                  <tr><td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
+                  <tr><td align="center"><sub>Python</sub></td></tr>
+                </table>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td align="center" valign="middle" width="20%">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdxMWluZWEybTRycHl2YW54cnlnaGhqempjbTE1Y3A2MHQyMmx6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO9TEHqEGzWiQ/giphy.gif" width="160" alt="meow gif" />
+    </td>
+  </tr>
 </table>
 
 <details>
-<summary><b> ⋆ Extended Toolchain & Infrastructure ⋆</b></summary>
+<summary><b> Extended Toolchain</b></summary>
 <br>
 
 <table>
@@ -1178,19 +1174,6 @@
 
 ---
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsventie&theme=github_dark" alt="Repos Per Language" width="100%" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsventie&theme=github_dark" alt="Most Commit Language" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <a href="https://ventie.dev" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="22" height="22" alt="Website" /></a>
   &nbsp;•&nbsp;
@@ -1213,10 +1196,4 @@
   <a href="https://codeforces.com/profile/ventie" target="_blank"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="22" height="22" alt="Codeforces" /></a>
   &nbsp;•&nbsp;
   <a href="https://projecteuler.net/profile/ventie.png" target="_blank"><img src="https://favicon.pub/api/projecteuler.com?s=128" width="22" height="22" alt="Project Euler" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdxMWluZWEybTRycHl2YW54cnlnaGhqempjbTE1Y3A2MHQyMmx6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO9TEHqEGzWiQ/giphy.gif" width="160" alt="meow gif" />
 </p>
