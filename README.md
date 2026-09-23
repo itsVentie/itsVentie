@@ -159,9 +159,8 @@
   <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; table-layout: fixed;">
     <thead>
       <tr style="background-color: #161b22; color: #8b949e; text-transform: uppercase; font-size: 10px; letter-spacing: 0.5px; border-bottom: 1px solid #30363d;">
-        <th width="30%" align="left" style="padding: 10px 12px; border-bottom: 1px solid #30363d;">Life Milestone / Track</th>
-        <th width="54%" align="left" style="padding: 10px 12px; border-bottom: 1px solid #30363d;">Key Objectives & Milestones</th>
-        <th width="16%" align="center" style="padding: 10px 12px; border-bottom: 1px solid #30363d;">Priority</th>
+        <th width="35%" align="left" style="padding: 10px 12px; border-bottom: 1px solid #30363d;">Life Milestone / Track</th>
+        <th width="65%" align="left" style="padding: 10px 12px; border-bottom: 1px solid #30363d;">Key Objectives & Milestones</th>
       </tr>
     </thead>
     <tbody>
@@ -175,9 +174,6 @@
           ☐ Join state cyber defense / Cyberpol digital investigation units<br />
           ☐ Obtain foundational industry certifications (OSCP / CISSP)
         </td>
-        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
-          <span style="background: rgba(137, 87, 229, 0.15); color: #d2a8ff; border: 1px solid rgba(137, 87, 229, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGHEST</span>
-        </td>
       </tr>
       <tr>
         <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
@@ -189,9 +185,6 @@
           ☑ Receive first Bug Bounty payout on a major platform<br />
           ☐ Reverse-engineer target binaries & write custom zero-day exploits<br />
           ☑ Author and publish an original security research whitepaper
-        </td>
-        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
-          <span style="background: rgba(35, 134, 54, 0.15); color: #56d364; border: 1px solid rgba(35, 134, 54, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGHEST</span>
         </td>
       </tr>
       <tr>
@@ -205,9 +198,6 @@
           ☐ Develop a production-grade system application in Rust<br />
           ☐ Implement Post-Quantum Cryptography & ZKP algorithms from scratch
         </td>
-        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
-          <span style="background: rgba(31, 111, 235, 0.15); color: #79c0ff; border: 1px solid rgba(31, 111, 235, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGH</span>
-        </td>
       </tr>
       <tr>
         <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
@@ -219,9 +209,6 @@
           ☐ Master Mechanistic Interpretability & circuit analysis<br />
           ☐ Develop custom CUDA / Triton kernels for fast inference<br />
           ☐ Build autonomous AI agents with execution guardrails
-        </td>
-        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
-          <span style="background: rgba(31, 111, 235, 0.15); color: #79c0ff; border: 1px solid rgba(31, 111, 235, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGH</span>
         </td>
       </tr>
       <tr>
@@ -235,9 +222,6 @@
           ☐ Master ZK-Rollups, SNARKs & Layer-2 scaling architecture<br />
           ☐ Build a decentralized dApp / protocol from scratch
         </td>
-        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
-          <span style="background: rgba(35, 134, 54, 0.15); color: #56d364; border: 1px solid rgba(35, 134, 54, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGH</span>
-        </td>
       </tr>
       <tr>
         <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
@@ -250,9 +234,6 @@
           ☐ Build a profitable automated trading system / bot<br />
           ☑ Achieve full personal financial independence
         </td>
-        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
-          <span style="background: rgba(158, 106, 3, 0.15); color: #e3b341; border: 1px solid rgba(158, 106, 3, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">HIGH</span>
-        </td>
       </tr>
       <tr>
         <td style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
@@ -264,9 +245,6 @@
           ☐ Achieve 2500+ ELO rating in Chess (Chess.com / Lichess)<br />
           ☐ Win or place in top teams at major competitive CTF events
         </td>
-        <td align="center" style="padding: 12px; border-bottom: 1px solid #21262d; vertical-align: top;">
-          <span style="background: rgba(191, 57, 137, 0.15); color: #f778ba; border: 1px solid rgba(191, 57, 137, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">MEDIUM</span>
-        </td>
       </tr>
       <tr>
         <td style="padding: 12px; vertical-align: top;">
@@ -277,9 +255,6 @@
           ☐ Build a high-performance custom workstation setup<br />
           ☐ Build an open-source tool with 1,000+ GitHub stars<br />
           ☐ Maintain peak physical health & disciplined daily routine
-        </td>
-        <td align="center" style="padding: 12px; vertical-align: top;">
-          <span style="background: rgba(56, 139, 253, 0.15); color: #79c0ff; border: 1px solid rgba(56, 139, 253, 0.4); border-radius: 12px; padding: 3px 8px; font-size: 10px; font-weight: 600;">MEDIUM</span>
         </td>
       </tr>
     </tbody>
