@@ -8,20 +8,17 @@
     <td width="5%"></td>
     <td align="left" valign="middle" width="50%">
      <a href="https://www.last.fm/user/ventieravelle" target="_blank">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=ventieravelle&theme=dark&width=480&count=4" alt="Last.fm Now Playing" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=ventieravelle&theme=dark&width=480&count=3" alt="Last.fm Now Playing" />
 </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
+      <p align="center">
 <a href="https://wakatime.com/@0be43041-4b4c-455a-989e-bc8a809cf10e">
     <img src="https://wakatime.com/badge/user/0be43041-4b4c-455a-989e-bc8a809cf10e.svg?style=flat-square" alt="Total time coded" />
   </a>
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsventie%2Fitsventie&label=visitors&icon=github&color=%23f5c2e7" alt="Visitors Counter" />
 </p>
-
----
+    </td>
+  </tr>
+</table>
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin-bottom: 16px;">
   <div style="flex: 1; min-width: 320px;">
@@ -1177,8 +1174,6 @@
   </div>
 </details>
 
-
----
 
 <table border="0" width="100%">
   <tr>
