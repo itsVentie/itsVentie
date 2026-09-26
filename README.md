@@ -23,7 +23,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin-bottom: 16px;">
   <div style="flex: 1; min-width: 320px;">
     <details>
-      <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b> About Me</b></summary>
+      <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b>About Me</b></summary>
       <br />
    <details open style="margin-bottom: 12px;">
   <summary style="cursor: pointer; color: #58a6ff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0; outline: none;">
@@ -36,7 +36,7 @@
           <img src="https://cdn.simpleicons.org/target/8b949e" height="14" style="vertical-align: middle; margin-right: 6px;" /> Headline
         </td>
         <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #58a6ff; font-weight: bold;">
-          Security Systems Engineer <span style="color: #8b949e; font-weight: normal;">// Future Computer Scientist</span>
+          Security Systems Engineer <span style="color: #8b949e; font-weight: normal;">// Computer Scientist</span>
         </td>
       </tr>
       <tr>
