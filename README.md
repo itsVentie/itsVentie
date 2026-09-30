@@ -1323,12 +1323,6 @@
               </a>
               <a href="#" style="text-decoration:none">
                 <table align="left">
-                  <tr><td align="center"><img src="https://cdn.simpleicons.org/go" width="36" height="36" alt="Go" /></td></tr>
-                  <tr><td align="center"><sub>Go</sub></td></tr>
-                </table>
-              </a>
-              <a href="#" style="text-decoration:none">
-                <table align="left">
                   <tr><td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
                   <tr><td align="center"><sub>Python</sub></td></tr>
                 </table>
