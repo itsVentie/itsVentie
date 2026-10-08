@@ -414,14 +414,14 @@
         <tr>
           <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">01. Discrete Math & Logic</td>
           <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
-            ☐ Propositional Logic & Truth Tables<br />
+            ☑ Propositional Logic & Truth Tables<br />
             ☐ First-Order Predicate Calculus & Quantifiers<br />
             ☐ Proof by Direct Induction & Strong Induction<br />
             ☐ Structural Induction on Algebraic Data Types<br />
             ☐ Proof by Contradiction & Contraposition<br />
-            ☐ Set Theory, Power Sets & Cartesian Products<br />
+            ☑ Set Theory, Power Sets & Cartesian Products<br />
             ☐ Equivalence Relations & Partial Orderings (Posets)<br />
-            ☐ Combinatorics: Permutations & Combinations<br />
+            ☑ Combinatorics: Permutations & Combinations<br />
             ☐ Pigeonhole Principle & Inclusion-Exclusion<br />
             ☐ Graph Theory: Trees, Cycles & Eulerian/Hamiltonian Paths<br />
             ☐ Planar Graphs, Graph Coloring & Isomorphisms
@@ -443,7 +443,7 @@
         <tr>
           <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; width: 28%; color: #8b949e; font-weight: bold;">03. Systems Programming</td>
           <td style="padding: 10px 14px; border-bottom: 1px solid #21262d; color: #c9d1d9;">
-            ☐ Manual Memory: `malloc`, `free`, `realloc`, `calloc`<br />
+            ☑ Manual Memory: `malloc`, `free`, `realloc`, `calloc`<br />
             ☐ Pointer Arithmetic, Void Pointers & Type Casting<br />
             ☐ Struct Alignment, Packing & Padding Rules<br />
             ☐ C++ Systems Foundations: RAII & Smart Pointers<br />
@@ -464,7 +464,7 @@
             ☐ Mutexes, Spinlocks & Read-Write Locks<br />
             ☐ Counting Semaphores & Condition Variables<br />
             ☐ POSIX System Calls & File Descriptor Tables<br />
-            ☐ OSI 7-Layer & TCP/IP Protocol Stacks<br />
+            ☑ OSI 7-Layer & TCP/IP Protocol Stacks<br />
             ☐ Berkeley Sockets: TCP vs UDP Implementation<br />
             ☐ Non-blocking I/O & Socket Multiplexing Primitives
           </td>
