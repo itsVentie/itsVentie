@@ -402,7 +402,7 @@
 </details>
 
 <details>
-  <summary> <b> Research Roadmap</b></summary>
+  <summary><b>Research Roadmap</b></summary>
   <br />
 
   <details style="margin-bottom: 12px;">
