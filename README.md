@@ -23,7 +23,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin-bottom: 16px;">
   <div style="flex: 1; min-width: 320px;">
     <details>
-      <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" style="vertical-align: middle;" /> <b>About Me</b></summary>
+      <summary><b>About Me</b></summary>
       <br />
    <details open style="margin-bottom: 12px;">
   <summary style="cursor: pointer; color: #58a6ff; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; padding: 6px 0; outline: none;">
@@ -270,7 +270,7 @@
   <div style="flex: 1; min-width: 320px;">
 
 <details>
-  <summary><img src="https://cdn.simpleicons.org/target/ffffff" width="18" height="18" style="vertical-align: middle; margin-right: 6px;"/> <b>Life Goals</b></summary>
+  <summary><b>Life Goals</b></summary>
   <br />
 
   <table style="width: 100%; border-collapse: separate; border-spacing: 0; background-color: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; table-layout: fixed;">
@@ -402,7 +402,7 @@
 </details>
 
 <details>
-  <summary><img src="https://cdn.simpleicons.org/gitbook/ffffff" width="20" height="20" style="vertical-align: middle;"/> <b> Research Roadmap</b></summary>
+  <summary> <b> Research Roadmap</b></summary>
   <br />
 
   <details style="margin-bottom: 12px;">
@@ -754,7 +754,7 @@
 </details>
 
 <details>
-  <summary><img src="https://cdn.simpleicons.org/securityscorecard/ffffff" width="24" height="24" style="vertical-align: middle;" /> <b>Toolchain</b></summary>
+  <summary><b>Toolchain</b></summary>
   <br />
 
   <table width="100%">
@@ -1163,7 +1163,7 @@
 </details>
 
 <details>
-  <summary><img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="24" style="vertical-align: middle;" /> <b>Telemetry</b></summary>
+  <summary><b>Telemetry</b></summary>
   <br />
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin-bottom: 12px;">
    <details>
@@ -1295,54 +1295,38 @@
 </details>
 
 
-<table border="0" width="100%">
-  <tr>
-    <td valign="top" width="80%">
-      <table>
-        <thead>
-          <tr>
-            <th align="left">Category</th>
-            <th align="left">Technologies</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="left"><b>Programming languages</b></td>
-            <td align="left">
-              <a href="#" style="text-decoration:none">
-                <table align="left">
-                  <tr><td align="center"><img src="https://cdn.simpleicons.org/rust/ffffff" width="36" height="36" alt="Rust" /></td></tr>
-                  <tr><td align="center"><sub>Rust</sub></td></tr>
-                </table>
-              </a>
-              <a href="#" style="text-decoration:none">
-                <table align="left">
-                  <tr><td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
-                  <tr><td align="center"><sub>Python</sub></td></tr>
-                </table>
-              </a>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td align="center" valign="middle" width="20%">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdxMWluZWEybTRycHl2YW54cnlnaGhqempjbTE1Y3A2MHQyMmx6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO9TEHqEGzWiQ/giphy.gif" width="160" alt="meow gif" />
-    </td>
-  </tr>
+<table border="0" width="100%" style="border-collapse: collapse; border: none;">
+  <td valign="middle" width="80%" style="border: none; padding: 0;">
+    <table align="left" style="border-collapse: collapse; border: none;">
+      <tr>
+        <td align="left" style="border: none; padding-right: 20px;">
+          <b>Programming languages</b>
+        </td>
+        <td align="left" style="border: none;">
+          <a href="#" style="text-decoration:none; display: inline-block; text-align: center; margin-right: 15px;">
+            <table align="left" style="border-collapse: collapse; border: none;">
+              <tr style="border: none;"><td align="center" style="border: none; padding: 0;"><img src="https://simpleicons.org" width="36" height="36" alt="Rust" /></td></tr>
+              <tr style="border: none;"><td align="center" style="border: none; padding: 4px 0 0 0;"><sub>Rust</sub></td></tr>
+            </table>
+          </a>
+          <a href="#" style="text-decoration:none; display: inline-block; text-align: center;">
+            <table align="left" style="border-collapse: collapse; border: none;">
+              <tr style="border: none;"><td align="center" style="border: none; padding: 0;"><img src="https://vercel.app" width="36" height="36" alt="Python" /></td></tr>
+              <tr style="border: none;"><td align="center" style="border: none; padding: 4px 0 0 0;"><sub>Python</sub></td></tr>
+            </table>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
 </table>
+
 
 <details>
 <summary><b> Extended Toolchain</b></summary>
 <br>
 
 <table>
-  <thead>
-    <tr>
-      <th align="left">Category</th>
-      <th align="left">Technologies</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="left"><b>AI / ML & LLM Ops</b></td>
