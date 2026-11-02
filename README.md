@@ -1436,29 +1436,3 @@
   </tbody>
 </table>
 </details>
-
----
-
-<p align="center">
-  <a href="https://ventie.dev" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="22" height="22" alt="Website" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://t.me/ventie" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="22" height="22" alt="Telegram" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://keybase.io/ventie" target="_blank"><img src="https://cdn.simpleicons.org/keybase/33A0FF" width="22" height="22" alt="Keybase" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://x.com/itsVentie" target="_blank"><img src="https://cdn.simpleicons.org/x/ffffff" width="22" height="22" alt="X" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://app.hackthebox.com/users/2519629" target="_blank"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="22" height="22" alt="HackTheBox" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://tryhackme.com/p/Ventie" target="_blank"><img src="https://cdn.simpleicons.org/tryhackme/ffffff" width="22" height="22" alt="TryHackMe" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://huggingface.co/itsVentie" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="22" height="22" alt="Hugging Face" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.kaggle.com/ventieravelle" target="_blank"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="22" height="22" alt="Kaggle" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://leetcode.com/u/ventie/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" height="22" alt="LeetCode" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://codeforces.com/profile/ventie" target="_blank"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="22" height="22" alt="Codeforces" /></a>
-  &nbsp;•&nbsp;
-  <a href="https://projecteuler.net/profile/ventie.png" target="_blank"><img src="https://favicon.pub/api/projecteuler.com?s=128" width="22" height="22" alt="Project Euler" /></a>
-</p>
