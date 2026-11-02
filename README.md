@@ -1305,13 +1305,13 @@
         <td align="left" style="border: none;">
           <a href="#" style="text-decoration:none; display: inline-block; text-align: center; margin-right: 15px;">
             <table align="left" style="border-collapse: collapse; border: none;">
-              <tr style="border: none;"><td align="center" style="border: none; padding: 0;"><img src="https://simpleicons.org" width="36" height="36" alt="Rust" /></td></tr>
+              <tr style="border: none;"><td align="center" style="border: none; padding: 0;"><img src="https://cdn.simpleicons.org/rust/ffffff" width="36" height="36" alt="Rust" /></td></tr>
               <tr style="border: none;"><td align="center" style="border: none; padding: 4px 0 0 0;"><sub>Rust</sub></td></tr>
             </table>
           </a>
           <a href="#" style="text-decoration:none; display: inline-block; text-align: center;">
             <table align="left" style="border-collapse: collapse; border: none;">
-              <tr style="border: none;"><td align="center" style="border: none; padding: 0;"><img src="https://vercel.app" width="36" height="36" alt="Python" /></td></tr>
+              <tr style="border: none;"><td align="center" style="border: none; padding: 0;"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
               <tr style="border: none;"><td align="center" style="border: none; padding: 4px 0 0 0;"><sub>Python</sub></td></tr>
             </table>
           </a>
@@ -1320,7 +1320,6 @@
     </table>
   </td>
 </table>
-
 
 <details>
 <summary><b> Extended Toolchain</b></summary>
