@@ -2,7 +2,7 @@
   <tr>
     <td align="center" valign="middle" width="45%">
       <a href="https://ventie.dev">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR0cnM1YnhvMGVqa293bHA1dzZxY3Y0ejN2NjVvMm1tbHlqYnl0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F6OBezFrcGhDFsrQXQ/200.webp" alt="prana system error optimized webp loop" width="100%" style="border-radius: 8px;" />
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZjMW9qb2Y0aHV4NjFmb2Vqc2d1cmhvejJjaTByeDR2OWpvdGo3byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sNUWF7fAUP2q4/200.webp" alt="prana system error optimized  webp loop" width="100%" style="border-radius: 8px;" />
       </a>
     </td>
     <td width="5%"></td>
