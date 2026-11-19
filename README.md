@@ -1205,61 +1205,14 @@
       </summary>
       <br />
       <p align="center">
-        <a href="https://tryhackme.com/p/ventie" target="_blank">
-          <img src="https://tryhackme-badges.s3.amazonaws.com/ventie.png" alt="TryHackMe Badge" />
-        </a>
         <a href="https://app.hackthebox.com/users/2519629">
   <img src="https://www.hackthebox.eu/badge/image/2519629" alt="Hack The Box Badge" />
 </a>
-      </p>
-      <p align="center">
         <a href="https://cyberdefenders.org/p/ventie" target="_blank">
         <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/ventie.png" width="300" />
         </a>
-        <a href="https://app.letsdefend.io/user/Ventie" target="_blank">
-    <img src="https://letsdefend-badge.vercel.app/api?username=Ventie" width="300" alt="LetsDefend Profile" />
-  </a>
-      </p>
-      <p align="center">
-        <a href="https://app.hackthebox.com/profile/itsventie" target="_blank">
-          <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox Profile" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Security%20Research-eBPF%20%2F%20DFIR-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Security Domain" />
-        </a>
       </p>
     </details>
-  </div>
-
-  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin-bottom: 12px;">
-    <details>
-  <summary>
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="16" height="16" valign="middle" alt="AI" /> <b>AI, Machine Learning & Data</b>
-  </summary>
-  <br />
-
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://www.kaggle.com/itsventie" target="_blank" style="text-decoration: none;">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ventieravelle/competition/dark" alt="Kaggle Competitions" />
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ventieravelle/dataset/dark" alt="Kaggle Datasets" />
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ventieravelle/notebook/dark" alt="Kaggle Notebooks" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://huggingface.co/itsventie" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Hugging%20Face-itsventie-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF Profile" />
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Models&query=$.length&url=https://huggingface.co/api/models?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Models" />
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Datasets&query=$.length&url=https://huggingface.co/api/datasets?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Datasets" />
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Spaces&query=$.length&url=https://huggingface.co/api/spaces?author=itsventie&logo=huggingface&logoColor=black&color=21262d" alt="HF Spaces" />
-      </a>
-    </td>
-  </tr>
-</table>
-</details>
   </div>
 
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 12px;">
@@ -1311,7 +1264,7 @@
           </a>
           <a href="#" style="text-decoration:none; display: inline-block; text-align: center;">
             <table align="left" style="border-collapse: collapse; border: none;">
-              <tr style="border: none;"><td align="center" style="border: none; padding: 0;"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" /></td></tr>
+              <tr style="border: none;"><td align="center" style="border: none; padding: 0;"><img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="36" height="36" alt="Python" /></td></tr>
               <tr style="border: none;"><td align="center" style="border: none; padding: 4px 0 0 0;"><sub>Python</sub></td></tr>
             </table>
           </a>
